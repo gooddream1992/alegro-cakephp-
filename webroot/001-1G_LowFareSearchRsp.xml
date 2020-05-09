@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<SOAP:Envelope xmlns:SOAP="http://schemas.xmlsoap.org/soap/envelope/">
+  <SOAP:Body>
+    <SOAP:Fault>
+      <faultcode>Server.ValidationException</faultcode>
+      <faultstring>Preferred date-time is before the current departure city date-time.</faultstring>
+      <detail>
+        <common_v42_0:ErrorInfo xmlns:common_v42_0="http://www.travelport.com/schema/common_v42_0">
+          <common_v42_0:Code>3003</common_v42_0:Code>
+          <common_v42_0:Service>AIRSEARCH_SERVICE</common_v42_0:Service>
+          <common_v42_0:Type>ValidationException</common_v42_0:Type>
+          <common_v42_0:Description>Preferred date-time is before the current departure city date-time.</common_v42_0:Description>
+          <common_v42_0:TransactionId>CAD0A88C0A0764782CC880DEC7B4462D</common_v42_0:TransactionId>
+          <common_v42_0:TraceId>trace</common_v42_0:TraceId>
+          <common_v42_0:Auxdata>
+            <common_v42_0:Entry>
+              <common_v42_0:Reason>element</common_v42_0:Reason>
+              <common_v42_0:Description>SearchAirLeg.DepTimes</common_v42_0:Description>
+            </common_v42_0:Entry>
+          </common_v42_0:Auxdata>
+        </common_v42_0:ErrorInfo>
+      </detail>
+    </SOAP:Fault>
+  </SOAP:Body>
+</SOAP:Envelope>

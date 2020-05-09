@@ -1,0 +1,38 @@
+#search-results-body .noUi-horizontal {
+  height: 10px;
+}
+#search-results-body .noUi-target {
+  background: #f7f7f7;
+  border: none;
+  box-shadow: none;
+}
+#search-results-body .noUi-horizontal .noUi-handle {
+  width: 20px;
+  height: 20px;
+}
+#search-results-body .noUi-handle {
+  border: none;
+  background: #f9d749;
+  border-radius: 50%;
+  cursor: default;
+  box-shadow: none;
+}
+#search-results-body .noUi-handle:after,
+#search-results-body .noUi-handle:before{
+  content: none
+}
+#search-results-body .noUi-connect{
+  background-color: #f9d749;
+}
+#search-results-body .noUi-tooltip {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 17px;
+  display: block;
+  position: absolute;
+  border: none;
+  background: none;
+  color: #a8a8bc;
+  padding: 0;
+  text-align: center;
+  white-space: nowrap;
+}

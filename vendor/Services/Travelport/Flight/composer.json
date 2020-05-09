@@ -1,0 +1,25 @@
+{
+    "name": "masoodrehman/travelport",
+    "description": "Travelport Universal API PHP-SDK.",
+    "keywords": ["template", "composer", "package"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Masood Rehman",
+            "email": "masoodurrehman42@gmail.com"
+        }
+    ],
+    "type": "project",
+    "require": {
+		"php": ">=7.1",
+        "ext-soap": "*"
+    },
+    "require-dev": {
+		"phpunit/phpunit": "6.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "MasoodRehman\\Travelport\\": "src/"
+        }
+    }
+}

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+  <soapenv:Header/>
+  <soapenv:Body>
+    <air:LowFareSearchReq xmlns:air="http://www.travelport.com/schema/air_v42_0" TraceId="trace" AuthorizedBy="user" TargetBranch="P105340" SolutionResult="true">
+      <com:BillingPointOfSaleInfo xmlns:com="http://www.travelport.com/schema/common_v42_0" OriginApplication="UAPI"/>
+      <air:SearchAirLeg>
+        <air:SearchOrigin>
+          <com:Airport xmlns:com="http://www.travelport.com/schema/common_v42_0" Code="CDG"/>
+        </air:SearchOrigin>
+        <air:SearchDestination>
+          <com:Airport xmlns:com="http://www.travelport.com/schema/common_v42_0" Code="LHR"/>
+        </air:SearchDestination>
+        <air:SearchDepTime PreferredTime="2019-03-22"/>
+      </air:SearchAirLeg>
+      <air:SearchAirLeg>
+        <air:SearchOrigin>
+          <com:Airport xmlns:com="http://www.travelport.com/schema/common_v42_0" Code="LHR"/>
+        </air:SearchOrigin>
+        <air:SearchDestination>
+          <com:Airport xmlns:com="http://www.travelport.com/schema/common_v42_0" Code="CDG"/>
+        </air:SearchDestination>
+        <air:SearchDepTime PreferredTime="2019-03-28"/>
+      </air:SearchAirLeg>
+      <air:AirSearchModifiers>
+        <air:PreferredProviders>
+          <com:Provider xmlns:com="http://www.travelport.com/schema/common_v42_0" Code="1G"/>
+        </air:PreferredProviders>
+        <air:PermittedCabins>
+          <com:CabinClass xmlns:com="http://www.travelport.com/schema/common_v42_0" Type="Economy"/>
+        </air:PermittedCabins>
+      </air:AirSearchModifiers>
+      <com:SearchPassenger xmlns:com="http://www.travelport.com/schema/common_v42_0" BookingTravelerRef="0" Code="ADT"/>
+    </air:LowFareSearchReq>
+  </soapenv:Body>
+</soapenv:Envelope>

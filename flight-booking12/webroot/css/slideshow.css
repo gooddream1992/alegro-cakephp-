@@ -1,0 +1,17 @@
+[data-slides] {
+	-webkit-transition: all 0.7s ease;
+	-moz-transition: all 0.7s ease;
+	-ms-transition: all 0.7s ease;
+	-o-transition: all 0.7s ease;
+	transition: all 0.7s ease;
+}
+
+/* Use additional CSS to control the `height` of `[data-slides]`, like so: */
+
+/* .test { height: 300px; }
+@media all and (min-width: 48em) {
+	.test { height: 400px; }
+} */
+
+/* additional CSS for hidden image preload section */
+[hidden] { display: none; }

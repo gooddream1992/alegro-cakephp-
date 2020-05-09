@@ -1,0 +1,64 @@
+#search-results-body .noUi-horizontal {
+  height: 7px;
+}
+html:not([dir=rtl]) .noUi-horizontal .noUi-handle{
+	right: -13px;
+}
+
+.noUi-connects {
+    overflow: hidden;
+    z-index: 0;
+    top: -2px;
+    left: 2px;
+}
+.noUi-connect{
+	left: 5px;
+}
+.stopsRange .noUi-connects {
+    top: 1px;
+    left: 2px;
+}
+.stopsRange .noUi-connects .noUi-connect {
+    left: 0;
+    top: 0px;
+}
+#search-results-body .noUi-target {
+  background: #f7f7f7;
+  border: none;
+  box-shadow: none;
+}
+#search-results-body .noUi-horizontal .noUi-handle {
+  width: 14px;
+  height: 14px;
+}
+#search-results-body .noUi-horizontal .noUi-handle:focus {
+    outline: none;
+}
+#search-results-body .noUi-handle {
+  border: none;
+  background: #f9d749;
+  border-radius: 50%;
+  cursor: default;
+  box-shadow: none;
+}
+#search-results-body .noUi-handle:after,
+#search-results-body .noUi-handle:before{
+  content: none
+}
+#search-results-body .noUi-connect{
+  background-color: #f9d749;
+}
+#search-results-body .noUi-handle-upper .noUi-tooltip{ left: -6px !important;}
+/*#search-results-body .noUi-handle-upper{ right: 0 !important;}*/
+#search-results-body .noUi-tooltip {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 17px;
+  display: block;
+  position: absolute;
+  border: none;
+  background: none;
+  color: #a8a8bc;
+  padding: 0;
+  text-align: center;
+  white-space: nowrap;
+}

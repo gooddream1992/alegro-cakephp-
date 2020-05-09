@@ -1,0 +1,35 @@
+[04-Dec-2019 10:26:04 UTC] PHP Warning:  unlink(alegroan_flightbooking): No such file or directory in /home3/alegroangola/public_html/webroot/backupdb.php on line 90
+[25-Dec-2019 23:25:37 Africa/Luanda] jpg
+[11-Jan-2020 10:00:02 Africa/Luanda] jpg
+[14-Jan-2020 14:39:31 Africa/Luanda] jpg
+[29-Jan-2020 18:44:01 Africa/Luanda] jpg
+[04-Feb-2020 18:38:37 UTC] PHP Warning:  mysqli::multi_query(): LOAD DATA LOCAL INFILE forbidden in /home3/alegroangola/public_html/webroot/adminer.php on line 1739
+[23-Feb-2020 11:22:26 Africa/Luanda] jpg
+[01-Mar-2020 09:09:37 Africa/Luanda] jpg
+[01-Mar-2020 06:58:59 America/Chicago] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[01-Mar-2020 06:58:59 America/Chicago] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[01-Mar-2020 06:58:59 America/Chicago] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[01-Mar-2020 06:59:00 America/Chicago] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[01-Mar-2020 06:59:01 America/Chicago] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[01-Mar-2020 06:59:01 America/Chicago] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[01-Mar-2020 06:59:07 America/Chicago] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[01-Mar-2020 06:59:07 America/Chicago] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[01-Mar-2020 06:59:10 America/Chicago] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[01-Mar-2020 06:59:10 America/Chicago] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[01-Mar-2020 06:59:11 America/Chicago] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[01-Mar-2020 06:59:16 America/Chicago] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[01-Mar-2020 06:59:18 America/Chicago] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[01-Mar-2020 06:59:19 America/Chicago] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[01-Mar-2020 06:59:19 America/Chicago] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[01-Mar-2020 06:59:24 America/Chicago] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[01-Mar-2020 06:59:24 America/Chicago] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[01-Mar-2020 06:59:26 America/Chicago] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[01-Mar-2020 06:59:30 America/Chicago] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[01-Mar-2020 06:59:32 America/Chicago] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[01-Mar-2020 06:59:35 America/Chicago] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[03-Mar-2020 08:49:29 Africa/Luanda] PHP Fatal error:  Cannot redeclare App\View\Helper\UserHelper::propertyEntireAmenities() in /home3/alegroangola/public_html/src/View/Helper/UserHelper.php on line 810
+[03-Mar-2020 08:49:37 Africa/Luanda] PHP Fatal error:  Cannot redeclare App\View\Helper\UserHelper::propertyEntireAmenities() in /home3/alegroangola/public_html/src/View/Helper/UserHelper.php on line 810
+[03-Mar-2020 08:50:00 Africa/Luanda] PHP Fatal error:  Cannot redeclare App\View\Helper\UserHelper::propertyEntireAmenities() in /home3/alegroangola/public_html/src/View/Helper/UserHelper.php on line 810
+[08-Mar-2020 09:52:15 Africa/Luanda] PHP Fatal error:  Cannot redeclare App\Controller\UsersController::resendEmailVerification() in /home3/alegroangola/public_html/src/Controller/UsersController.php on line 3369
+[08-Mar-2020 09:52:18 Africa/Luanda] PHP Fatal error:  Cannot redeclare App\Controller\UsersController::resendEmailVerification() in /home3/alegroangola/public_html/src/Controller/UsersController.php on line 3369
+[08-Mar-2020 09:52:34 Africa/Luanda] PHP Fatal error:  Cannot redeclare App\Controller\UsersController::resendEmailVerification() in /home3/alegroangola/public_html/src/Controller/UsersController.php on line 3369

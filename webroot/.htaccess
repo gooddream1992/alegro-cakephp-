@@ -1,0 +1,12 @@
+<IfModule mod_rewrite.c>
+
+    RewriteEngine On
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteRule ^ index.php [L]
+
+    RewriteEngine on
+    RewriteCond %{HTTP_HOST} ^alegro.co.ao 
+    RewriteRule (.*) http://www.alegro.co.ao/$1 [R=301,L]
+
+
+</IfModule>

@@ -1,0 +1,2215 @@
+Air Pricing Solutions Details 1:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: AF
+Flight 5193
+From LAD
+To AMS
+Depart 2020-02-26T20:15:00.000+01:00
+Arrive 2020-02-27T04:50:00.000+01:00
+Airline: AF
+Flight 8223
+From AMS
+To CDG
+Depart 2020-02-27T06:50:00.000+01:00
+Arrive 2020-02-27T08:10:00.000+01:00
+Airline: AF
+Flight 1580
+From CDG
+To LHR
+Depart 2020-02-27T10:00:00.000+01:00
+Arrive 2020-02-27T10:30:00.000+00:00
+
+Journey Details: 
+--------------------------------------
+Airline: AF
+Flight 1181
+From LHR
+To CDG
+Depart 2020-03-04T19:50:00.000+00:00
+Arrive 2020-03-04T22:10:00.000+01:00
+Airline: AF
+Flight 928
+From CDG
+To LAD
+Depart 2020-03-05T22:05:00.000+01:00
+Arrive 2020-03-06T06:30:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: CYxS9B3R2BKAPk9ZAAAAAA==
+Total Price: AOA452170
+Base Price: USD389.00
+Approx. Total Price: USD889.87
+Approx. Base Price: USD388.99
+Taxes: AOA254514
+Approx. Taxes: USD500.88
+
+Air Pricing Solutions Details 2:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: AF
+Flight 5193
+From LAD
+To AMS
+Depart 2020-02-26T20:15:00.000+01:00
+Arrive 2020-02-27T04:50:00.000+01:00
+Airline: AF
+Flight 8227
+From AMS
+To CDG
+Depart 2020-02-27T07:20:00.000+01:00
+Arrive 2020-02-27T08:45:00.000+01:00
+Airline: AF
+Flight 1580
+From CDG
+To LHR
+Depart 2020-02-27T10:00:00.000+01:00
+Arrive 2020-02-27T10:30:00.000+00:00
+
+Journey Details: 
+--------------------------------------
+Airline: AF
+Flight 1181
+From LHR
+To CDG
+Depart 2020-03-04T19:50:00.000+00:00
+Arrive 2020-03-04T22:10:00.000+01:00
+Airline: AF
+Flight 928
+From CDG
+To LAD
+Depart 2020-03-05T22:05:00.000+01:00
+Arrive 2020-03-06T06:30:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: CYxS9B3R2BKA2k9ZAAAAAA==
+Total Price: AOA452170
+Base Price: USD389.00
+Approx. Total Price: USD889.87
+Approx. Base Price: USD388.99
+Taxes: AOA254514
+Approx. Taxes: USD500.88
+
+Air Pricing Solutions Details 3:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: AF
+Flight 5193
+From LAD
+To AMS
+Depart 2020-02-26T20:15:00.000+01:00
+Arrive 2020-02-27T04:50:00.000+01:00
+Airline: AF
+Flight 8223
+From AMS
+To CDG
+Depart 2020-02-27T06:50:00.000+01:00
+Arrive 2020-02-27T08:10:00.000+01:00
+Airline: AF
+Flight 1780
+From CDG
+To LHR
+Depart 2020-02-27T13:20:00.000+01:00
+Arrive 2020-02-27T13:45:00.000+00:00
+
+Journey Details: 
+--------------------------------------
+Airline: AF
+Flight 1181
+From LHR
+To CDG
+Depart 2020-03-04T19:50:00.000+00:00
+Arrive 2020-03-04T22:10:00.000+01:00
+Airline: AF
+Flight 928
+From CDG
+To LAD
+Depart 2020-03-05T22:05:00.000+01:00
+Arrive 2020-03-06T06:30:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: CYxS9B3R2BKAHl9ZAAAAAA==
+Total Price: AOA452170
+Base Price: USD389.00
+Approx. Total Price: USD889.87
+Approx. Base Price: USD388.99
+Taxes: AOA254514
+Approx. Taxes: USD500.88
+
+Air Pricing Solutions Details 4:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: AF
+Flight 5193
+From LAD
+To AMS
+Depart 2020-02-26T20:15:00.000+01:00
+Arrive 2020-02-27T04:50:00.000+01:00
+Airline: AF
+Flight 8227
+From AMS
+To CDG
+Depart 2020-02-27T07:20:00.000+01:00
+Arrive 2020-02-27T08:45:00.000+01:00
+Airline: AF
+Flight 1780
+From CDG
+To LHR
+Depart 2020-02-27T13:20:00.000+01:00
+Arrive 2020-02-27T13:45:00.000+00:00
+
+Journey Details: 
+--------------------------------------
+Airline: AF
+Flight 1181
+From LHR
+To CDG
+Depart 2020-03-04T19:50:00.000+00:00
+Arrive 2020-03-04T22:10:00.000+01:00
+Airline: AF
+Flight 928
+From CDG
+To LAD
+Depart 2020-03-05T22:05:00.000+01:00
+Arrive 2020-03-06T06:30:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: CYxS9B3R2BKAbk9ZAAAAAA==
+Total Price: AOA452170
+Base Price: USD389.00
+Approx. Total Price: USD889.87
+Approx. Base Price: USD388.99
+Taxes: AOA254514
+Approx. Taxes: USD500.88
+
+Air Pricing Solutions Details 5:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: AF
+Flight 5193
+From LAD
+To AMS
+Depart 2020-02-26T20:15:00.000+01:00
+Arrive 2020-02-27T04:50:00.000+01:00
+Airline: AF
+Flight 8223
+From AMS
+To CDG
+Depart 2020-02-27T06:50:00.000+01:00
+Arrive 2020-02-27T08:10:00.000+01:00
+Airline: AF
+Flight 1580
+From CDG
+To LHR
+Depart 2020-02-27T10:00:00.000+01:00
+Arrive 2020-02-27T10:30:00.000+00:00
+
+Journey Details: 
+--------------------------------------
+Airline: KL
+Flight 1020
+From LHR
+To AMS
+Depart 2020-03-04T15:45:00.000+00:00
+Arrive 2020-03-04T18:00:00.000+01:00
+Airline: KL
+Flight 2017
+From AMS
+To CDG
+Depart 2020-03-04T19:10:00.000+01:00
+Arrive 2020-03-04T20:30:00.000+01:00
+Airline: AF
+Flight 928
+From CDG
+To LAD
+Depart 2020-03-04T22:05:00.000+01:00
+Arrive 2020-03-05T06:20:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: CYxS9B3R2BKAfl9ZAAAAAA==
+Total Price: AOA467358
+Base Price: USD401.00
+Approx. Total Price: USD919.76
+Approx. Base Price: USD400.99
+Taxes: AOA263604
+Approx. Taxes: USD518.77
+
+Air Pricing Solutions Details 6:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: AF
+Flight 5193
+From LAD
+To AMS
+Depart 2020-02-26T20:15:00.000+01:00
+Arrive 2020-02-27T04:50:00.000+01:00
+Airline: AF
+Flight 8227
+From AMS
+To CDG
+Depart 2020-02-27T07:20:00.000+01:00
+Arrive 2020-02-27T08:45:00.000+01:00
+Airline: AF
+Flight 1580
+From CDG
+To LHR
+Depart 2020-02-27T10:00:00.000+01:00
+Arrive 2020-02-27T10:30:00.000+00:00
+
+Journey Details: 
+--------------------------------------
+Airline: KL
+Flight 1020
+From LHR
+To AMS
+Depart 2020-03-04T15:45:00.000+00:00
+Arrive 2020-03-04T18:00:00.000+01:00
+Airline: KL
+Flight 2017
+From AMS
+To CDG
+Depart 2020-03-04T19:10:00.000+01:00
+Arrive 2020-03-04T20:30:00.000+01:00
+Airline: AF
+Flight 928
+From CDG
+To LAD
+Depart 2020-03-04T22:05:00.000+01:00
+Arrive 2020-03-05T06:20:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: CYxS9B3R2BKAIm9ZAAAAAA==
+Total Price: AOA467358
+Base Price: USD401.00
+Approx. Total Price: USD919.76
+Approx. Base Price: USD400.99
+Taxes: AOA263604
+Approx. Taxes: USD518.77
+
+Air Pricing Solutions Details 7:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: AF
+Flight 5193
+From LAD
+To AMS
+Depart 2020-02-26T20:15:00.000+01:00
+Arrive 2020-02-27T04:50:00.000+01:00
+Airline: AF
+Flight 8223
+From AMS
+To CDG
+Depart 2020-02-27T06:50:00.000+01:00
+Arrive 2020-02-27T08:10:00.000+01:00
+Airline: AF
+Flight 1780
+From CDG
+To LHR
+Depart 2020-02-27T13:20:00.000+01:00
+Arrive 2020-02-27T13:45:00.000+00:00
+
+Journey Details: 
+--------------------------------------
+Airline: KL
+Flight 1020
+From LHR
+To AMS
+Depart 2020-03-04T15:45:00.000+00:00
+Arrive 2020-03-04T18:00:00.000+01:00
+Airline: KL
+Flight 2017
+From AMS
+To CDG
+Depart 2020-03-04T19:10:00.000+01:00
+Arrive 2020-03-04T20:30:00.000+01:00
+Airline: AF
+Flight 928
+From CDG
+To LAD
+Depart 2020-03-04T22:05:00.000+01:00
+Arrive 2020-03-05T06:20:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: CYxS9B3R2BKAam9ZAAAAAA==
+Total Price: AOA467358
+Base Price: USD401.00
+Approx. Total Price: USD919.76
+Approx. Base Price: USD400.99
+Taxes: AOA263604
+Approx. Taxes: USD518.77
+
+Air Pricing Solutions Details 8:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: AF
+Flight 5193
+From LAD
+To AMS
+Depart 2020-02-26T20:15:00.000+01:00
+Arrive 2020-02-27T04:50:00.000+01:00
+Airline: AF
+Flight 8227
+From AMS
+To CDG
+Depart 2020-02-27T07:20:00.000+01:00
+Arrive 2020-02-27T08:45:00.000+01:00
+Airline: AF
+Flight 1780
+From CDG
+To LHR
+Depart 2020-02-27T13:20:00.000+01:00
+Arrive 2020-02-27T13:45:00.000+00:00
+
+Journey Details: 
+--------------------------------------
+Airline: KL
+Flight 1020
+From LHR
+To AMS
+Depart 2020-03-04T15:45:00.000+00:00
+Arrive 2020-03-04T18:00:00.000+01:00
+Airline: KL
+Flight 2017
+From AMS
+To CDG
+Depart 2020-03-04T19:10:00.000+01:00
+Arrive 2020-03-04T20:30:00.000+01:00
+Airline: AF
+Flight 928
+From CDG
+To LAD
+Depart 2020-03-04T22:05:00.000+01:00
+Arrive 2020-03-05T06:20:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: CYxS9B3R2BKAsm9ZAAAAAA==
+Total Price: AOA467358
+Base Price: USD401.00
+Approx. Total Price: USD919.76
+Approx. Base Price: USD400.99
+Taxes: AOA263604
+Approx. Taxes: USD518.77
+
+Air Pricing Solutions Details 9:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: AF
+Flight 5193
+From LAD
+To AMS
+Depart 2020-02-26T20:15:00.000+01:00
+Arrive 2020-02-27T04:50:00.000+01:00
+Airline: AF
+Flight 8223
+From AMS
+To CDG
+Depart 2020-02-27T06:50:00.000+01:00
+Arrive 2020-02-27T08:10:00.000+01:00
+Airline: AF
+Flight 1580
+From CDG
+To LHR
+Depart 2020-02-27T10:00:00.000+01:00
+Arrive 2020-02-27T10:30:00.000+00:00
+
+Journey Details: 
+--------------------------------------
+Airline: KL
+Flight 1012
+From LHR
+To AMS
+Depart 2020-03-04T14:05:00.000+00:00
+Arrive 2020-03-04T16:20:00.000+01:00
+Airline: KL
+Flight 1245
+From AMS
+To CDG
+Depart 2020-03-04T17:45:00.000+01:00
+Arrive 2020-03-04T19:00:00.000+01:00
+Airline: AF
+Flight 928
+From CDG
+To LAD
+Depart 2020-03-04T22:05:00.000+01:00
+Arrive 2020-03-05T06:20:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: CYxS9B3R2BKABn9ZAAAAAA==
+Total Price: AOA467358
+Base Price: USD401.00
+Approx. Total Price: USD919.76
+Approx. Base Price: USD400.99
+Taxes: AOA263604
+Approx. Taxes: USD518.77
+
+Air Pricing Solutions Details 10:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: AF
+Flight 5193
+From LAD
+To AMS
+Depart 2020-02-26T20:15:00.000+01:00
+Arrive 2020-02-27T04:50:00.000+01:00
+Airline: AF
+Flight 8227
+From AMS
+To CDG
+Depart 2020-02-27T07:20:00.000+01:00
+Arrive 2020-02-27T08:45:00.000+01:00
+Airline: AF
+Flight 1580
+From CDG
+To LHR
+Depart 2020-02-27T10:00:00.000+01:00
+Arrive 2020-02-27T10:30:00.000+00:00
+
+Journey Details: 
+--------------------------------------
+Airline: KL
+Flight 1012
+From LHR
+To AMS
+Depart 2020-03-04T14:05:00.000+00:00
+Arrive 2020-03-04T16:20:00.000+01:00
+Airline: KL
+Flight 1245
+From AMS
+To CDG
+Depart 2020-03-04T17:45:00.000+01:00
+Arrive 2020-03-04T19:00:00.000+01:00
+Airline: AF
+Flight 928
+From CDG
+To LAD
+Depart 2020-03-04T22:05:00.000+01:00
+Arrive 2020-03-05T06:20:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: CYxS9B3R2BKATn9ZAAAAAA==
+Total Price: AOA467358
+Base Price: USD401.00
+Approx. Total Price: USD919.76
+Approx. Base Price: USD400.99
+Taxes: AOA263604
+Approx. Taxes: USD518.77
+
+Air Pricing Solutions Details 11:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: AF
+Flight 5193
+From LAD
+To AMS
+Depart 2020-02-26T20:15:00.000+01:00
+Arrive 2020-02-27T04:50:00.000+01:00
+Airline: AF
+Flight 8223
+From AMS
+To CDG
+Depart 2020-02-27T06:50:00.000+01:00
+Arrive 2020-02-27T08:10:00.000+01:00
+Airline: AF
+Flight 1780
+From CDG
+To LHR
+Depart 2020-02-27T13:20:00.000+01:00
+Arrive 2020-02-27T13:45:00.000+00:00
+
+Journey Details: 
+--------------------------------------
+Airline: KL
+Flight 1012
+From LHR
+To AMS
+Depart 2020-03-04T14:05:00.000+00:00
+Arrive 2020-03-04T16:20:00.000+01:00
+Airline: KL
+Flight 1245
+From AMS
+To CDG
+Depart 2020-03-04T17:45:00.000+01:00
+Arrive 2020-03-04T19:00:00.000+01:00
+Airline: AF
+Flight 928
+From CDG
+To LAD
+Depart 2020-03-04T22:05:00.000+01:00
+Arrive 2020-03-05T06:20:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: CYxS9B3R2BKAln9ZAAAAAA==
+Total Price: AOA467358
+Base Price: USD401.00
+Approx. Total Price: USD919.76
+Approx. Base Price: USD400.99
+Taxes: AOA263604
+Approx. Taxes: USD518.77
+
+Air Pricing Solutions Details 12:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: AF
+Flight 5193
+From LAD
+To AMS
+Depart 2020-02-26T20:15:00.000+01:00
+Arrive 2020-02-27T04:50:00.000+01:00
+Airline: AF
+Flight 8227
+From AMS
+To CDG
+Depart 2020-02-27T07:20:00.000+01:00
+Arrive 2020-02-27T08:45:00.000+01:00
+Airline: AF
+Flight 1780
+From CDG
+To LHR
+Depart 2020-02-27T13:20:00.000+01:00
+Arrive 2020-02-27T13:45:00.000+00:00
+
+Journey Details: 
+--------------------------------------
+Airline: KL
+Flight 1012
+From LHR
+To AMS
+Depart 2020-03-04T14:05:00.000+00:00
+Arrive 2020-03-04T16:20:00.000+01:00
+Airline: KL
+Flight 1245
+From AMS
+To CDG
+Depart 2020-03-04T17:45:00.000+01:00
+Arrive 2020-03-04T19:00:00.000+01:00
+Airline: AF
+Flight 928
+From CDG
+To LAD
+Depart 2020-03-04T22:05:00.000+01:00
+Arrive 2020-03-05T06:20:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: CYxS9B3R2BKA3n9ZAAAAAA==
+Total Price: AOA467358
+Base Price: USD401.00
+Approx. Total Price: USD919.76
+Approx. Base Price: USD400.99
+Taxes: AOA263604
+Approx. Taxes: USD518.77
+
+Air Pricing Solutions Details 13:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: AF
+Flight 5193
+From LAD
+To AMS
+Depart 2020-02-26T20:15:00.000+01:00
+Arrive 2020-02-27T04:50:00.000+01:00
+Airline: AF
+Flight 8223
+From AMS
+To CDG
+Depart 2020-02-27T06:50:00.000+01:00
+Arrive 2020-02-27T08:10:00.000+01:00
+Airline: AF
+Flight 1580
+From CDG
+To LHR
+Depart 2020-02-27T10:00:00.000+01:00
+Arrive 2020-02-27T10:30:00.000+00:00
+
+Journey Details: 
+--------------------------------------
+Airline: KL
+Flight 1012
+From LHR
+To AMS
+Depart 2020-03-04T14:05:00.000+00:00
+Arrive 2020-03-04T16:20:00.000+01:00
+Airline: KL
+Flight 2017
+From AMS
+To CDG
+Depart 2020-03-04T19:10:00.000+01:00
+Arrive 2020-03-04T20:30:00.000+01:00
+Airline: AF
+Flight 928
+From CDG
+To LAD
+Depart 2020-03-04T22:05:00.000+01:00
+Arrive 2020-03-05T06:20:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: CYxS9B3R2BKAJo9ZAAAAAA==
+Total Price: AOA467358
+Base Price: USD401.00
+Approx. Total Price: USD919.76
+Approx. Base Price: USD400.99
+Taxes: AOA263604
+Approx. Taxes: USD518.77
+
+Air Pricing Solutions Details 14:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: AF
+Flight 5193
+From LAD
+To AMS
+Depart 2020-02-26T20:15:00.000+01:00
+Arrive 2020-02-27T04:50:00.000+01:00
+Airline: AF
+Flight 8227
+From AMS
+To CDG
+Depart 2020-02-27T07:20:00.000+01:00
+Arrive 2020-02-27T08:45:00.000+01:00
+Airline: AF
+Flight 1580
+From CDG
+To LHR
+Depart 2020-02-27T10:00:00.000+01:00
+Arrive 2020-02-27T10:30:00.000+00:00
+
+Journey Details: 
+--------------------------------------
+Airline: KL
+Flight 1012
+From LHR
+To AMS
+Depart 2020-03-04T14:05:00.000+00:00
+Arrive 2020-03-04T16:20:00.000+01:00
+Airline: KL
+Flight 2017
+From AMS
+To CDG
+Depart 2020-03-04T19:10:00.000+01:00
+Arrive 2020-03-04T20:30:00.000+01:00
+Airline: AF
+Flight 928
+From CDG
+To LAD
+Depart 2020-03-04T22:05:00.000+01:00
+Arrive 2020-03-05T06:20:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: CYxS9B3R2BKAbo9ZAAAAAA==
+Total Price: AOA467358
+Base Price: USD401.00
+Approx. Total Price: USD919.76
+Approx. Base Price: USD400.99
+Taxes: AOA263604
+Approx. Taxes: USD518.77
+
+Air Pricing Solutions Details 15:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: AF
+Flight 5193
+From LAD
+To AMS
+Depart 2020-02-26T20:15:00.000+01:00
+Arrive 2020-02-27T04:50:00.000+01:00
+Airline: AF
+Flight 8223
+From AMS
+To CDG
+Depart 2020-02-27T06:50:00.000+01:00
+Arrive 2020-02-27T08:10:00.000+01:00
+Airline: AF
+Flight 1780
+From CDG
+To LHR
+Depart 2020-02-27T13:20:00.000+01:00
+Arrive 2020-02-27T13:45:00.000+00:00
+
+Journey Details: 
+--------------------------------------
+Airline: KL
+Flight 1012
+From LHR
+To AMS
+Depart 2020-03-04T14:05:00.000+00:00
+Arrive 2020-03-04T16:20:00.000+01:00
+Airline: KL
+Flight 2017
+From AMS
+To CDG
+Depart 2020-03-04T19:10:00.000+01:00
+Arrive 2020-03-04T20:30:00.000+01:00
+Airline: AF
+Flight 928
+From CDG
+To LAD
+Depart 2020-03-04T22:05:00.000+01:00
+Arrive 2020-03-05T06:20:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: CYxS9B3R2BKAto9ZAAAAAA==
+Total Price: AOA467358
+Base Price: USD401.00
+Approx. Total Price: USD919.76
+Approx. Base Price: USD400.99
+Taxes: AOA263604
+Approx. Taxes: USD518.77
+
+Air Pricing Solutions Details 16:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: AF
+Flight 5193
+From LAD
+To AMS
+Depart 2020-02-26T20:15:00.000+01:00
+Arrive 2020-02-27T04:50:00.000+01:00
+Airline: AF
+Flight 8227
+From AMS
+To CDG
+Depart 2020-02-27T07:20:00.000+01:00
+Arrive 2020-02-27T08:45:00.000+01:00
+Airline: AF
+Flight 1780
+From CDG
+To LHR
+Depart 2020-02-27T13:20:00.000+01:00
+Arrive 2020-02-27T13:45:00.000+00:00
+
+Journey Details: 
+--------------------------------------
+Airline: KL
+Flight 1012
+From LHR
+To AMS
+Depart 2020-03-04T14:05:00.000+00:00
+Arrive 2020-03-04T16:20:00.000+01:00
+Airline: KL
+Flight 2017
+From AMS
+To CDG
+Depart 2020-03-04T19:10:00.000+01:00
+Arrive 2020-03-04T20:30:00.000+01:00
+Airline: AF
+Flight 928
+From CDG
+To LAD
+Depart 2020-03-04T22:05:00.000+01:00
+Arrive 2020-03-05T06:20:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: CYxS9B3R2BKA/o9ZAAAAAA==
+Total Price: AOA467358
+Base Price: USD401.00
+Approx. Total Price: USD919.76
+Approx. Base Price: USD400.99
+Taxes: AOA263604
+Approx. Taxes: USD518.77
+
+Air Pricing Solutions Details 17:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: AF
+Flight 5193
+From LAD
+To AMS
+Depart 2020-02-26T20:15:00.000+01:00
+Arrive 2020-02-27T04:50:00.000+01:00
+Airline: AF
+Flight 8223
+From AMS
+To CDG
+Depart 2020-02-27T06:50:00.000+01:00
+Arrive 2020-02-27T08:10:00.000+01:00
+Airline: AF
+Flight 1580
+From CDG
+To LHR
+Depart 2020-02-27T10:00:00.000+01:00
+Arrive 2020-02-27T10:30:00.000+00:00
+
+Journey Details: 
+--------------------------------------
+Airline: KL
+Flight 1010
+From LHR
+To AMS
+Depart 2020-03-04T11:45:00.000+00:00
+Arrive 2020-03-04T14:05:00.000+01:00
+Airline: KL
+Flight 1243
+From AMS
+To CDG
+Depart 2020-03-04T16:35:00.000+01:00
+Arrive 2020-03-04T17:50:00.000+01:00
+Airline: AF
+Flight 928
+From CDG
+To LAD
+Depart 2020-03-04T22:05:00.000+01:00
+Arrive 2020-03-05T06:20:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: CYxS9B3R2BKATp9ZAAAAAA==
+Total Price: AOA467358
+Base Price: USD401.00
+Approx. Total Price: USD919.76
+Approx. Base Price: USD400.99
+Taxes: AOA263604
+Approx. Taxes: USD518.77
+
+Air Pricing Solutions Details 18:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: AF
+Flight 5193
+From LAD
+To AMS
+Depart 2020-02-26T20:15:00.000+01:00
+Arrive 2020-02-27T04:50:00.000+01:00
+Airline: AF
+Flight 8227
+From AMS
+To CDG
+Depart 2020-02-27T07:20:00.000+01:00
+Arrive 2020-02-27T08:45:00.000+01:00
+Airline: AF
+Flight 1580
+From CDG
+To LHR
+Depart 2020-02-27T10:00:00.000+01:00
+Arrive 2020-02-27T10:30:00.000+00:00
+
+Journey Details: 
+--------------------------------------
+Airline: KL
+Flight 1010
+From LHR
+To AMS
+Depart 2020-03-04T11:45:00.000+00:00
+Arrive 2020-03-04T14:05:00.000+01:00
+Airline: KL
+Flight 1243
+From AMS
+To CDG
+Depart 2020-03-04T16:35:00.000+01:00
+Arrive 2020-03-04T17:50:00.000+01:00
+Airline: AF
+Flight 928
+From CDG
+To LAD
+Depart 2020-03-04T22:05:00.000+01:00
+Arrive 2020-03-05T06:20:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: CYxS9B3R2BKAlp9ZAAAAAA==
+Total Price: AOA467358
+Base Price: USD401.00
+Approx. Total Price: USD919.76
+Approx. Base Price: USD400.99
+Taxes: AOA263604
+Approx. Taxes: USD518.77
+
+Air Pricing Solutions Details 19:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: AF
+Flight 5193
+From LAD
+To AMS
+Depart 2020-02-26T20:15:00.000+01:00
+Arrive 2020-02-27T04:50:00.000+01:00
+Airline: AF
+Flight 8223
+From AMS
+To CDG
+Depart 2020-02-27T06:50:00.000+01:00
+Arrive 2020-02-27T08:10:00.000+01:00
+Airline: AF
+Flight 1780
+From CDG
+To LHR
+Depart 2020-02-27T13:20:00.000+01:00
+Arrive 2020-02-27T13:45:00.000+00:00
+
+Journey Details: 
+--------------------------------------
+Airline: KL
+Flight 1010
+From LHR
+To AMS
+Depart 2020-03-04T11:45:00.000+00:00
+Arrive 2020-03-04T14:05:00.000+01:00
+Airline: KL
+Flight 1243
+From AMS
+To CDG
+Depart 2020-03-04T16:35:00.000+01:00
+Arrive 2020-03-04T17:50:00.000+01:00
+Airline: AF
+Flight 928
+From CDG
+To LAD
+Depart 2020-03-04T22:05:00.000+01:00
+Arrive 2020-03-05T06:20:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: CYxS9B3R2BKA3p9ZAAAAAA==
+Total Price: AOA467358
+Base Price: USD401.00
+Approx. Total Price: USD919.76
+Approx. Base Price: USD400.99
+Taxes: AOA263604
+Approx. Taxes: USD518.77
+
+Air Pricing Solutions Details 20:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: AF
+Flight 5193
+From LAD
+To AMS
+Depart 2020-02-26T20:15:00.000+01:00
+Arrive 2020-02-27T04:50:00.000+01:00
+Airline: AF
+Flight 8227
+From AMS
+To CDG
+Depart 2020-02-27T07:20:00.000+01:00
+Arrive 2020-02-27T08:45:00.000+01:00
+Airline: AF
+Flight 1780
+From CDG
+To LHR
+Depart 2020-02-27T13:20:00.000+01:00
+Arrive 2020-02-27T13:45:00.000+00:00
+
+Journey Details: 
+--------------------------------------
+Airline: KL
+Flight 1010
+From LHR
+To AMS
+Depart 2020-03-04T11:45:00.000+00:00
+Arrive 2020-03-04T14:05:00.000+01:00
+Airline: KL
+Flight 1243
+From AMS
+To CDG
+Depart 2020-03-04T16:35:00.000+01:00
+Arrive 2020-03-04T17:50:00.000+01:00
+Airline: AF
+Flight 928
+From CDG
+To LAD
+Depart 2020-03-04T22:05:00.000+01:00
+Arrive 2020-03-05T06:20:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: CYxS9B3R2BKAJq9ZAAAAAA==
+Total Price: AOA467358
+Base Price: USD401.00
+Approx. Total Price: USD919.76
+Approx. Base Price: USD400.99
+Taxes: AOA263604
+Approx. Taxes: USD518.77
+
+Air Pricing Solutions Details 21:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: AF
+Flight 5193
+From LAD
+To AMS
+Depart 2020-02-26T20:15:00.000+01:00
+Arrive 2020-02-27T04:50:00.000+01:00
+Airline: AF
+Flight 8223
+From AMS
+To CDG
+Depart 2020-02-27T06:50:00.000+01:00
+Arrive 2020-02-27T08:10:00.000+01:00
+Airline: AF
+Flight 1780
+From CDG
+To LHR
+Depart 2020-02-27T13:20:00.000+01:00
+Arrive 2020-02-27T13:45:00.000+00:00
+
+Journey Details: 
+--------------------------------------
+Airline: KL
+Flight 1010
+From LHR
+To AMS
+Depart 2020-03-04T11:45:00.000+00:00
+Arrive 2020-03-04T14:05:00.000+01:00
+Airline: AF
+Flight 8241
+From AMS
+To CDG
+Depart 2020-03-04T17:45:00.000+01:00
+Arrive 2020-03-04T19:00:00.000+01:00
+Airline: AF
+Flight 928
+From CDG
+To LAD
+Depart 2020-03-04T22:05:00.000+01:00
+Arrive 2020-03-05T06:20:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: CYxS9B3R2BKAbq9ZAAAAAA==
+Total Price: AOA467358
+Base Price: USD401.00
+Approx. Total Price: USD919.76
+Approx. Base Price: USD400.99
+Taxes: AOA263604
+Approx. Taxes: USD518.77
+
+Air Pricing Solutions Details 22:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: AF
+Flight 5193
+From LAD
+To AMS
+Depart 2020-02-26T20:15:00.000+01:00
+Arrive 2020-02-27T04:50:00.000+01:00
+Airline: AF
+Flight 8227
+From AMS
+To CDG
+Depart 2020-02-27T07:20:00.000+01:00
+Arrive 2020-02-27T08:45:00.000+01:00
+Airline: AF
+Flight 1780
+From CDG
+To LHR
+Depart 2020-02-27T13:20:00.000+01:00
+Arrive 2020-02-27T13:45:00.000+00:00
+
+Journey Details: 
+--------------------------------------
+Airline: KL
+Flight 1010
+From LHR
+To AMS
+Depart 2020-03-04T11:45:00.000+00:00
+Arrive 2020-03-04T14:05:00.000+01:00
+Airline: AF
+Flight 8241
+From AMS
+To CDG
+Depart 2020-03-04T17:45:00.000+01:00
+Arrive 2020-03-04T19:00:00.000+01:00
+Airline: AF
+Flight 928
+From CDG
+To LAD
+Depart 2020-03-04T22:05:00.000+01:00
+Arrive 2020-03-05T06:20:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: CYxS9B3R2BKArl9ZAAAAAA==
+Total Price: AOA467358
+Base Price: USD401.00
+Approx. Total Price: USD919.76
+Approx. Base Price: USD400.99
+Taxes: AOA263604
+Approx. Taxes: USD518.77
+
+Air Pricing Solutions Details 23:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 55
+From LAD
+To JNB
+Depart 2020-02-26T13:05:00.000+01:00
+Arrive 2020-02-26T17:30:00.000+02:00
+Airline: SA
+Flight 234
+From JNB
+To LHR
+Depart 2020-02-26T20:50:00.000+02:00
+Arrive 2020-02-27T06:25:00.000+00:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 235
+From LHR
+To JNB
+Depart 2020-03-04T18:05:00.000+00:00
+Arrive 2020-03-05T07:15:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2020-03-05T16:35:00.000+02:00
+Arrive 2020-03-05T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: CYxS9B3R2BKA2q9ZAAAAAA==
+Total Price: AOA508034
+Base Price: USD399.00
+Approx. Total Price: USD999.81
+Approx. Base Price: USD398.99
+Taxes: AOA305297
+Approx. Taxes: USD600.82
+
+Air Pricing Solutions Details 24:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7032
+From LAD
+To JNB
+Depart 2020-02-26T09:20:00.000+01:00
+Arrive 2020-02-26T13:50:00.000+02:00
+Airline: SA
+Flight 234
+From JNB
+To LHR
+Depart 2020-02-26T20:50:00.000+02:00
+Arrive 2020-02-27T06:25:00.000+00:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 235
+From LHR
+To JNB
+Depart 2020-03-04T18:05:00.000+00:00
+Arrive 2020-03-05T07:15:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2020-03-05T16:35:00.000+02:00
+Arrive 2020-03-05T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: CYxS9B3R2BKAZr9ZAAAAAA==
+Total Price: AOA514744
+Base Price: USD399.00
+Approx. Total Price: USD1013.02
+Approx. Base Price: USD398.99
+Taxes: AOA312007
+Approx. Taxes: USD614.03
+
+Air Pricing Solutions Details 25:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: ET
+Flight 850
+From LAD
+To ADD
+Depart 2020-02-26T13:50:00.000+01:00
+Arrive 2020-02-26T20:55:00.000+03:00
+Airline: ET
+Flight 700
+From ADD
+To LHR
+Depart 2020-02-27T01:20:00.000+03:00
+Arrive 2020-02-27T06:35:00.000+00:00
+
+Journey Details: 
+--------------------------------------
+Airline: ET
+Flight 701
+From LHR
+To ADD
+Depart 2020-03-04T20:15:00.000+00:00
+Arrive 2020-03-05T07:00:00.000+03:00
+Airline: ET
+Flight 851
+From ADD
+To LAD
+Depart 2020-03-05T09:40:00.000+03:00
+Arrive 2020-03-05T12:50:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: CYxS9B3R2BKA1r9ZAAAAAA==
+Total Price: AOA520329
+Base Price: USD560.00
+Approx. Total Price: USD1024.00
+Approx. Base Price: USD559.98
+Taxes: AOA235785
+Approx. Taxes: USD464.02
+
+Air Pricing Solutions Details 26:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: LH
+Flight 561
+From LAD
+To FRA
+Depart 2020-02-26T22:55:00.000+01:00
+Arrive 2020-02-27T07:25:00.000+01:00
+Airline: LH
+Flight 902
+From FRA
+To LHR
+Depart 2020-02-27T09:00:00.000+01:00
+Arrive 2020-02-27T09:45:00.000+00:00
+
+Journey Details: 
+--------------------------------------
+Airline: LH
+Flight 5571
+From LHR
+To BRU
+Depart 2020-03-04T17:50:00.000+00:00
+Arrive 2020-03-04T20:00:00.000+01:00
+Airline: LH
+Flight 5680
+From BRU
+To LAD
+Depart 2020-03-05T10:30:00.000+01:00
+Arrive 2020-03-05T19:10:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: CYxS9B3R2BKAJs9ZAAAAAA==
+Total Price: AOA809745
+Base Price: USD987.00
+Approx. Total Price: USD1593.58
+Approx. Base Price: USD986.97
+Taxes: AOA308237
+Approx. Taxes: USD606.61
+Refundable: true
+
+Air Pricing Solutions Details 27:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: LH
+Flight 561
+From LAD
+To FRA
+Depart 2020-02-26T22:55:00.000+01:00
+Arrive 2020-02-27T07:25:00.000+01:00
+Airline: LH
+Flight 904
+From FRA
+To LHR
+Depart 2020-02-27T10:00:00.000+01:00
+Arrive 2020-02-27T10:45:00.000+00:00
+
+Journey Details: 
+--------------------------------------
+Airline: LH
+Flight 5571
+From LHR
+To BRU
+Depart 2020-03-04T17:50:00.000+00:00
+Arrive 2020-03-04T20:00:00.000+01:00
+Airline: LH
+Flight 5680
+From BRU
+To LAD
+Depart 2020-03-05T10:30:00.000+01:00
+Arrive 2020-03-05T19:10:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: CYxS9B3R2BKAws9ZAAAAAA==
+Total Price: AOA809745
+Base Price: USD987.00
+Approx. Total Price: USD1593.58
+Approx. Base Price: USD986.97
+Taxes: AOA308237
+Approx. Taxes: USD606.61
+Refundable: true
+
+Air Pricing Solutions Details 28:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: LH
+Flight 561
+From LAD
+To FRA
+Depart 2020-02-26T22:55:00.000+01:00
+Arrive 2020-02-27T07:25:00.000+01:00
+Airline: LH
+Flight 906
+From FRA
+To LHR
+Depart 2020-02-27T12:00:00.000+01:00
+Arrive 2020-02-27T12:45:00.000+00:00
+
+Journey Details: 
+--------------------------------------
+Airline: LH
+Flight 5571
+From LHR
+To BRU
+Depart 2020-03-04T17:50:00.000+00:00
+Arrive 2020-03-04T20:00:00.000+01:00
+Airline: LH
+Flight 5680
+From BRU
+To LAD
+Depart 2020-03-05T10:30:00.000+01:00
+Arrive 2020-03-05T19:10:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: CYxS9B3R2BKABt9ZAAAAAA==
+Total Price: AOA809745
+Base Price: USD987.00
+Approx. Total Price: USD1593.58
+Approx. Base Price: USD986.97
+Taxes: AOA308237
+Approx. Taxes: USD606.61
+Refundable: true
+
+Air Pricing Solutions Details 29:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: LH
+Flight 561
+From LAD
+To FRA
+Depart 2020-02-26T22:55:00.000+01:00
+Arrive 2020-02-27T07:25:00.000+01:00
+Airline: LH
+Flight 908
+From FRA
+To LHR
+Depart 2020-02-27T14:00:00.000+01:00
+Arrive 2020-02-27T14:45:00.000+00:00
+
+Journey Details: 
+--------------------------------------
+Airline: LH
+Flight 5571
+From LHR
+To BRU
+Depart 2020-03-04T17:50:00.000+00:00
+Arrive 2020-03-04T20:00:00.000+01:00
+Airline: LH
+Flight 5680
+From BRU
+To LAD
+Depart 2020-03-05T10:30:00.000+01:00
+Arrive 2020-03-05T19:10:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: CYxS9B3R2BKASt9ZAAAAAA==
+Total Price: AOA809745
+Base Price: USD987.00
+Approx. Total Price: USD1593.58
+Approx. Base Price: USD986.97
+Taxes: AOA308237
+Approx. Taxes: USD606.61
+Refundable: true
+
+Air Pricing Solutions Details 30:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: LH
+Flight 561
+From LAD
+To FRA
+Depart 2020-02-26T22:55:00.000+01:00
+Arrive 2020-02-27T07:25:00.000+01:00
+Airline: LH
+Flight 910
+From FRA
+To LHR
+Depart 2020-02-27T15:00:00.000+01:00
+Arrive 2020-02-27T15:45:00.000+00:00
+
+Journey Details: 
+--------------------------------------
+Airline: LH
+Flight 5571
+From LHR
+To BRU
+Depart 2020-03-04T17:50:00.000+00:00
+Arrive 2020-03-04T20:00:00.000+01:00
+Airline: LH
+Flight 5680
+From BRU
+To LAD
+Depart 2020-03-05T10:30:00.000+01:00
+Arrive 2020-03-05T19:10:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: CYxS9B3R2BKAjt9ZAAAAAA==
+Total Price: AOA809745
+Base Price: USD987.00
+Approx. Total Price: USD1593.58
+Approx. Base Price: USD986.97
+Taxes: AOA308237
+Approx. Taxes: USD606.61
+Refundable: true
+
+Air Pricing Solutions Details 31:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: LH
+Flight 561
+From LAD
+To FRA
+Depart 2020-02-26T22:55:00.000+01:00
+Arrive 2020-02-27T07:25:00.000+01:00
+Airline: LH
+Flight 902
+From FRA
+To LHR
+Depart 2020-02-27T09:00:00.000+01:00
+Arrive 2020-02-27T09:45:00.000+00:00
+
+Journey Details: 
+--------------------------------------
+Airline: LH
+Flight 5595
+From LHR
+To BRU
+Depart 2020-03-04T11:05:00.000+00:00
+Arrive 2020-03-04T13:10:00.000+01:00
+Airline: LH
+Flight 5680
+From BRU
+To LAD
+Depart 2020-03-05T10:30:00.000+01:00
+Arrive 2020-03-05T19:10:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: CYxS9B3R2BKAyt9ZAAAAAA==
+Total Price: AOA809745
+Base Price: USD987.00
+Approx. Total Price: USD1593.58
+Approx. Base Price: USD986.97
+Taxes: AOA308237
+Approx. Taxes: USD606.61
+Refundable: true
+
+Air Pricing Solutions Details 32:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: LH
+Flight 561
+From LAD
+To FRA
+Depart 2020-02-26T22:55:00.000+01:00
+Arrive 2020-02-27T07:25:00.000+01:00
+Airline: LH
+Flight 904
+From FRA
+To LHR
+Depart 2020-02-27T10:00:00.000+01:00
+Arrive 2020-02-27T10:45:00.000+00:00
+
+Journey Details: 
+--------------------------------------
+Airline: LH
+Flight 5595
+From LHR
+To BRU
+Depart 2020-03-04T11:05:00.000+00:00
+Arrive 2020-03-04T13:10:00.000+01:00
+Airline: LH
+Flight 5680
+From BRU
+To LAD
+Depart 2020-03-05T10:30:00.000+01:00
+Arrive 2020-03-05T19:10:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: CYxS9B3R2BKABu9ZAAAAAA==
+Total Price: AOA809745
+Base Price: USD987.00
+Approx. Total Price: USD1593.58
+Approx. Base Price: USD986.97
+Taxes: AOA308237
+Approx. Taxes: USD606.61
+Refundable: true
+
+Air Pricing Solutions Details 33:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: LH
+Flight 561
+From LAD
+To FRA
+Depart 2020-02-26T22:55:00.000+01:00
+Arrive 2020-02-27T07:25:00.000+01:00
+Airline: LH
+Flight 906
+From FRA
+To LHR
+Depart 2020-02-27T12:00:00.000+01:00
+Arrive 2020-02-27T12:45:00.000+00:00
+
+Journey Details: 
+--------------------------------------
+Airline: LH
+Flight 5595
+From LHR
+To BRU
+Depart 2020-03-04T11:05:00.000+00:00
+Arrive 2020-03-04T13:10:00.000+01:00
+Airline: LH
+Flight 5680
+From BRU
+To LAD
+Depart 2020-03-05T10:30:00.000+01:00
+Arrive 2020-03-05T19:10:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: CYxS9B3R2BKAQu9ZAAAAAA==
+Total Price: AOA809745
+Base Price: USD987.00
+Approx. Total Price: USD1593.58
+Approx. Base Price: USD986.97
+Taxes: AOA308237
+Approx. Taxes: USD606.61
+Refundable: true
+
+Air Pricing Solutions Details 34:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: LH
+Flight 561
+From LAD
+To FRA
+Depart 2020-02-26T22:55:00.000+01:00
+Arrive 2020-02-27T07:25:00.000+01:00
+Airline: LH
+Flight 908
+From FRA
+To LHR
+Depart 2020-02-27T14:00:00.000+01:00
+Arrive 2020-02-27T14:45:00.000+00:00
+
+Journey Details: 
+--------------------------------------
+Airline: LH
+Flight 5595
+From LHR
+To BRU
+Depart 2020-03-04T11:05:00.000+00:00
+Arrive 2020-03-04T13:10:00.000+01:00
+Airline: LH
+Flight 5680
+From BRU
+To LAD
+Depart 2020-03-05T10:30:00.000+01:00
+Arrive 2020-03-05T19:10:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: CYxS9B3R2BKAfu9ZAAAAAA==
+Total Price: AOA809745
+Base Price: USD987.00
+Approx. Total Price: USD1593.58
+Approx. Base Price: USD986.97
+Taxes: AOA308237
+Approx. Taxes: USD606.61
+Refundable: true
+
+Air Pricing Solutions Details 35:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: LH
+Flight 561
+From LAD
+To FRA
+Depart 2020-02-26T22:55:00.000+01:00
+Arrive 2020-02-27T07:25:00.000+01:00
+Airline: LH
+Flight 910
+From FRA
+To LHR
+Depart 2020-02-27T15:00:00.000+01:00
+Arrive 2020-02-27T15:45:00.000+00:00
+
+Journey Details: 
+--------------------------------------
+Airline: LH
+Flight 5595
+From LHR
+To BRU
+Depart 2020-03-04T11:05:00.000+00:00
+Arrive 2020-03-04T13:10:00.000+01:00
+Airline: LH
+Flight 5680
+From BRU
+To LAD
+Depart 2020-03-05T10:30:00.000+01:00
+Arrive 2020-03-05T19:10:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: CYxS9B3R2BKAuu9ZAAAAAA==
+Total Price: AOA809745
+Base Price: USD987.00
+Approx. Total Price: USD1593.58
+Approx. Base Price: USD986.97
+Taxes: AOA308237
+Approx. Taxes: USD606.61
+Refundable: true
+
+Air Pricing Solutions Details 36:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: LH
+Flight 561
+From LAD
+To FRA
+Depart 2020-02-26T22:55:00.000+01:00
+Arrive 2020-02-27T07:25:00.000+01:00
+Airline: LH
+Flight 74
+From FRA
+To DUS
+Depart 2020-02-27T09:20:00.000+01:00
+Arrive 2020-02-27T10:10:00.000+01:00
+Airline: LH
+Flight 5354
+From DUS
+To LHR
+Depart 2020-02-27T11:25:00.000+01:00
+Arrive 2020-02-27T12:00:00.000+00:00
+
+Journey Details: 
+--------------------------------------
+Airline: LH
+Flight 5571
+From LHR
+To BRU
+Depart 2020-03-04T17:50:00.000+00:00
+Arrive 2020-03-04T20:00:00.000+01:00
+Airline: LH
+Flight 5680
+From BRU
+To LAD
+Depart 2020-03-05T10:30:00.000+01:00
+Arrive 2020-03-05T19:10:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: CYxS9B3R2BKA/u9ZAAAAAA==
+Total Price: AOA841610
+Base Price: USD987.00
+Approx. Total Price: USD1656.29
+Approx. Base Price: USD986.97
+Taxes: AOA340102
+Approx. Taxes: USD669.32
+Refundable: true
+
+Air Pricing Solutions Details 37:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: LH
+Flight 561
+From LAD
+To FRA
+Depart 2020-02-26T22:55:00.000+01:00
+Arrive 2020-02-27T07:25:00.000+01:00
+Airline: LH
+Flight 74
+From FRA
+To DUS
+Depart 2020-02-27T09:20:00.000+01:00
+Arrive 2020-02-27T10:10:00.000+01:00
+Airline: LH
+Flight 5152
+From DUS
+To LHR
+Depart 2020-02-27T14:25:00.000+01:00
+Arrive 2020-02-27T15:00:00.000+00:00
+
+Journey Details: 
+--------------------------------------
+Airline: LH
+Flight 5571
+From LHR
+To BRU
+Depart 2020-03-04T17:50:00.000+00:00
+Arrive 2020-03-04T20:00:00.000+01:00
+Airline: LH
+Flight 5680
+From BRU
+To LAD
+Depart 2020-03-05T10:30:00.000+01:00
+Arrive 2020-03-05T19:10:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: CYxS9B3R2BKAQv9ZAAAAAA==
+Total Price: AOA841610
+Base Price: USD987.00
+Approx. Total Price: USD1656.29
+Approx. Base Price: USD986.97
+Taxes: AOA340102
+Approx. Taxes: USD669.32
+Refundable: true
+
+Air Pricing Solutions Details 38:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: LH
+Flight 561
+From LAD
+To FRA
+Depart 2020-02-26T22:55:00.000+01:00
+Arrive 2020-02-27T07:25:00.000+01:00
+Airline: LH
+Flight 74
+From FRA
+To DUS
+Depart 2020-02-27T09:20:00.000+01:00
+Arrive 2020-02-27T10:10:00.000+01:00
+Airline: LH
+Flight 5354
+From DUS
+To LHR
+Depart 2020-02-27T11:25:00.000+01:00
+Arrive 2020-02-27T12:00:00.000+00:00
+
+Journey Details: 
+--------------------------------------
+Airline: LH
+Flight 5595
+From LHR
+To BRU
+Depart 2020-03-04T11:05:00.000+00:00
+Arrive 2020-03-04T13:10:00.000+01:00
+Airline: LH
+Flight 5680
+From BRU
+To LAD
+Depart 2020-03-05T10:30:00.000+01:00
+Arrive 2020-03-05T19:10:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: CYxS9B3R2BKAhv9ZAAAAAA==
+Total Price: AOA841610
+Base Price: USD987.00
+Approx. Total Price: USD1656.29
+Approx. Base Price: USD986.97
+Taxes: AOA340102
+Approx. Taxes: USD669.32
+Refundable: true
+
+Air Pricing Solutions Details 39:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: LH
+Flight 561
+From LAD
+To FRA
+Depart 2020-02-26T22:55:00.000+01:00
+Arrive 2020-02-27T07:25:00.000+01:00
+Airline: LH
+Flight 74
+From FRA
+To DUS
+Depart 2020-02-27T09:20:00.000+01:00
+Arrive 2020-02-27T10:10:00.000+01:00
+Airline: LH
+Flight 5152
+From DUS
+To LHR
+Depart 2020-02-27T14:25:00.000+01:00
+Arrive 2020-02-27T15:00:00.000+00:00
+
+Journey Details: 
+--------------------------------------
+Airline: LH
+Flight 5595
+From LHR
+To BRU
+Depart 2020-03-04T11:05:00.000+00:00
+Arrive 2020-03-04T13:10:00.000+01:00
+Airline: LH
+Flight 5680
+From BRU
+To LAD
+Depart 2020-03-05T10:30:00.000+01:00
+Arrive 2020-03-05T19:10:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: CYxS9B3R2BKAUs9ZAAAAAA==
+Total Price: AOA841610
+Base Price: USD987.00
+Approx. Total Price: USD1656.29
+Approx. Base Price: USD986.97
+Taxes: AOA340102
+Approx. Taxes: USD669.32
+Refundable: true
+
+Air Pricing Solutions Details 40:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 55
+From LAD
+To JNB
+Depart 2020-02-26T13:05:00.000+01:00
+Arrive 2020-02-26T17:30:00.000+02:00
+Airline: SA
+Flight 234
+From JNB
+To LHR
+Depart 2020-02-26T20:50:00.000+02:00
+Arrive 2020-02-27T06:25:00.000+00:00
+
+Journey Details: 
+--------------------------------------
+Airline: AF
+Flight 1181
+From LHR
+To CDG
+Depart 2020-03-04T19:50:00.000+00:00
+Arrive 2020-03-04T22:10:00.000+01:00
+Airline: AF
+Flight 928
+From CDG
+To LAD
+Depart 2020-03-05T22:05:00.000+01:00
+Arrive 2020-03-06T06:30:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: CYxS9B3R2BKAzv9ZAAAAAA==
+Total Price: AOA2335399
+Base Price: USD4019.00
+Approx. Total Price: USD4596.07
+Approx. Base Price: USD4018.87
+Taxes: AOA293292
+Approx. Taxes: USD577.20
+Refundable: true
+
+Air Pricing Solutions Details 41:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7032
+From LAD
+To JNB
+Depart 2020-02-26T09:20:00.000+01:00
+Arrive 2020-02-26T13:50:00.000+02:00
+Airline: SA
+Flight 234
+From JNB
+To LHR
+Depart 2020-02-26T20:50:00.000+02:00
+Arrive 2020-02-27T06:25:00.000+00:00
+
+Journey Details: 
+--------------------------------------
+Airline: AF
+Flight 1181
+From LHR
+To CDG
+Depart 2020-03-04T19:50:00.000+00:00
+Arrive 2020-03-04T22:10:00.000+01:00
+Airline: AF
+Flight 928
+From CDG
+To LAD
+Depart 2020-03-05T22:05:00.000+01:00
+Arrive 2020-03-06T06:30:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: CYxS9B3R2BKAAw9ZAAAAAA==
+Total Price: AOA2342109
+Base Price: USD4019.00
+Approx. Total Price: USD4609.27
+Approx. Base Price: USD4018.87
+Taxes: AOA300002
+Approx. Taxes: USD590.40
+Refundable: true
+
+Air Pricing Solutions Details 42:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 55
+From LAD
+To JNB
+Depart 2020-02-26T13:05:00.000+01:00
+Arrive 2020-02-26T17:30:00.000+02:00
+Airline: SA
+Flight 234
+From JNB
+To LHR
+Depart 2020-02-26T20:50:00.000+02:00
+Arrive 2020-02-27T06:25:00.000+00:00
+
+Journey Details: 
+--------------------------------------
+Airline: LH
+Flight 5571
+From LHR
+To BRU
+Depart 2020-03-04T17:50:00.000+00:00
+Arrive 2020-03-04T20:00:00.000+01:00
+Airline: LH
+Flight 5680
+From BRU
+To LAD
+Depart 2020-03-05T10:30:00.000+01:00
+Arrive 2020-03-05T19:10:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: CYxS9B3R2BKAYw9ZAAAAAA==
+Total Price: AOA2697286
+Base Price: USD4736.00
+Approx. Total Price: USD5308.26
+Approx. Base Price: USD4735.84
+Taxes: AOA290862
+Approx. Taxes: USD572.42
+
+Air Pricing Solutions Details 43:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 55
+From LAD
+To JNB
+Depart 2020-02-26T13:05:00.000+01:00
+Arrive 2020-02-26T17:30:00.000+02:00
+Airline: SA
+Flight 234
+From JNB
+To LHR
+Depart 2020-02-26T20:50:00.000+02:00
+Arrive 2020-02-27T06:25:00.000+00:00
+
+Journey Details: 
+--------------------------------------
+Airline: LH
+Flight 5595
+From LHR
+To BRU
+Depart 2020-03-04T11:05:00.000+00:00
+Arrive 2020-03-04T13:10:00.000+01:00
+Airline: LH
+Flight 5680
+From BRU
+To LAD
+Depart 2020-03-05T10:30:00.000+01:00
+Arrive 2020-03-05T19:10:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: CYxS9B3R2BKAow9ZAAAAAA==
+Total Price: AOA2697286
+Base Price: USD4736.00
+Approx. Total Price: USD5308.26
+Approx. Base Price: USD4735.84
+Taxes: AOA290862
+Approx. Taxes: USD572.42
+
+Air Pricing Solutions Details 44:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7032
+From LAD
+To JNB
+Depart 2020-02-26T09:20:00.000+01:00
+Arrive 2020-02-26T13:50:00.000+02:00
+Airline: SA
+Flight 234
+From JNB
+To LHR
+Depart 2020-02-26T20:50:00.000+02:00
+Arrive 2020-02-27T06:25:00.000+00:00
+
+Journey Details: 
+--------------------------------------
+Airline: LH
+Flight 5571
+From LHR
+To BRU
+Depart 2020-03-04T17:50:00.000+00:00
+Arrive 2020-03-04T20:00:00.000+01:00
+Airline: LH
+Flight 5680
+From BRU
+To LAD
+Depart 2020-03-05T10:30:00.000+01:00
+Arrive 2020-03-05T19:10:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: CYxS9B3R2BKA4w9ZAAAAAA==
+Total Price: AOA2703996
+Base Price: USD4736.00
+Approx. Total Price: USD5321.46
+Approx. Base Price: USD4735.84
+Taxes: AOA297572
+Approx. Taxes: USD585.62
+
+Air Pricing Solutions Details 45:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7032
+From LAD
+To JNB
+Depart 2020-02-26T09:20:00.000+01:00
+Arrive 2020-02-26T13:50:00.000+02:00
+Airline: SA
+Flight 234
+From JNB
+To LHR
+Depart 2020-02-26T20:50:00.000+02:00
+Arrive 2020-02-27T06:25:00.000+00:00
+
+Journey Details: 
+--------------------------------------
+Airline: LH
+Flight 5595
+From LHR
+To BRU
+Depart 2020-03-04T11:05:00.000+00:00
+Arrive 2020-03-04T13:10:00.000+01:00
+Airline: LH
+Flight 5680
+From BRU
+To LAD
+Depart 2020-03-05T10:30:00.000+01:00
+Arrive 2020-03-05T19:10:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: CYxS9B3R2BKABr9ZAAAAAA==
+Total Price: AOA2703996
+Base Price: USD4736.00
+Approx. Total Price: USD5321.46
+Approx. Base Price: USD4735.84
+Taxes: AOA297572
+Approx. Taxes: USD585.62
+

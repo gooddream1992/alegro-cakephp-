@@ -1,0 +1,1 @@
+<i class="fa fa-envelope" style=" font-size: 18px; color: #000; padding-right: 7px;"></i> <?php echo __('Messages'); ?> <?php if($for_count){ ?><span class="notif1"><?php echo $for_count;?></span><?php } ?>

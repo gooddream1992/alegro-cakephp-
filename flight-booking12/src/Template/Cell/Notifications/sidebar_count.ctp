@@ -1,0 +1,1 @@
+<i class="fas fa-bell" style=" font-size: 18px; color: #f9d749; padding-right: 7px;"></i> Notifications <?php if($for_count){ ?><span class="notif1"><?php echo $for_count;?></span><?php } ?>

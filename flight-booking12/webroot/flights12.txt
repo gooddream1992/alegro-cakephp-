@@ -1,0 +1,88 @@
+Air Pricing Solutions Details 1:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: DT
+Flight 442
+From CBT
+To LAD
+Depart 2019-01-01T11:20:00.000+01:00
+Arrive 2019-01-01T12:20:00.000+01:00
+Airline: DT
+Flight 650
+From LAD
+To LIS
+Depart 2019-01-01T23:55:00.000+01:00
+Arrive 2019-01-02T06:10:00.000+00:00
+
+Journey Details: 
+--------------------------------------
+Airline: DT
+Flight 653
+From LIS
+To LAD
+Depart 2019-01-16T23:00:00.000+00:00
+Arrive 2019-01-17T07:10:00.000+01:00
+Airline: DT
+Flight 441
+From LAD
+To CBT
+Depart 2019-01-17T09:40:00.000+01:00
+Arrive 2019-01-17T10:40:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: ckwyCf3R2BKApAnYLAAAAA==
+Total Price: GBP536.30
+Base Price: USD471.00
+Approx. Total Price: GBP536.30
+Approx. Base Price: GBP369.00
+Taxes: GBP167.30
+Approx. Taxes: GBP167.30
+Refundable: true
+
+Air Pricing Solutions Details 2:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: DT
+Flight 442
+From CBT
+To LAD
+Depart 2019-01-01T11:20:00.000+01:00
+Arrive 2019-01-01T12:20:00.000+01:00
+Airline: DT
+Flight 650
+From LAD
+To LIS
+Depart 2019-01-01T23:55:00.000+01:00
+Arrive 2019-01-02T06:10:00.000+00:00
+
+Journey Details: 
+--------------------------------------
+Airline: DT
+Flight 651
+From LIS
+To LAD
+Depart 2019-01-16T10:00:00.000+00:00
+Arrive 2019-01-16T18:30:00.000+01:00
+Airline: DT
+Flight 441
+From LAD
+To CBT
+Depart 2019-01-17T09:40:00.000+01:00
+Arrive 2019-01-17T10:40:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: ckwyCf3R2BKAxAnYLAAAAA==
+Total Price: GBP551.30
+Base Price: USD491.00
+Approx. Total Price: GBP551.30
+Approx. Base Price: GBP384.00
+Taxes: GBP167.30
+Approx. Taxes: GBP167.30
+Refundable: true
+

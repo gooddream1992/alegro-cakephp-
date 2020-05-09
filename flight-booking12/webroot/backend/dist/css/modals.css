@@ -1,0 +1,350 @@
+.modal-content{
+  border-radius: 10px;
+  width: 672px;
+}
+.modal-content .close{
+  position: absolute;
+  right: -30px;
+  top: -30px;
+  background-color: white;
+  border-radius: 50%;
+  width: 30px;
+  height: 30px;
+  font-size: 17px;
+  opacity: 1;
+}
+
+
+#loginModal .modal-left,
+#loginModal .modal-right{
+  padding: 70px 50px 30px;
+}
+
+.modal-title{
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: black;
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+.modal-subtitle{
+  font-family: 'Work Sans', Arial;
+  color: #b4b4c8;
+  font-size: 16px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.login-form .form-control{
+  margin-bottom: 30px;
+}
+.login-form button[type="submit"]{
+  width: 100%;
+}
+
+.modal-bottom-hint{
+  margin-top: 100px;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #b4b4c8;
+  font-size: 14px;
+  font-weight: 200;
+}
+.modal-bottom-hint a{
+  color: black;
+  font-weight: bold;
+}
+
+
+.or-split{
+  position: absolute;
+  background-color: #f9d749;
+  border-radius: 50%;
+  border: 2px solid white;
+  color: black;
+  font-weight: bold;
+  width: 35px;
+  height: 35px;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  line-height: 30px;
+  left: 50%;
+  top: 50%;
+  transform: translateX(-50%);
+}
+
+
+#loginModal .modal-right{
+  position: relative;
+  background: linear-gradient(
+      rgba(249, 215, 73, 0.8),
+      rgba(249, 215, 73, 0.8)
+    ), url('../img/cta_bg1.jpg') no-repeat center center;
+  border-radius: 0 10px 10px 0;
+}
+
+.modal-right .modal-subtitle{
+  color: black;
+}
+
+.social-sign-in{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translateX(-50%);
+  font-size: 25px;
+  width: 100%;
+  text-align: center;
+}
+
+.social-sign-in .list-inline-item{
+  background-color: #f9d749;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  border: solid white 4px;
+  text-align: center;
+  line-height: 42px;
+}
+.social-sign-in .list-inline-item:not(:last-child) {
+    margin-right: 40px;
+}
+
+.social-sign-in a{
+  color: inherit; /* blue colors for links too */
+  text-decoration: inherit; /* no underline */
+}
+
+
+
+
+
+/* Register modal */
+#registerModal .modal-content{
+  padding: 70px 0 30px;
+}
+.register-form .form-row{
+  margin-top: 20px;
+}
+.register-form .form-row{
+  margin-bottom: 20px;
+}
+.register-form button[type="submit"]{
+  width: 100%;
+  margin-top: 20px;
+}
+#registerModal .modal-bottom-hint{
+  margin-top: 50px;
+}
+
+
+
+
+
+/* Modals details */
+#cookiesPolicyModal .modal-content, #notificationModal .modal-content{
+  padding: 30px 10px;
+}
+.flight-details-title{
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: black;
+  font-size: 24px;
+}
+.flight-details-price{
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: black;
+  font-size: 28px;
+  font-weight: bold;
+  line-height: 22px;
+}
+.flight-details-price-subtitle{
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #a8a8bc;
+  font-size: 15px;
+  line-height: 22px;
+}
+.flight-details-departure-title{
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 15px;
+  color: #404057;
+  margin: 20px 0;
+}
+
+.flight-details-row{
+  margin: 20px -15px;
+}
+.flight-details-airline-logo{
+  width: 40px;
+  display: inline-block;
+}
+.flight-details-company-flight{
+  display: inline-block;
+  font-family: "Work Sans", Arial;
+  font-size: 13px;
+  color: #b4b4c8;
+  font-weight: bold;
+}
+.flight-details-infos{
+  font-family: "Work Sans", Arial;
+  font-size: 13px;
+  color: #404057;
+}
+.flight-details-date{
+  font-weight: bold;
+}
+.flight-details-duration{
+  font-family: "Work Sans", Arial;
+  font-size: 13px;
+  color: #b4b4c8;
+}
+.flight-details-duration hr{
+  margin: 7px 0;
+  border-top: 3px solid #b4b4c8;
+}
+.flight-details-duration hr:before,
+.flight-details-duration hr:after{
+  content:"\A";
+  width:10px;
+  height:10px;
+  border-radius:50%;
+  background: #b4b4c8;
+  display:inline-block;
+  position: absolute;
+  bottom: 3px;
+}
+.flight-details-duration hr:before{
+  left: 10px;
+}
+.flight-details-duration hr:after{
+  right: 10px;
+}
+
+.flight-details-layover{
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  color: black;
+  background-color: #f9d749;
+  width: 100%;
+  padding: 10px 0;
+  border-radius: 10px;
+  margin: 15px 0;
+  font-weight: lighter;
+}
+.flight-details-layover span{
+  font-weight: bold;
+}
+
+
+
+
+
+
+
+
+.pp-title{
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: black;
+  font-size: 24px;
+}
+.pp-content{
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #b4b4c8;
+  font-size: 17px;
+  font-weight: 300;
+  height: 450px;
+  overflow-y: scroll;
+  overflow-x: hidden;
+}
+#privacyPolicyModal .form-check{
+  padding-left: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 18px;
+}
+/* Scrollbar */
+/* Let's get this party started */
+::-webkit-scrollbar {
+    width: 8px;
+}
+::-webkit-scrollbar:horizontal {
+    width: 8px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background-color: rgba(237,242,246,1);
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    background: rgba(249,215,73,1);
+}
+::-webkit-scrollbar-thumb:window-inactive {
+	background: rgba(249,215,73,1);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* EOF */

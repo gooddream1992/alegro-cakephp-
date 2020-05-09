@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<!--
+  Invoice template by invoicebus.com
+  To customize this template consider following this guide https://invoicebus.com/how-to-create-invoice-template/
+  This template is under Invoicebus Template License, see https://invoicebus.com/templates/license/
+-->
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Lope (deepblue)</title>
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <meta name="description" content="Invoicebus Invoice Template">
+    <meta name="author" content="Invoicebus">
+
+    <meta name="template-hash" content="ab23e18e6011a32a3f7604593a37a383">
+
+    <link rel="stylesheet" href="css/template.css">
+	<link rel="stylesheet" href="css/generator.min.css">
+  </head>
+  <body>
+    <div id="container">
+      <div class="invoice-top">
+        <section id="memo">
+          <div class="logo">
+            <img data-logo="{company_logo}" />
+          </div>
+
+          <div class="company-name">Go-explore</div>
+          
+          <div class="company-info">
+            <div>{company_address}</div>
+            <div>{company_city_zip_state}</div>
+            <br />
+            <div>{company_email_web}</div>
+            <br />
+            <div>{company_phone_fax}</div>
+          </div>
+
+        </section>
+      </div>
+      
+      <div class="invoice-body">
+        <section id="invoice-title-number">
+        
+          <span id="title">{invoice_title}</span>
+          <br />
+          <span id="number">{invoice_number}</span>
+          <br />
+          <span class="hidden">{issue_date_label}</span> <span>{issue_date}</span>
+          
+        </section>
+        
+        <div class="clearfix"></div>
+
+        <section id="client-invoice-info">
+          <table cellpadding="0" cellspacing="0">
+            <tr>
+              <td>Due Date:</td>
+              <td>04 July 2018</td>
+              <td></td>
+              <td class="gray-text">{bill_to_label}</td>
+            </tr>
+            <tr>
+              <td>{net_term_label}</td>
+              <td>{net_term}</td>
+              <td></td>
+              <td class="bold">{client_name}</td>
+            </tr>
+            <tr>
+              <td><span class="hidden">{po_number_label}</span></td>
+              <td><span class="hidden">{po_number}</span></td>
+              <td></td>
+              <td>{client_address}</td>
+            </tr>
+            <tr>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td>{client_city_zip_state}</td>
+            </tr>
+            <tr>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td>{client_phone_fax}</td>
+            </tr>
+            <tr>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td>{client_email}</td>
+            </tr>
+            <tr>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td>{client_other}</td>
+            </tr>
+          </table>
+        </section>
+        
+        <div class="clearfix"></div>
+        
+        <section id="items">
+          
+          <table cellpadding="0" cellspacing="0">
+          
+            <tr>
+              <th>ID</th> <!-- Dummy cell for the row number and row commands -->
+              <th>Passenger</th>
+              <th>Airline</th>
+              <th>Date</th>
+              <th>Total Price</th>
+              <th>Company %</th>
+            </tr>
+            
+            <tr data-iterate="item">
+              <td>1</td> <!-- Don't remove this column as it's needed for the row commands -->
+              <td>Rafael Afonso</td>
+              <td>TAAG</td>
+              <td>04 July 2018</td>
+              <td>800</td>
+              <td>100</td>
+            </tr>
+			
+			<tr data-iterate="item">
+              <td>2</td> <!-- Don't remove this column as it's needed for the row commands -->
+              <td>Rafael Afonso</td>
+              <td>TAAG</td>
+              <td>04 July 2018</td>
+              <td>800</td>
+              <td>100</td>
+            </tr>
+            
+          </table>
+          
+        </section>
+        
+        <section id="sums">
+        
+          <table cellpadding="0" cellspacing="0">
+            <tr>
+              <th>{amount_subtotal_label}</th>
+              <td>{amount_subtotal}</td>
+            </tr>
+            
+            <tr data-iterate="tax">
+              <th>{tax_name}</th>
+              <td>{tax_value}</td>
+            </tr>
+            
+            <tr class="amount-total">
+              <th>{amount_total_label}</th>
+              <td>{amount_total}</td>
+            </tr>
+            
+            <!-- You can use attribute data-hide-on-quote="true" to hide specific information on quotes.
+                 For example Invoicebus doesn't need amount paid and amount due on quotes  -->
+            <tr data-hide-on-quote="true">
+              <th>{amount_paid_label}</th>
+              <td>{amount_paid}</td>
+            </tr>
+            
+            <tr data-hide-on-quote="true">
+              <th>AMOUNT DUE:</th>
+              <td>900</td>
+            </tr>
+            
+          </table>
+          
+        </section>
+        
+        <div class="clearfix"></div>
+        
+        <section id="terms">
+        
+          <span>Invoice Terms:</span>
+          <div>Fred, thank you very much. We really appreciate your business. <BR/>
+		  Please send payments before the due date.</div>
+          
+        </section>
+
+        <div class="payment-info">
+          <div>Payments:</div>
+          <div>ACC - 123006705</div>
+          <div>| IBAN - US100000060345</div>
+          <div>| SWIFT - BOA447</div>
+        </div>
+
+        <div class="currency">
+          <span>All prices are in</span> <span>AOA</span>
+        </div>
+      </div>
+      
+      <div class="bottom-stripe"></div>
+    </div>
+
+   
+	<script src="js/bootstrap.min.js"></script>
+	<script src="js/jquery.min.js"></script>
+  </body>
+</html>

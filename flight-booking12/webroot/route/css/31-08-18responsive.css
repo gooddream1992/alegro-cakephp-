@@ -1,0 +1,493 @@
+@media screen and (max-width: 1199px) and (min-width: 992px) {
+    
+    .container-radio.checkbox {
+        font-size: 14px;
+    }
+    .container-radio.radio-list-buttons {
+        width: 55px;
+        height: 40px;
+        line-height: 40px;
+    }
+    .time {
+        font-size: 19px;
+        line-height: 14px;
+    }
+    .time span {
+        font-size: 12px;
+    }
+    .departure,
+    .Arrival {
+        font-size: 11px;
+    }
+    .no-gutters img {
+        width: 45px;
+    }
+    .destination-search-title {
+        font-size: 18px;
+    }
+    .destination-search-subtitle {
+        font-size: 11px;
+    }
+    .title {
+        font-size: 20px;
+    }
+    
+    #summary{
+        width: 0;
+        padding: 0;
+    }
+}
+
+@media screen and (max-width: 991px) and (min-width: 768px) {
+    .formIconSort{
+        top: 25px!important;
+    }
+    .col-custom-4 {
+        width: 25%;
+    }
+    .col-custom-5 {
+        width: 39%;
+    }
+    .time {
+        font-size: 19px;
+        line-height: 14px;
+    }
+    .time span {
+        font-size: 12px;
+    }
+    .departure,
+    .Arrival {
+        font-size: 9px;
+    }
+    .stopsRange {
+        width: 75px;
+    }
+    .tab {
+        font-size: 17px;
+    }
+    .btn-book {
+        width: 77px;
+        height: 31px;
+        line-height: 31px;
+        font-size: 15px;
+    }
+    .tab-title .d-table-cell:last-child {
+        width: 175px;
+    }
+    .header-tab {
+        height: 70px;
+        line-height: 70px;
+    }
+    .container-radio.checkbox {
+        font-size: 14px;
+        margin-bottom: 19px;
+    }
+    .title {
+        font-size: 18px;
+    }
+    .no-gutters img {
+        width: 35px;
+    }
+    .destination-search-title {
+        font-size: 15px;
+    }
+    .destination-search-subtitle {
+        font-size: 9px;
+    }
+    .btn-change {
+        line-height: 30px;
+    }
+    .container-radio.radio-list-buttons {
+        width: 55px;
+        height: 39px;
+        line-height: 39px;
+    }
+    .footerResults p {
+        font-size: 14px;
+    }
+    .btn-continue,
+    .btn-continue:focus {
+        width: 140px;
+    }
+    .details .line td:first-child img {
+        width: 25px;
+    }
+    .details .line td:first-child {
+        width: 50px;
+    }
+    .m-20 {
+        margin: 15px 0;
+    }
+    #slider-handles {
+        margin-top: 40px;
+    }
+    .adult label {
+        font-size: 13px;
+    }
+    ::-webkit-input-placeholder {
+        /* Chrome/Opera/Safari */
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+        font-size: 12px;
+        font-weight: bold;
+        color: #bfbfce !important;
+    }
+
+    ::-moz-placeholder {
+        /* Firefox 19+ */
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+        font-size: 12px;
+        font-weight: bold;
+        color: #bfbfce !important;
+    }
+
+    :-ms-input-placeholder {
+        /* IE 10+ */
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+        font-size: 12px;
+        font-weight: bold;
+        color: #bfbfce !important;
+    }
+
+    :-moz-placeholder {
+        /* Firefox 18- */
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+        font-size: 12px;
+        font-weight: bold;
+        color: #bfbfce !important;
+    }
+    .nice-select{
+        font-size: 13px;
+    }
+    .tarif .boxT{
+        margin: 0 3px;
+        height: 350px;
+    }
+    .tarif .boxT.active{
+        height: 410px;
+    }
+    .card label{
+        font-size: 13px;
+    }
+    .tarif .boxT ul li{
+        font-size: 13px;
+    }
+    .confirmation .radio-confirmation{
+        font-size: 14px;
+    }
+    
+    #summary{
+        width: 0;
+        padding: 0;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .col-custom-4 {
+        width: 25%;
+    }
+    .col-custom-5 {
+        width: 39%;
+    }
+    .time {
+        font-size: 13px;
+        line-height: 14px;
+    }
+    .time span {
+        font-size: 10px;
+    }
+    .departure,
+    .Arrival {
+        font-size: 9px;
+    }
+    .stopsRange {
+        width: 75px;
+    }
+    .tab {
+        font-size: 17px;
+    }
+    .btn-book {
+        width: 50px;
+        height: 25px;
+        line-height: 25px;
+        font-size: 12px;
+    }
+    .bookBtn > span{
+        margin-bottom: 0;
+        font-size: 15px;
+    }
+    .tab-title .d-table-cell:last-child {
+        width: 175px;
+    }
+    .header-tab {
+        height: 70px;
+        line-height: 70px;
+    }
+    .container-radio.checkbox {
+        font-size: 14px;
+        margin-bottom: 19px;
+    }
+    .title {
+        font-size: 18px;
+        padding-left: 15px;
+    }
+    .no-gutters img {
+        width: 35px;
+    }
+    .destination-search-title {
+        font-size: 15px;
+    }
+    .destination-search-subtitle {
+        font-size: 9px;
+    }
+    .btn-change {
+        line-height: 30px;
+    }
+    .container-radio.radio-list-buttons {
+        width: 55px;
+        height: 39px;
+        line-height: 39px;
+    }
+    .footerResults p {
+        display: none;
+    }
+    .btn-continue,
+    .btn-continue:focus {
+        width: 140px;
+        display: block;
+        margin: auto;
+    }
+    .details .line td:first-child img {
+        width: 16px;
+    }
+    .details .line td:first-child {
+            width: 27px;
+        padding: 0 4px;
+    }
+    .m-20 {
+        margin: 15px 0;
+    }
+    #slider-handles {
+        margin-top: 40px;
+    }
+    .adult label {
+        font-size: 17px;
+    }
+    ::-webkit-input-placeholder {
+        /* Chrome/Opera/Safari */
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+        font-size: 12px;
+        font-weight: bold;
+        color: #bfbfce !important;
+    }
+
+    ::-moz-placeholder {
+        /* Firefox 19+ */
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+        font-size: 12px;
+        font-weight: bold;
+        color: #bfbfce !important;
+    }
+
+    :-ms-input-placeholder {
+        /* IE 10+ */
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+        font-size: 12px;
+        font-weight: bold;
+        color: #bfbfce !important;
+    }
+
+    :-moz-placeholder {
+        /* Firefox 18- */
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+        font-size: 12px;
+        font-weight: bold;
+        color: #bfbfce !important;
+    }
+    .nice-select{
+        font-size: 13px;
+    }
+    .tarif .boxT{
+        margin: 0 3px;
+        height: 350px;
+    }
+    .tarif .boxT.active{
+        height: 410px;
+    }
+    .card label{
+        font-size: 17px;
+    }
+    .tarif .boxT ul li{
+        font-size: 13px;
+    }
+    .confirmation .radio-confirmation{
+        font-size: 14px;
+    }
+    .btn-change{
+        width: 110px;
+        height: 40px;
+        line-height: 40px;
+        display: block;
+        margin: auto;
+        margin-top: 15px;
+        border-color: #fff !important;
+        border-width: 2px;
+        border-style: solid;
+    }
+    .booking-selected-padding{
+        padding: 17px 0;
+        padding-bottom: 5px;
+    }
+    .tab-results-mob{
+        background-color: transparent;
+        padding: 0;
+    }
+    .sortby-label{
+        display: none !important;
+    }
+    .nice-select.sortBy{
+        background-color: #f9d749;
+        color: #595455 !important;
+    }
+    .departure, .Arrival{
+        display: none;
+    }
+    .details .line td:last-child{
+        padding: 0;
+    }
+    .departArrivale{
+        display: -webkit-flex;
+        display: -moz-flex;
+        display: -ms-flex;
+        display: -o-flex;
+        display: flex;
+        justify-content: space-between;
+    }
+    .details.desktop{
+        display: none;
+    }
+    .details.mobile{
+        display: block;
+    }
+    .bookBtn{
+        max-width: 70px
+    }
+    .footerResults{
+        padding-top: 20px;
+        padding-bottom: 30px;
+    }
+    .tab-travlling{
+        border-radius: 0;
+        text-align: center;
+        height: 55px;
+        line-height: 55px;
+    }
+    .adult{
+        padding: 15px;
+    }
+    .adult > h2{
+        font-size: 18px;
+    }
+    .information{
+        padding: 20px 10px;
+    }
+    .information table td:last-child{
+        display: none;
+    }
+    .information table td:first-child{
+        width: 80%;
+    }
+    .information table td:nth-child(2){
+        width: 20%;
+    }
+    .baggage, .Equipment{
+        padding-left: 0 !important;
+        border-width: 0;
+    }
+    .quantity{
+        margin-bottom: 15px;
+    }
+    .btn-passenger, .btn-passenger:focus{
+        width: 170px;
+        height: 40px;
+        line-height: 40px;
+        text-align: center;
+        padding: 0;
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+    .btn-continue-mob, .btn-continue-mob:focus{
+        display: inline-block;
+        width: 120px;
+        height: 40px;
+        line-height: 40px;
+        
+    }
+    .tab-confir{
+        border-radius: 0;
+        height: 70px;
+            line-height: 23px;
+    text-align: center;
+    padding-top: 12px;
+    }
+    .card, .confirmation{
+        padding-left: 15px;
+        padding-right: 15px;
+        margin-bottom: 0;
+    }
+    .cardTipe img{
+        width: 135px;
+    }
+    .cardTipe li{
+        margin-right: 5px;
+    }
+    .cardTipe li:last-child{
+        margin-right: 0;
+    }
+    .tarif{
+        width: 290px;
+        margin: auto;
+        margin-bottom: 40px;
+    }
+    .tarif .slick-dots{
+        padding: 0;
+        margin: 0;
+        list-style-type: none;
+        position: absolute;
+        left: 50%;
+        bottom: -30px;
+        -webkit-transform: translate(-50%);
+        -ms-transform: translate(-50%);
+        -o-transform: translate(-50%);
+        transform: translate(-50%);
+    }
+    .tarif .slick-dots li{
+        display: inline-block;
+        margin: 0 5px;
+    }
+    .tarif .slick-dots li button{
+        background-color: #eee;
+        width: 12px;
+        height: 16px;
+        border-radius: 100%;
+        border-color: transparent;
+        font-size: 0;
+    }
+    .tarif .slick-dots li.slick-active button{
+        background-color: #f9d749;
+    }
+    .tarif .boxT{
+        margin: 0;
+        padding: 30px 54px;
+    }
+    .tarif .boxT img{
+        margin: auto;
+        margin-bottom: 20px;
+    }
+    .tarif .boxT.active{
+        height: 350px;
+    }
+    #summary{
+        width: 0;
+        padding: 0;
+    }
+}

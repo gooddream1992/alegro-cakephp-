@@ -1,0 +1,4412 @@
+::HOMEPAGE TITLE::
+
+msgid "Low-cost flights, flight tickets, low-cost tickets | Alegro"
+msgstr "Vols pas chers, billets d'avion, billets pas chers, réservations de chambres d'hôtel | Alegro"
+
+::CONTACT US PAGE TITLE::
+
+msgid "Talk to us | Alegro"
+msgstr "Parle-nous | Alegro"
+
+::ABOUT PAGE TITLE::
+
+msgid "Who are we? | Alegro"
+msgstr "Qui sommes nous? | Alegro"
+
+::THANK YOU PAGE TITLE::
+
+msgid "Thank you for your order | Alegro"
+msgstr "Nous vous remercions de votre commande | Alegro"
+
+::REGISTRATION SUCCESS PAGE TITLE::
+
+msgid "Your account has been successfully created | Alegro"
+msgstr "Votre compte à été créé avec succès | Alegro"
+
+::FAQ PAGE TITLE::
+
+msgid "HelpDesk | Alegro"
+msgstr "Bureau d'Aide | Alegro"
+
+::CHANGE PASSWORD PAGE TITLE::
+
+msgid "Change your password | Alegro"
+msgstr "Changez votre mot de passe | Alegro"
+
+::NOTIFICATIONS PAGE TITLE::
+
+msgid "Notifications | Alegro"
+msgstr "Notifications | Alegro"
+
+::MY BOOKINGS PAGE TITLE::
+
+msgid "My Bookings | Alegro"
+msgstr "Mes réservations | Alegro"
+
+::FARE DETAILS PAGE TITLE::
+
+msgid "Fare Details | Alegro"
+msgstr "Détails du tarif | Alegro"
+
+::ROUTE REVIEW PAGE TITLE::
+
+msgid "Route Review | Alegro"
+msgstr "Examen de la route | Alegro"
+
+::PRIVACY POLICY PAGE TITLE::
+
+msgid "Privacy Policy | Alegro"
+msgstr "Politique de confidentialité | Alegro"
+
+::COOKIES POLICY PAGE TITLE::
+
+msgid "Cookies Policy | Alegro"
+msgstr "Politique de cookies | Alegro"
+
+::TERMS & CONDITION PAGE TITLE::
+
+msgid "Terms of Use | Alegro"
+msgstr "Termes et conditions | Alegro"
+
+::WELCOME EMAIL TEMPLATE ALEGRO EXTRANET TITLE::
+
+msgid "Welcome to Alegro Extranet"
+msgstr "Bienvenue sur l'extranet Alegro"
+
+::ORDER ON-HOLD EMAIL TEMPLATE ALEGRO WEBSITE TITLE::
+
+msgid "Order On-Hold"
+msgstr "Commande en Attente"
+
+
+
+::HEADER MENU LINKS::
+
+msgid "HOME"
+msgstr "MAISON"
+
+msgid "ABOUT"
+msgstr "L'ENTREPRISE"
+
+msgid "CONTACT"
+msgstr "CONTACTER"
+
+msgid "MY ACCOUNT"
+msgstr "MON COMPTE"
+
+msgid "Profile"
+msgstr "Profil"
+
+msgid "My Bookings"
+msgstr "Mes réservations"
+
+msgid "Logout"
+msgstr "Sortir"
+
+
+
+
+::HOMEPAGE::
+
+msgid "Search For Cheap Flights"
+msgstr "Rechercher des vols pas chers et d'hébergement"
+
+msgid "THE BEST WAY TO BUY CHEAP AIR TICKETS"
+msgstr "LA MEILLEURE FAÇON DE RÉSERVER VOTRE PROCHAINE DESTINATION"
+
+msgid "Soon"
+msgstr "Bientôt"
+
+msgid "Flights"
+msgstr "Vols"
+
+msgid "Accommodations"
+msgstr "Hébergement"
+
+msgid "Accommodation"
+msgstr "Hébergement"
+
+msgid "Flight"
+msgstr "Vol"
+
+msgid "Manage"
+msgstr "Gérer"
+
+msgid "Status"
+msgstr "Statut"
+
+msgid "Return"
+msgstr "Retour"
+
+msgid "One-Way"
+msgstr "Aller simple"
+
+msgid "Origin"
+msgstr "Origine"
+
+msgid "Destination"
+msgstr "Destination"
+
+msgid "Departure Date"
+msgstr "Date de départ"
+
+msgid "Return Date"
+msgstr "Date de retour"
+
+msgid "Cabin"
+msgstr "Classe"
+
+msgid "Economy"
+msgstr "Économique"
+
+msgid "Business"
+msgstr "Exécutive"
+
+msgid "First"
+msgstr "Première"
+
+msgid "Passengers"
+msgstr "Passagers"
+
+msgid "Adults 12+"
+msgstr "Adultes 12+"
+
+msgid "Children (2-11)"
+msgstr "Enfants (2-11)"
+
+msgid "Infants (0-2)"
+msgstr "Bébés (0-2)"
+
+msgid "Rooms"
+msgstr "Chambres"
+
+msgid "Room"
+msgstr "Chambre"
+
+msgid "rooms"
+msgstr "chambres"
+
+msgid "room"
+msgstr "chambre"
+
+msgid "Location"
+msgstr "Emplacement"
+
+msgid "Check-in Date"
+msgstr "Date de Arrivée"
+
+msgid "Check-out"
+msgstr "Check-out"
+
+msgid "Check-out Date"
+msgstr "Date de Départ"
+
+msgid "Search"
+msgstr "Chercher"
+
+msgid "Why Book With Us?"
+msgstr "Pourquoi réserver avec nous?"
+
+msgid "Why Book Explanation"
+msgstr "Nous passons tous des heures à parcourir différents sites de voyage à la recherche des meilleures offres de vols et d'hébergement pour des «vacances parfaites». Mais si nous vous disions qu'il existe une solution plus simple? Si vous pouviez trouver les meilleurs prix pour vos vacances sur un seul et même site web, l'utiliseriez-vous?"
+
+msgid "Cheap Flight Tickets"
+msgstr "Billets de voyage et d'hébergement bon marché"
+
+msgid "Cheap Flight Tickets Explanation"
+msgstr "Réservez avec Alegro vos voyages, nous vous donnerons les meilleurs prix du marché"
+
+msgid "We Have Experience"
+msgstr "Fiable et confortable"
+
+msgid "We Have Experience Explanation"
+msgstr "Faites vos réservations en un clic pratique et sûr"
+
+msgid "Online Payment Safety"
+msgstr "Paiement sécurisé"
+
+msgid "Online Payment Safety Explanation"
+msgstr "Nous acceptons les paiements par référence via un guichet automatique, des services bancaires par Internet, PayPal, VISA et MasterCard"
+
+msgid "Recommended Deals"
+msgstr "Destinations Recommandées"
+
+msgid "Recommended Deals Description"
+msgstr "Nous vous montrerons les 5 (cinq) destinations les plus réservées aux meilleurs prix. Ces 5 (cinq) destinations apparaîtront aléatoirement comme nouvelles réservations"
+
+msgid "Newsletter"
+msgstr "Bulletin"
+
+msgid "Online Check-in"
+msgstr "Enregistrement en ligne"
+
+msgid "Last Name"
+msgstr "Nom de famille"
+
+msgid "Booking Number"
+msgstr "Numéro de réservation"
+
+msgid "Airline"
+msgstr "Compagnie aérienne"
+
+msgid "Check-in"
+msgstr "Enregistrement"
+
+msgid "Manage your bookings"
+msgstr "Gérer vos réservations"
+
+msgid "Manage Booking"
+msgstr "Gérer la réservation"
+
+msgid "Check the status of your flight"
+msgstr "Vérifiez l'état de votre vol"
+
+msgid "Departure Airport"
+msgstr "Aéroport de départ"
+
+msgid "Arrival Airport"
+msgstr "Aéroport d'arrivée"
+
+msgid "Date"
+msgstr "Date"
+
+
+
+::FAQ PAGE::
+
+msgid "Welcome to our help centre"
+msgstr "Centre d'Aide"
+
+
+
+::REGISTRATION SUCCESS PAGE::
+
+msgid "Hi, Rafael"
+msgstr "Bonjour,"
+
+msgid "Your account has been successfully created"
+msgstr "Votre compte à été créé avec succès"
+
+msgid "Next step:"
+msgstr "L'étape suivante:"
+
+msgid "Go check your inbox and confirm your account ASAP. Once the account is confirmed you can then log into your profile using the credentials you´ve used upon registration."
+msgstr "Allez vérifier votre boîte de réception, votre courrier indésirable ou vos dossiers bin pour vérifier votre compte dès que possible. Une fois le compte vérifié, vous pouvez vous connecter à votre profil à l'aide des informations d'identification que vous avez utilisées lors de votre inscription."
+
+
+
+::SEARCH LOADER PAGE::
+
+msgid "Searching for flights from"
+msgstr "À la recherche de vols de"
+
+msgid "to"
+msgstr "vers"
+
+msgid "Passenger"
+msgstr "Passager"
+
+msgid "Passengers"
+msgstr "Passagers"
+
+
+::HOTEL SEARCH LOADER PAGE::
+
+msgid "Searching for properties in"
+msgstr "Rechercher un hébergement dans"
+
+::HOTEL PREVIEW LOADER PAGE::
+
+msgid "Please wait, while we load"
+msgstr "Veuillez patienter pendant le chargement"
+
+
+::HOTEL BOOKING LOADER PAGE::
+
+msgid "Please wait, while we prepare your stay at"
+msgstr "Veuillez patienter pendant que nous préparons votre séjour à"
+
+
+::NEXT TRIP LOADER PAGE::
+
+msgid "Please wait, while we load your next trip to"
+msgstr "Veuillez patienter pendant le chargement de votre prochain voyage à"
+
+msgid "Passenger"
+msgstr "Passager"
+
+msgid "Passengers"
+msgstr "Passagers"
+
+
+
+
+::ORDER LOADER PAGE::
+
+msgid "Please wait! We are finalizing your order to"
+msgstr "S'il vous plaît, attendez! Nous finalisons votre commande à"
+
+msgid "Passenger"
+msgstr "Passager"
+
+msgid "Passengers"
+msgstr "Passagers"
+
+
+
+::FLIGHT THANK YOU PAGE::
+
+msgid "Your order has been successfully booked! In order for us to proceed with the issuance of the ticket, you must make the payment using the bank reference associated with your order."
+msgstr "Votre commande a été réservée avec succès! Pour que nous puissions procéder à l’émission du billet, vous devez effectuer le paiement en utilisant la référence bancaire associée à votre commande."
+
+msgid "Please check if there is an email in the inbox, spam or trash of your email address"
+msgstr "Veuillez vérifier s'il y a un email dans la boîte de réception, un spam ou une corbeille de votre adresse email appelé"
+
+msgid "Pending Order Button"
+msgstr "Penché"
+
+msgid "Pending Order"
+msgstr "En Attente de Commande"
+
+msgid "In this email we give you the instructions to make the payment by way of an ATM or using the online banking of your bank. Thank you in advance for your choice and we wish you a pleasant journey."
+msgstr "Dans cet e-mail, nous vous donnons les instructions pour effectuer le paiement au moyen d'un guichet automatique ou en utilisant les services bancaires en ligne de votre banque. Merci d'avance pour votre choix et nous vous souhaitons un agréable voyage."
+
+
+
+::HOTEL THANK YOU LOADER PAGE::
+
+msgid "Please wait, while we finalize your order and send your details to"
+msgstr "Veuillez patienter pendant que nous finalisons votre commande et envoyons vos coordonnées à"
+
+
+::HOTEL THANK YOU PAGE::
+
+msgid "Your order has been successfully booked! In order for us to proceed with the issuance of itinerary, you must make the payment using the bank reference associated with your order."
+msgstr "Votre commande a été réservée avec succès! Pour que nous puissions procéder à la publication de l'itinéraire, vous devez effectuer le paiement à l'aide de la référence bancaire associée à votre commande."
+
+msgid "In this email we give you the instructions to make the payment via an ATM machine or using the online banking of your bank. Thank you in advance for your choice and we wish you a wonderful stay"
+msgstr "Dans cet email, nous vous donnons les instructions pour effectuer le paiement via un guichet automatique ou en utilisant les services bancaires en ligne de votre banque. Merci d'avance pour votre choix et nous vous souhaitons un merveilleux séjour."
+
+
+
+::SEARCH RESULTS PAGE::
+
+msgid "Filters"
+msgstr "Filtres"
+
+msgid "Price"
+msgstr "Prix"
+
+msgid "Depart Time"
+msgstr "Heure de départ"
+
+msgid "Before 6 am"
+msgstr "Avant 6 heures"
+
+msgid "6 am - 12 pm"
+msgstr "6h à 12h"
+
+msgid "12 pm - 6 pm"
+msgstr "12h à 18h"
+
+msgid "After 6 pm"
+msgstr "Après 18h"
+
+msgid "Stops"
+msgstr "Escales"
+
+msgid "Stop"
+msgstr "Escale"
+
+msgid "I don´t mind"
+msgstr "Ça ne me dérange pas"
+
+msgid "Direct"
+msgstr "Direct"
+
+msgid "1 Stop"
+msgstr "1 Escale"
+
+msgid "2+ Stops"
+msgstr "2+ Escales"
+
+msgid "1 stop"
+msgstr "1 Escale"
+
+msgid "2 stops"
+msgstr "2 Escales"
+
+msgid "3 stops"
+msgstr "3 Escales"
+
+msgid "Airports"
+msgstr "Aéroports"
+
+msgid "Airlines"
+msgstr "Compagnies Aériennes"
+
+msgid "Reset All"
+msgstr "Effacer Tout"
+
+msgid "Result"
+msgstr "Résultat"
+
+msgid "Results"
+msgstr "Résultats"
+
+msgid "Sort by"
+msgstr "Trier par"
+
+msgid "Book"
+msgstr "Réserver"
+
+msgid "Low to High (Recommended)"
+msgstr "Faible à Élevé (Recommandé)"
+
+msgid "High to Low"
+msgstr "Haut en Bas"
+
+msgid "Fastest Route"
+msgstr "Itinéraire le plus rapide"
+
+msgid "Slowest Route"
+msgstr "Itinéraire le plus lent"
+
+msgid "Earliest Take-Off"
+msgstr "Premier décollage"
+
+msgid "Latest Take-Off"
+msgstr "Dernier décollage"
+
+msgid "Earliest Landing"
+msgstr "Premier atterrissage"
+
+msgid "Latest Landing"
+msgstr "Dernier atterrissage"
+
+msgid "No Flights Available"
+msgstr "Aucun vol disponible"
+
+msgid "We could not find any flights according to your selected date. Try searching again with different dates."
+msgstr "Nous n'avons trouvé aucun vol correspondant à la dates choisie. Essayez de chercher à nouveau avec des dates différentes."
+
+msgid "Non-Refundable"
+msgstr "Non-Remboursable"
+
+msgid "Refundable"
+msgstr "Remboursable"
+
+
+
+::HOTEL SEARCH RESULTS PAGE::
+
+msgid "Ratings"
+msgstr "Évaluations"
+
+msgid "star"
+msgstr "étoile"
+
+msgid "stars"
+msgstr "étoiles"
+
+msgid "Unrated"
+msgstr "Non évalué"
+
+msgid "Stars"
+msgstr "Étoiles"
+
+msgid "Reviews"
+msgstr "Commentaires"
+
+msgid "reviews"
+msgstr "commentaires"
+
+msgid "No Properties Available"
+msgstr "Aucune Hébergement Disponible"
+
+msgid "We could not find any properties according to your selected dates. Try searching again with different dates."
+msgstr "Nous n'avons trouvé aucune hébergement en fonction de vos dates sélectionnées. Essayez de chercher à nouveau avec des dates différentes."
+
+msgid "High Quality"
+msgstr "Haute Qualité"
+
+msgid "Medium Quality"
+msgstr "Qualité Moyenne"
+
+msgid "Low Quality"
+msgstr "Basse Qualité"
+
+msgid "Check Availability"
+msgstr "Voir la Disponibilité"
+
+msgid "Best Price"
+msgstr "Meilleure Offre"
+
+msgid "Sponsored"
+msgstr "Sponsorisé"
+
+msgid "was"
+msgstr "avant"
+
+msgid "now"
+msgstr "maintenant"
+
+
+
+::HOTEL PREVIEW PAGE::
+
+msgid "From"
+msgstr "De"
+
+msgid "Price Per Night"
+msgstr "Prix Par Nuit"
+
+msgid "Choose Room"
+msgstr "Choisissez une chambre"
+
+msgid "people are looking at this property"
+msgstr "personnes regardent ce logement"
+
+msgid "See all"
+msgstr "Voir tout"
+
+msgid "photos"
+msgstr "photos"
+
+msgid "photo"
+msgstr "photo"
+
+msgid "INCLUDED FOR FREE"
+msgstr "INCLUS GRATUITEMENT"
+
+msgid "Show All Amenities"
+msgstr "Voir toutes les commodités"
+
+msgid "Guest Rating"
+msgstr "Note des Invités"
+
+msgid "review"
+msgstr "commentaire"
+
+msgid "Guest Reviews & Ratings"
+msgstr "Évaluations et Commentaires des Invités"
+
+msgid "All Reviews"
+msgstr "Tous les commentaires"
+
+msgid "Latest"
+msgstr "Dernier"
+
+msgid "Oldest"
+msgstr "Plus vieux"
+
+msgid "Overall Score"
+msgstr "Note Globale"
+
+msgid "Score breakdown"
+msgstr "Note détaillé"
+
+msgid "based on"
+msgstr "basé sur"
+
+msgid "based one"
+msgstr "basé sur"
+
+msgid "100% verified reviews from guests"
+msgstr "Commentaires 100% vérifiés des invités"
+
+msgid "No Reviews"
+msgstr "Aucun Commentaires"
+
+msgid "You havent received any reviews yet. Treat your guests right and your reviews will be on the way."
+msgstr "Vous n'avez encore reçu aucun commentaire. Traitez bien vos invités et vos commentaires seront bientôt publiés."
+
+msgid "CLEANLINESS"
+msgstr "PROPRETÉ"
+
+msgid "STAFF"
+msgstr "PERSONNEL"
+
+msgid "LOCATION"
+msgstr "EMPLACEMENT"
+
+msgid "Show More"
+msgstr "Montre Plus"
+
+msgid "Show Less"
+msgstr "Montre Moins"
+
+msgid "All ratings are from verified guests of this property"
+msgstr "Toutes les évaluations proviennent de invités vérifiés de cet hébergement."
+
+msgid "Available Rooms"
+msgstr "Chambres Disponibles"
+
+msgid "Room Type"
+msgstr "Type de Chambre"
+
+msgid "Room Details"
+msgstr "Détails de la Chambre"
+
+msgid "Update Search"
+msgstr "Mettre à jour la recherche"
+
+msgid "Room Details and Photos"
+msgstr "Détails de la chambre et photos"
+
+msgid "for"
+msgstr "pour"
+
+msgid "night"
+msgstr "nuit"
+
+msgid "nights"
+msgstr "nuits"
+
+msgid "Similar properties in"
+msgstr "Hébergement similaires dans"
+
+msgid "Compare to other properties in this area before you book:"
+msgstr "Comparez avec d'autres hébergement dans cette zone avant de réserver:"
+
+msgid "YOUR CHOICE"
+msgstr "VOTRE CHOIX"
+
+msgid "Neighbourhood"
+msgstr "Quartier"
+
+msgid "Guest Score"
+msgstr "Note"
+
+msgid "House Rules"
+msgstr "Règles de la Maison"
+
+msgid "Guest Policies"
+msgstr "Politiques d'Invités"
+
+msgid "About this property"
+msgstr "A propos de cet hébergement"
+
+msgid "Best Price."
+msgstr "Meilleur Prix."
+
+msgid "GUARANTEED."
+msgstr "GARANTI."
+
+msgid "This room"
+msgstr "Cette pîece"
+
+msgid "Choose Roomed"
+msgstr "Choisissez Chambre"
+
+msgid "After"
+msgstr "à partir de"
+
+msgid "Before"
+msgstr "jusqu'à"
+
+msgid "Fully Booked"
+msgstr "Complet"
+
+
+
+::HOTEL BOOKING PAGE::
+
+msgid "Do not hesitate! Finish the booking of this room at this great price in"
+msgstr "Ne pas hésiter! Réservez cette chambre à ce merveilleux prix en"
+
+msgid "2 minutes"
+msgstr "2 minutes"
+
+msgid "Only"
+msgstr "Il ne reste que"
+
+msgid "left at this price!"
+msgstr "à ce prix!"
+
+msgid "Includes:"
+msgstr "Comprend:"
+
+msgid "Price Per Room"
+msgstr "Prix Par Chambre"
+
+msgid "Total Price"
+msgstr "Total"
+
+msgid "Your Stay"
+msgstr "Votre Séjour"
+
+msgid "Prices are in"
+msgstr "Les prix sont en"
+
+msgid "Name of Guests"
+msgstr "Nom des invités"
+
+msgid "Aged 18 or older"
+msgstr "18 ans et plus"
+
+msgid "Enter name of guests checking into each rooms. Remember to bring valid photo IDs and credit cards at check-in"
+msgstr "Entrez le nom des invités qui s’enregistreront dans chacune des chambres. N'oubliez pas de vous munir d'une pièce d'identité valide avec photo et de cartes de crédit lors de l'enregistrement"
+
+msgid "Where can we send your itinerary to?"
+msgstr "Où allons-nous envoyer votre itinéraire?"
+
+msgid "Login for faster booking"
+msgstr "Êtes-vous pressé?"
+
+msgid "Good News!"
+msgstr "Bonnes Nouvelles!"
+
+msgid "Keep going, youre almost done!"
+msgstr "Continuez, vous avez presque fini!"
+
+msgid "Booking Terms and Conditions"
+msgstr "Conditions de Réservation"
+
+msgid "By clicking on"
+msgstr "En cliquant sur"
+
+msgid "you agree to the booking terms and condition and privacy policy"
+msgstr "vous acceptez les conditions de réservation et la politique de confidentialité"
+
+
+
+::SEARCH RESULTS PAGE FORM::
+
+msgid "PASSENGER"
+msgstr "PASSAGER"
+
+msgid "PASSENGERS"
+msgstr "PASSAGERS"
+
+msgid "Return"
+msgstr "Retour"
+
+msgid "One-Way"
+msgstr "Aller simple"
+
+msgid "Origin"
+msgstr "Origine"
+
+msgid "Destination"
+msgstr "Destination"
+
+msgid "Departure Date"
+msgstr "Date de départ"
+
+msgid "Return Date"
+msgstr "Date de retour"
+
+msgid "Cabin"
+msgstr "Classe"
+
+msgid "Economy"
+msgstr "Économique"
+
+msgid "Business"
+msgstr "Exécutive"
+
+msgid "First"
+msgstr "Première"
+
+msgid "Passengers"
+msgstr "Passagers"
+
+msgid "Adults 12+"
+msgstr "Adultes 12+"
+
+msgid "Children (2-11)"
+msgstr "Enfants (2-11)"
+
+msgid "Infants (0-2)"
+msgstr "Bébés (0-2)"
+
+msgid "Change"
+msgstr "Changer"
+
+msgid "Search"
+msgstr "Chercher"
+
+
+
+
+::SEARCH RESULTS BOOK MODAL::
+
+msgid "Flight Details"
+msgstr "Les détails du vol"
+
+msgid "DEPARTURE"
+msgstr "DÉPART"
+
+msgid "RETURN"
+msgstr "REVENIR"
+
+msgid "Select"
+msgstr "Sélectionner"
+
+msgid "Cabin"
+msgstr "Classe"
+
+msgid "Economy"
+msgstr "Économique"
+
+msgid "Business"
+msgstr "Exécutive"
+
+msgid "First"
+msgstr "Première"
+
+msgid "Total Price"
+msgstr "Prix Total"
+
+msgid "Direct"
+msgstr "Direct"
+
+msgid "Layover"
+msgstr "Escale"
+
+msgid "Time"
+msgstr "Temps"
+
+msgid "Economy Class"
+msgstr "Classe Économique"
+
+msgid "Business Class"
+msgstr "Classe Exécutive"
+
+msgid "First Class"
+msgstr "Première Classe"
+
+
+
+
+::FARE DETAILS PAGE::
+
+msgid "Departing Flight"
+msgstr "Vol de départ"
+
+msgid "Return Flight"
+msgstr "Vol de retour"
+
+msgid "Economy"
+msgstr "Économique"
+
+msgid "Business"
+msgstr "Exécutive"
+
+msgid "First"
+msgstr "Première"
+
+msgid "Direct"
+msgstr "Direct"
+
+msgid "1 stop"
+msgstr "1 Escale"
+
+msgid "2 stops"
+msgstr "2 Escales"
+
+msgid "3 stops"
+msgstr "3 Escales"
+
+msgid "Price Break-Down"
+msgstr "Montant à payer"
+
+msgid "Passenger"
+msgstr "Passager"
+
+msgid "Passengers"
+msgstr "Passagers"
+
+msgid "PRICE PER PERSON"
+msgstr "Prix Par Personne"
+
+msgid "SERVICE FEE"
+msgstr "Frais de Service"
+
+msgid "TOTAL"
+msgstr "Total"
+
+msgid "Continue as a Guest"
+msgstr "Continuer en tant qu'invité"
+
+msgid "Share Itenerary"
+msgstr "Partager l'itinéraire"
+
+msgid "Continue"
+msgstr "Continuer"
+
+
+
+::ROUTE REVIEW PAGE::
+
+msgid "Your flight to"
+msgstr "Votre vol pour"
+
+msgid "begins here"
+msgstr "commence ici"
+
+msgid "Economy"
+msgstr "Économique"
+
+msgid "Business"
+msgstr "Exécutive"
+
+msgid "First"
+msgstr "Première"
+
+msgid "Direct"
+msgstr "Direct"
+
+msgid "1 stop"
+msgstr "1 Escale"
+
+msgid "2 stops"
+msgstr "2 Escales"
+
+msgid "3 stops"
+msgstr "3 Escales"
+
+msgid "Passenger"
+msgstr "Passager"
+
+msgid "Passengers"
+msgstr "Passagers"
+
+msgid "Male"
+msgstr "Homme"
+
+msgid "Female"
+msgstr "Femme"
+
+msgid "First Name"
+msgstr "Prénom"
+
+msgid "Last Name"
+msgstr "Nom de famille"
+
+msgid "Date of Birth"
+msgstr "Date de naissance"
+
+msgid "Nationality"
+msgstr "Nationalité"
+
+msgid "Document Type"
+msgstr "Type de document"
+
+msgid "ID Issue Country"
+msgstr "Pays d'émission d'identification"
+
+msgid "ID Number"
+msgstr "Numéro d'identification"
+
+msgid "ID Expiry Date"
+msgstr "Date d'expiration d'identification"
+
+msgid "Passport Issue Country"
+msgstr "Pays d'émission du passeport"
+
+msgid "Passport Number"
+msgstr "Numéro de passeport"
+
+msgid "Passport Expiry Date"
+msgstr "Date d'expiration du passeport"
+
+msgid "Your Order"
+msgstr "Montant à payer"
+
+msgid "PRICE PER PERSON"
+msgstr "Prix Par Personne"
+
+msgid "SERVICE FEE"
+msgstr "Frais de Service"
+
+msgid "TOTAL"
+msgstr "Total"
+
+msgid "Luggage"
+msgstr "Bagage"
+
+msgid "Hand Luggage"
+msgstr "Bagage à main"
+
+msgid "Checked-In Luggage"
+msgstr "Bagages enregistrés"
+
+msgid "Free"
+msgstr "Gratuit"
+
+msgid "Your contact info"
+msgstr "Vos coordonnées"
+
+msgid "Email Address"
+msgstr "Adresse électronique"
+
+msgid "Confirm Email Address"
+msgstr "Confirmez adresse électronique"
+
+msgid "Country"
+msgstr "Pays"
+
+msgid "Province"
+msgstr "Province"
+
+msgid "Phone Number"
+msgstr "Numéro de téléphone"
+
+msgid "How would you like to pay?"
+msgstr "Comment voulez-vous payer?"
+
+msgid "Continue"
+msgstr "Continuer"
+
+
+
+::THANK YOU PAGE::
+
+msgid "Thank you for your order."
+msgstr "Nous vous remercions de votre commande."
+
+msgid "Order ID:"
+msgstr "Numéro de commande:"
+
+msgid "Direct"
+msgstr "Direct"
+
+msgid "1 stop"
+msgstr "1 Escale"
+
+msgid "2 stops"
+msgstr "2 Escales"
+
+msgid "3 stops"
+msgstr "3 Escales"
+
+msgid "Booked"
+msgstr "Réservé"
+
+
+
+::COUNTRY NAMES::
+
+msgid "France"
+msgstr "France"
+
+msgid "Holland"
+msgstr "Hollande"
+
+msgid "Greece"
+msgstr "Grèce"
+
+msgid "Spain"
+msgstr "Espagne"
+
+msgid "South Africa"
+msgstr "Afrique du Sud"
+
+msgid "Singapore"
+msgstr "Singapour"
+
+msgid "Japan"
+msgstr "Japon"
+
+msgid "Belgium"
+msgstr "Belgique"
+
+msgid "Germany"
+msgstr "Allemagne"
+
+msgid "Italy"
+msgstr "Italie"
+
+msgid "United States of America"
+msgstr "États-Unis d'Amérique"
+
+msgid "England"
+msgstr "Angleterre"
+
+msgid "Brazil"
+msgstr "Brésil"
+
+msgid "Czech Republic"
+msgstr "République Tchèque"
+
+msgid "Morocco"
+msgstr "Maroc"
+
+msgid "Mozambique"
+msgstr "Mozambique"
+
+msgid "Ethiopia"
+msgstr "Ethiopie"
+
+msgid "United Arab Emirates"
+msgstr "Emirats Arabes Unis"
+
+msgid "Switzerland"
+msgstr "Suisse"
+
+msgid "Malaysia"
+msgstr "Malaisie"
+
+
+
+
+::CITY NAMES::
+
+msgid "Lisbon"
+msgstr "Lisbonne"
+
+msgid "Prague"
+msgstr "Prague"
+
+msgid "Addis Ababa"
+msgstr "Addis Ababa"
+
+msgid "Amsterdam"
+msgstr "Amsterdam"
+
+msgid "Athens"
+msgstr "Athènes"
+
+msgid "Mumbai"
+msgstr "Mumbai"
+
+msgid "Cape Town"
+msgstr "Le Cap"
+
+msgid "Johannesburg"
+msgstr "Johannesburg"
+
+msgid "Singapore"
+msgstr "Singapour"
+
+msgid "Beijing"
+msgstr "Pékin"
+
+msgid "Brno"
+msgstr "Brno"
+
+msgid "Brussels"
+msgstr "Bruxelles"
+
+msgid "Munchen"
+msgstr "Munique"
+
+msgid "Zurich"
+msgstr "Zurique"
+
+msgid "London"
+msgstr "Londres"
+
+msgid "Rome"
+msgstr "Roma"
+
+msgid "New York"
+msgstr "New York"
+
+msgid "Tokyo"
+msgstr "Tokyo"
+
+msgid "Geneva"
+msgstr "Genève"
+
+msgid "Sepang"
+msgstr "Sepang"
+
+
+
+
+
+::PROFILE ASIDE MENU LINKS::
+
+msgid "My Account"
+msgstr "Mon Compte"
+
+msgid "Profile"
+msgstr "Profil"
+
+msgid "Password"
+msgstr "Mot de passe"
+
+msgid "Settings"
+msgstr "Paramètres"
+
+msgid "My Bookings"
+msgstr "Mes réservations"
+
+msgid "Logout"
+msgstr "Sortir"
+
+
+
+::PROFILE PAGE FORM::
+
+msgid "First Name"
+msgstr "Prénom"
+
+msgid "Last Name"
+msgstr "Nom de famille"
+
+msgid "Email Address"
+msgstr "Adresse électronique"
+
+msgid "Phone Number"
+msgstr "Numéro de téléphone"
+
+msgid "Birth Date"
+msgstr "Date de naissance"
+
+msgid "Gender"
+msgstr "Sexe"
+
+msgid "Country"
+msgstr "Pays"
+
+msgid "Province"
+msgstr "Province"
+
+msgid "Edit Profile"
+msgstr "Editer le profil"
+
+
+
+::EDIT PROFILE PAGE FORM::
+
+msgid "First Name"
+msgstr "Prénom"
+
+msgid "Last Name"
+msgstr "Nom de famille"
+
+msgid "Email Address"
+msgstr "Adresse électronique"
+
+msgid "Phone Number"
+msgstr "Numéro de téléphone"
+
+msgid "Birth Date"
+msgstr "Date de naissance"
+
+msgid "Gender"
+msgstr "Sexe"
+
+msgid "Country"
+msgstr "Pays"
+
+msgid "Province"
+msgstr "Province"
+
+msgid "Save"
+msgstr "Sauvegarder"
+
+
+
+::SETTINGS PAGE FORM::
+
+msgid "Preferred Language"
+msgstr "Langue Préférée"
+
+msgid "Preferred Currency"
+msgstr "Devise Préférée"
+
+msgid "Portuguese (PT)"
+msgstr "Portugais (PT)"
+
+msgid "English (EN)"
+msgstr "Anglais (EN"
+
+msgid "French (FR)"
+msgstr "Français (FR)"
+
+
+
+::FEEDBACK MODAL::
+
+msgid "Feedback Sent!"
+msgstr "Commentaire Soumis!"
+
+msgid "Your feedback has been successfully sent to the property. By sharing your honest feedback, you help other guests know exactly how they will be treated."
+msgstr "Votre commentaire a été envoyé avec succès à l'hébergement. En partageant des commentaires honnêtes, vous aiderez les autres invités à savoir exactement comment ils seront traités."
+
+msgid "Give your feedback!"
+msgstr "Ayez votre mot à dire!"
+
+msgid "Sections"
+msgstr "Sections"
+
+msgid "Cleanliness"
+msgstr "Propreté"
+
+msgid "Staff"
+msgstr "Employés"
+
+msgid "Location"
+msgstr "Emplacement"
+
+
+
+::ALL DONE MODAL::
+
+msgid "All Done!"
+msgstr "Réussi!"
+
+msgid "Your info has been successfully updated."
+msgstr "Votre information a été mise à jour avec succès."
+
+msgid "OK"
+msgstr "D'accord"
+
+
+
+::ACCOUNT NOT FOUND MODAL::
+
+msgid "Account Not Found!"
+msgstr "Compte non trouvé!"
+
+msgid "We couldn´t find this e-mail address in our records. Please, feel free to create an account with this e-mail address."
+msgstr "Nous n'avons pas trouvé cette adresse électronique dans nos archives. S'il vous plaît, n'hésitez pas à créer un compte avec cette adresse électronique."
+
+
+
+
+::LOGIN FAILED MODAL::
+
+msgid "Login Failed!"
+msgstr "Échec de la connexion!"
+
+msgid "Your credentials are not correct. Double-check either your password or e-mail address before trying again."
+msgstr "Vos informations d'identification ne sont pas correctes. Vérifiez votre mot de passe ou votre adresse électronique avant de réessayer."
+
+
+
+
+::CHANGE PASSWORD PAGE FORM::
+
+msgid "Change Password"
+msgstr "Changer le mot de passe"
+
+msgid "Old Password"
+msgstr "Ancien mot de passe"
+
+msgid "New Password"
+msgstr "Nouveau mot de passe"
+
+msgid "Confirm New Password"
+msgstr "Confirmer le nouveau mot de passe"
+
+msgid "Confirm"
+msgstr "Confirmer"
+
+msgid "Change Password"
+msgstr "Changer le mot de passe"
+
+
+
+
+::PASSWORD CHANGED MODAL::
+
+msgid "Password Changed!"
+msgstr "Mot de passe changé!"
+
+msgid "Your password has been successfully changed."
+msgstr "Votre mot de passe a été changé avec succès."
+
+
+
+::MY BOOKINGS PAGE::
+
+msgid "Active"
+msgstr "Actif"
+
+msgid "Pending"
+msgstr "En attendant"
+
+msgid "Past"
+msgstr "Passé"
+
+msgid "More Details"
+msgstr "Plus de Détails"
+
+
+
+
+::LOGGED OUT MODAL::
+
+msgid "Logged Out!"
+msgstr "Déconnecté!"
+
+msgid "You´ve been successfully logged out from your account. You can log back in at anytime."
+msgstr "Vous avez été déconnecté avec succès de votre compte. Vous pouvez vous reconnecter à tout moment."
+
+
+
+
+::LOGIN MODAL::
+
+msgid "Log In"
+msgstr "Compte d'accès"
+
+msgid "Log in with one of the social media networks below"
+msgstr "Connectez-vous avec l'un des réseaux de médias sociaux ci-dessous"
+
+msgid "Log in with your Alegro account credentials"
+msgstr "Connectez-vous avec vos identifiants de compte alegro"
+
+msgid "Email Address"
+msgstr "Adresse électronique"
+
+msgid "Password"
+msgstr "Mot de passe"
+
+msgid "Remember me"
+msgstr "Souviens-toi"
+
+msgid "Forgot pwd?"
+msgstr "Mot de passe oublié?"
+
+msgid "Login"
+msgstr "Connecter"
+
+msgid "Or"
+msgstr "Ou"
+
+msgid "No account?"
+msgstr "Pas de compte?"
+
+msgid "Create an Alegro account"
+msgstr "Créer un compte Alegro"
+
+
+
+::FIRST TIME LOGIN MODAL::
+
+msgid "Hi, Rafael!"
+msgstr "Bonjour Rafael!"
+
+msgid "It´s nice to have you onboard. Before booking your first trip, kindly update the rest of the info on your profile page."
+msgstr "C'est bon de vous avoir à bord. Veuillez mettre à jour le reste de vos informations sur votre page de profil avant de réserver votre premier voyage."
+
+
+
+::FIRST TIME LOGIN MODAL EXTRANET::
+
+msgid "Its nice to have you onboard. Before you begin receiving bookings from your guests, kindly update the rest of the info on your profile page."
+msgstr "C'est bien de vous avoir à bord. Avant de commencer à recevoir les réservations de vos invités, veuillez mettre à jour le reste des informations sur votre page de profil."
+
+
+
+::CONTACT US PAGE::
+
+msgid "Still have questions?"
+msgstr "Vous avez encore des questions?"
+
+msgid "FILL IN THE FORM"
+msgstr "REMPLISSEZ LE FORMULAIRE"
+
+msgid "Name"
+msgstr "Prénom"
+
+msgid "First and Last"
+msgstr "Prénom et nom"
+
+msgid "Phone Number"
+msgstr "Numéro de téléphone"
+
+msgid "Email Address"
+msgstr "Adresse électronique"
+
+msgid "Question Type"
+msgstr "Type de question"
+
+msgid "Question"
+msgstr "Question"
+
+msgid "Request"
+msgstr "Demande"
+
+msgid "Other"
+msgstr "Autre"
+
+msgid "Message"
+msgstr "Message"
+
+msgid "Write your message here..."
+msgstr "Ecrivez votre message ici..."
+
+msgid "Submit"
+msgstr "Soumettre"
+
+
+
+::REGISTER MODAL::
+
+msgid "Register"
+msgstr "S'inscrire"
+
+msgid "Create your alegro account by filling in the boxes below"
+msgstr "Créez votre compte Alegro maintenant!"
+
+msgid "First Name"
+msgstr "Prénom"
+
+msgid "Last Name"
+msgstr "Nom de famille"
+
+msgid "Phone Number"
+msgstr "Numéro de téléphone"
+
+msgid "Email Address"
+msgstr "Adresse électronique"
+
+msgid "Password"
+msgstr "Mot de passe"
+
+msgid "Confirm Password"
+msgstr "Confirmer mot de passe"
+
+msgid "register button"
+msgstr "Enregistrer"
+
+msgid "Have an account?"
+msgstr "Avoir un compte?"
+
+msgid "Sign In"
+msgstr "Connecter"
+
+
+
+
+::LONG MONTHS::
+
+msgid "January"
+msgstr "Janvier"
+
+msgid "February"
+msgstr "Février"
+
+msgid "March"
+msgstr "Mars"
+
+msgid "April"
+msgstr "Avril"
+
+msgid "May"
+msgstr "Mai"
+
+msgid "June"
+msgstr "Juin"
+
+msgid "July"
+msgstr "Juillet"
+
+msgid "August"
+msgstr "Août"
+
+msgid "September"
+msgstr "Septembre"
+
+msgid "October"
+msgstr "Octobre"
+
+msgid "November"
+msgstr "Novembre"
+
+msgid "December"
+msgstr "Décembre"
+
+
+
+
+::SHORT MONTHS::
+
+msgid "Jan"
+msgstr "Jan"
+
+msgid "Feb"
+msgstr "Fév"
+
+msgid "Mar"
+msgstr "Mar"
+
+msgid "Apr"
+msgstr "Avr"
+
+msgid "May"
+msgstr "Mai"
+
+msgid "Jun"
+msgstr "Jui"
+
+msgid "Jul"
+msgstr "Jui"
+
+msgid "Aug"
+msgstr "Aoû"
+
+msgid "Sep"
+msgstr "Sep"
+
+msgid "Oct"
+msgstr "Oct"
+
+msgid "Nov"
+msgstr "Nov"
+
+msgid "Dec"
+msgstr "Déc"
+
+
+
+
+::LONG WEEK DAYS::
+
+msgid "Monday"
+msgstr "Lundi"
+
+msgid "Tuesday"
+msgstr "Mardi"
+
+msgid "Wednesday"
+msgstr "Mercredi"
+
+msgid "Thursday"
+msgstr "Jeudi"
+
+msgid "Friday"
+msgstr "Vendredi"
+
+msgid "Saturday"
+msgstr "Samedi"
+
+msgid "Sunday"
+msgstr "Dimanche"
+
+
+
+
+::SHORT WEEK DAYS::
+
+msgid "Mon"
+msgstr "Lun"
+
+msgid "Tue"
+msgstr "Mar"
+
+msgid "Wed"
+msgstr "Mer"
+
+msgid "Thu"
+msgstr "Jeu"
+
+msgid "Fri"
+msgstr "Ven"
+
+msgid "Sat"
+msgstr "Sam"
+
+msgid "Sun"
+msgstr "Dim"
+
+
+::TIME::
+
+msgid "12:00 AM"
+msgstr "00:00"
+
+msgid "12:05 AM"
+msgstr "00:05"
+
+msgid "12:10 AM"
+msgstr "00:10"
+
+msgid "12:15 AM"
+msgstr "00:15"
+
+msgid "12:20 AM"
+msgstr "00:20"
+
+msgid "12:25 AM"
+msgstr "00:25"
+
+msgid "12:30 AM"
+msgstr "00:30"
+
+msgid "12:35 AM"
+msgstr "00:35"
+
+msgid "12:40 AM"
+msgstr "00:40"
+
+msgid "12:45 AM"
+msgstr "00:45"
+
+msgid "12:50 AM"
+msgstr "00:50"
+
+msgid "12:55 AM"
+msgstr "00:55"
+
+msgid "01:00 AM"
+msgstr "01:00"
+
+msgid "01:05 AM"
+msgstr "01:05"
+
+msgid "01:10 AM"
+msgstr "01:10"
+
+msgid "01:15 AM"
+msgstr "01:15"
+
+msgid "01:20 AM"
+msgstr "01:20"
+
+msgid "01:25 AM"
+msgstr "01:25"
+
+msgid "01:30 AM"
+msgstr "01:30"
+
+msgid "01:35 AM"
+msgstr "01:35"
+
+msgid "01:40 AM"
+msgstr "01:40"
+
+msgid "01:45 AM"
+msgstr "01:45"
+
+msgid "01:50 AM"
+msgstr "01:50"
+
+msgid "01:55 AM"
+msgstr "01:55"
+
+msgid "02:00 AM"
+msgstr "02:00"
+
+msgid "02:05 AM"
+msgstr "02:05"
+
+msgid "02:10 AM"
+msgstr "02:10"
+
+msgid "02:15 AM"
+msgstr "02:15"
+
+msgid "02:20 AM"
+msgstr "02:20"
+
+msgid "02:25 AM"
+msgstr "02:25"
+
+msgid "02:30 AM"
+msgstr "02:30"
+
+msgid "02:35 AM"
+msgstr "02:35"
+
+msgid "02:40 AM"
+msgstr "02:40"
+
+msgid "02:45 AM"
+msgstr "02:45"
+
+msgid "02:50 AM"
+msgstr "02:50"
+
+msgid "02:55 AM"
+msgstr "02:55"
+
+msgid "03:00 AM"
+msgstr "03:00"
+
+msgid "03:05 AM"
+msgstr "03:05"
+
+msgid "03:10 AM"
+msgstr "03:10"
+
+msgid "03:15 AM"
+msgstr "03:15"
+
+msgid "03:20 AM"
+msgstr "03:20"
+
+msgid "03:25 AM"
+msgstr "03:25"
+
+msgid "03:30 AM"
+msgstr "03:30"
+
+msgid "03:35 AM"
+msgstr "03:35"
+
+msgid "03:40 AM"
+msgstr "03:40"
+
+msgid "03:45 AM"
+msgstr "03:45"
+
+msgid "03:50 AM"
+msgstr "03:50"
+
+msgid "03:55 AM"
+msgstr "03:55"
+
+msgid "04:00 AM"
+msgstr "04:00"
+
+msgid "04:05 AM"
+msgstr "04:05"
+
+msgid "04:10 AM"
+msgstr "04:10"
+
+msgid "04:15 AM"
+msgstr "04:15"
+
+msgid "04:20 AM"
+msgstr "04:20"
+
+msgid "04:25 AM"
+msgstr "04:25"
+
+msgid "04:30 AM"
+msgstr "04:30"
+
+msgid "04:35 AM"
+msgstr "04:35"
+
+msgid "04:40 AM"
+msgstr "04:40"
+
+msgid "04:45 AM"
+msgstr "04:45"
+
+msgid "04:50 AM"
+msgstr "04:50"
+
+msgid "04:55 AM"
+msgstr "04:55"
+
+msgid "05:00 AM"
+msgstr "05:00"
+
+msgid "05:05 AM"
+msgstr "05:05"
+
+msgid "05:10 AM"
+msgstr "05:10"
+
+msgid "05:15 AM"
+msgstr "05:15"
+
+msgid "05:20 AM"
+msgstr "05:20"
+
+msgid "05:25 AM"
+msgstr "05:25"
+
+msgid "05:30 AM"
+msgstr "05:30"
+
+msgid "05:35 AM"
+msgstr "05:35"
+
+msgid "05:40 AM"
+msgstr "05:40"
+
+msgid "05:45 AM"
+msgstr "05:45"
+
+msgid "05:50 AM"
+msgstr "05:50"
+
+msgid "05:55 AM"
+msgstr "05:55"
+
+msgid "06:00 AM"
+msgstr "06:00"
+
+msgid "06:05 AM"
+msgstr "06:05"
+
+msgid "06:10 AM"
+msgstr "06:10"
+
+msgid "06:15 AM"
+msgstr "06:15"
+
+msgid "06:20 AM"
+msgstr "06:20"
+
+msgid "06:25 AM"
+msgstr "06:25"
+
+msgid "06:30 AM"
+msgstr "06:30"
+
+msgid "06:35 AM"
+msgstr "06:35"
+
+msgid "06:40 AM"
+msgstr "06:40"
+
+msgid "06:45 AM"
+msgstr "06:45"
+
+msgid "06:50 AM"
+msgstr "06:50"
+
+msgid "06:55 AM"
+msgstr "06:55"
+
+msgid "07:00 AM"
+msgstr "07:00"
+
+msgid "07:05 AM"
+msgstr "07:05"
+
+msgid "07:10 AM"
+msgstr "07:10"
+
+msgid "07:15 AM"
+msgstr "07:15"
+
+msgid "07:20 AM"
+msgstr "07:20"
+
+msgid "07:25 AM"
+msgstr "07:25"
+
+msgid "07:30 AM"
+msgstr "07:30"
+
+msgid "07:35 AM"
+msgstr "07:35"
+
+msgid "07:40 AM"
+msgstr "07:40"
+
+msgid "07:45 AM"
+msgstr "07:45"
+
+msgid "07:50 AM"
+msgstr "07:50"
+
+msgid "07:55 AM"
+msgstr "07:55"
+
+msgid "08:00 AM"
+msgstr "08:00"
+
+msgid "08:05 AM"
+msgstr "08:05"
+
+msgid "08:10 AM"
+msgstr "08:10"
+
+msgid "08:15 AM"
+msgstr "08:15"
+
+msgid "08:20 AM"
+msgstr "08:20"
+
+msgid "08:25 AM"
+msgstr "08:25"
+
+msgid "08:30 AM"
+msgstr "08:30"
+
+msgid "08:35 AM"
+msgstr "08:35"
+
+msgid "08:40 AM"
+msgstr "08:40"
+
+msgid "08:45 AM"
+msgstr "08:45"
+
+msgid "08:50 AM"
+msgstr "08:50"
+
+msgid "08:55 AM"
+msgstr "08:55"
+
+msgid "09:00 AM"
+msgstr "09:00"
+
+msgid "09:05 AM"
+msgstr "09:05"
+
+msgid "09:10 AM"
+msgstr "09:10"
+
+msgid "09:15 AM"
+msgstr "09:15"
+
+msgid "09:20 AM"
+msgstr "09:20"
+
+msgid "09:25 AM"
+msgstr "09:25"
+
+msgid "09:30 AM"
+msgstr "09:30"
+
+msgid "09:35 AM"
+msgstr "09:35"
+
+msgid "09:40 AM"
+msgstr "09:40"
+
+msgid "09:45 AM"
+msgstr "09:45"
+
+msgid "09:50 AM"
+msgstr "09:50"
+
+msgid "09:55 AM"
+msgstr "09:55"
+
+msgid "10:00 AM"
+msgstr "10:00"
+
+msgid "10:05 AM"
+msgstr "10:05"
+
+msgid "10:10 AM"
+msgstr "10:10"
+
+msgid "10:15 AM"
+msgstr "10:15"
+
+msgid "10:20 AM"
+msgstr "10:20"
+
+msgid "10:25 AM"
+msgstr "10:25"
+
+msgid "10:30 AM"
+msgstr "10:30"
+
+msgid "10:35 AM"
+msgstr "10:35"
+
+msgid "10:40 AM"
+msgstr "10:40"
+
+msgid "10:45 AM"
+msgstr "10:45"
+
+msgid "10:50 AM"
+msgstr "10:50"
+
+msgid "10:55 AM"
+msgstr "10:55"
+
+msgid "11:00 AM"
+msgstr "11:00"
+
+msgid "11:05 AM"
+msgstr "11:05"
+
+msgid "11:10 AM"
+msgstr "11:10"
+
+msgid "11:15 AM"
+msgstr "11:15"
+
+msgid "11:20 AM"
+msgstr "11:20"
+
+msgid "11:25 AM"
+msgstr "11:25"
+
+msgid "11:30 AM"
+msgstr "11:30"
+
+msgid "11:35 AM"
+msgstr "11:35"
+
+msgid "11:40 AM"
+msgstr "11:40"
+
+msgid "11:45 AM"
+msgstr "11:45"
+
+msgid "11:50 AM"
+msgstr "11:50"
+
+msgid "11:55 AM"
+msgstr "11:55"
+
+msgid "12:00 PM"
+msgstr "12:00"
+
+msgid "12:05 PM"
+msgstr "12:05"
+
+msgid "12:10 PM"
+msgstr "12:10"
+
+msgid "12:15 PM"
+msgstr "12:15"
+
+msgid "12:20 PM"
+msgstr "12:20"
+
+msgid "12:25 PM"
+msgstr "12:25"
+
+msgid "12:30 PM"
+msgstr "12:30"
+
+msgid "12:35 PM"
+msgstr "12:35"
+
+msgid "12:40 PM"
+msgstr "12:40"
+
+msgid "12:45 PM"
+msgstr "12:45"
+
+msgid "12:50 PM"
+msgstr "12:50"
+
+msgid "12:55 PM"
+msgstr "12:55"
+
+msgid "01:00 PM"
+msgstr "13:00"
+
+msgid "01:05 PM"
+msgstr "13:05"
+
+msgid "01:10 PM"
+msgstr "13:10"
+
+msgid "01:15 PM"
+msgstr "13:15"
+
+msgid "01:20 PM"
+msgstr "13:20"
+
+msgid "01:25 PM"
+msgstr "13:25"
+
+msgid "01:30 PM"
+msgstr "13:30"
+
+msgid "01:35 PM"
+msgstr "13:35"
+
+msgid "01:40 PM"
+msgstr "13:40"
+
+msgid "01:45 PM"
+msgstr "13:45"
+
+msgid "01:50 PM"
+msgstr "13:50"
+
+msgid "01:55 PM"
+msgstr "13:55"
+
+msgid "02:00 PM"
+msgstr "14:00"
+
+msgid "02:05 PM"
+msgstr "14:05"
+
+msgid "02:10 PM"
+msgstr "14:10"
+
+msgid "02:15 PM"
+msgstr "14:15"
+
+msgid "02:20 PM"
+msgstr "14:20"
+
+msgid "02:25 PM"
+msgstr "14:25"
+
+msgid "02:30 PM"
+msgstr "14:30"
+
+msgid "02:35 PM"
+msgstr "14:35"
+
+msgid "02:40 PM"
+msgstr "14:40"
+
+msgid "02:45 PM"
+msgstr "14:45"
+
+msgid "02:50 PM"
+msgstr "14:50"
+
+msgid "02:55 PM"
+msgstr "14:55"
+
+msgid "03:00 PM"
+msgstr "15:00"
+
+msgid "03:05 PM"
+msgstr "15:05"
+
+msgid "03:10 PM"
+msgstr "15:10"
+
+msgid "03:15 PM"
+msgstr "15:15"
+
+msgid "03:20 PM"
+msgstr "15:20"
+
+msgid "03:25 PM"
+msgstr "15:25"
+
+msgid "03:30 PM"
+msgstr "15:30"
+
+msgid "03:35 PM"
+msgstr "15:35"
+
+msgid "03:40 PM"
+msgstr "15:40"
+
+msgid "03:45 PM"
+msgstr "15:45"
+
+msgid "03:50 PM"
+msgstr "15:50"
+
+msgid "03:55 PM"
+msgstr "15:55"
+
+msgid "04:00 PM"
+msgstr "16:00"
+
+msgid "04:05 PM"
+msgstr "16:05"
+
+msgid "04:10 PM"
+msgstr "16:10"
+
+msgid "04:15 PM"
+msgstr "16:15"
+
+msgid "04:20 PM"
+msgstr "16:20"
+
+msgid "04:25 PM"
+msgstr "16:25"
+
+msgid "04:30 PM"
+msgstr "16:30"
+
+msgid "04:35 PM"
+msgstr "16:35"
+
+msgid "04:40 PM"
+msgstr "16:40"
+
+msgid "04:45 PM"
+msgstr "16:45"
+
+msgid "04:50 PM"
+msgstr "16:50"
+
+msgid "04:55 PM"
+msgstr "16:55"
+
+msgid "05:00 PM"
+msgstr "17:00"
+
+msgid "05:05 PM"
+msgstr "17:05"
+
+msgid "05:10 PM"
+msgstr "17:10"
+
+msgid "05:15 PM"
+msgstr "17:15"
+
+msgid "05:20 PM"
+msgstr "17:20"
+
+msgid "05:25 PM"
+msgstr "17:25"
+
+msgid "05:30 PM"
+msgstr "17:30"
+
+msgid "05:35 PM"
+msgstr "17:35"
+
+msgid "05:40 PM"
+msgstr "17:40"
+
+msgid "05:45 PM"
+msgstr "17:45"
+
+msgid "05:50 PM"
+msgstr "17:50"
+
+msgid "05:55 PM"
+msgstr "17:55"
+
+msgid "06:00 PM"
+msgstr "18:00"
+
+msgid "06:05 PM"
+msgstr "18:05"
+
+msgid "06:10 PM"
+msgstr "18:10"
+
+msgid "06:15 PM"
+msgstr "18:15"
+
+msgid "06:20 PM"
+msgstr "18:20"
+
+msgid "06:25 PM"
+msgstr "18:25"
+
+msgid "06:30 PM"
+msgstr "18:30"
+
+msgid "06:35 PM"
+msgstr "18:35"
+
+msgid "06:40 PM"
+msgstr "18:40"
+
+msgid "06:45 PM"
+msgstr "18:45"
+
+msgid "06:50 PM"
+msgstr "18:50"
+
+msgid "06:55 PM"
+msgstr "18:55"
+
+msgid "07:00 PM"
+msgstr "19:00"
+
+msgid "07:05 PM"
+msgstr "19:05"
+
+msgid "07:10 PM"
+msgstr "19:10"
+
+msgid "07:15 PM"
+msgstr "19:15"
+
+msgid "07:20 PM"
+msgstr "19:20"
+
+msgid "07:25 PM"
+msgstr "19:25"
+
+msgid "07:30 PM"
+msgstr "19:30"
+
+msgid "07:35 PM"
+msgstr "19:35"
+
+msgid "07:40 PM"
+msgstr "19:40"
+
+msgid "07:45 PM"
+msgstr "19:45"
+
+msgid "07:50 PM"
+msgstr "19:50"
+
+msgid "07:55 PM"
+msgstr "19:55"
+
+msgid "08:00 PM"
+msgstr "20:00"
+
+msgid "08:05 PM"
+msgstr "20:05"
+
+msgid "08:10 PM"
+msgstr "20:10"
+
+msgid "08:15 PM"
+msgstr "20:15"
+
+msgid "08:20 PM"
+msgstr "20:20"
+
+msgid "08:25 PM"
+msgstr "20:25"
+
+msgid "08:30 PM"
+msgstr "20:30"
+
+msgid "08:35 PM"
+msgstr "20:35"
+
+msgid "08:40 PM"
+msgstr "20:40"
+
+msgid "08:45 PM"
+msgstr "20:45"
+
+msgid "08:50 PM"
+msgstr "20:50"
+
+msgid "08:55 PM"
+msgstr "20:55"
+
+msgid "09:00 PM"
+msgstr "21:00"
+
+msgid "09:05 PM"
+msgstr "21:05"
+
+msgid "09:10 PM"
+msgstr "21:10"
+
+msgid "09:15 PM"
+msgstr "21:15"
+
+msgid "09:20 PM"
+msgstr "21:20"
+
+msgid "09:25 PM"
+msgstr "21:25"
+
+msgid "09:30 PM"
+msgstr "21:30"
+
+msgid "09:35 PM"
+msgstr "21:35"
+
+msgid "09:40 PM"
+msgstr "21:40"
+
+msgid "09:45 PM"
+msgstr "21:45"
+
+msgid "09:50 PM"
+msgstr "21:50"
+
+msgid "09:55 PM"
+msgstr "21:55"
+
+msgid "10:00 PM"
+msgstr "22:00"
+
+msgid "10:05 PM"
+msgstr "22:05"
+
+msgid "10:10 PM"
+msgstr "22:10"
+
+msgid "10:15 PM"
+msgstr "22:15"
+
+msgid "10:20 PM"
+msgstr "22:20"
+
+msgid "10:25 PM"
+msgstr "22:25"
+
+msgid "10:30 PM"
+msgstr "22:30"
+
+msgid "10:35 PM"
+msgstr "22:35"
+
+msgid "10:40 PM"
+msgstr "22:40"
+
+msgid "10:45 PM"
+msgstr "22:45"
+
+msgid "10:50 PM"
+msgstr "22:50"
+
+msgid "10:55 PM"
+msgstr "22:55"
+
+msgid "11:00 PM"
+msgstr "23:00"
+
+msgid "11:05 PM"
+msgstr "23:05"
+
+msgid "11:10 PM"
+msgstr "23:10"
+
+msgid "11:15 PM"
+msgstr "23:15"
+
+msgid "11:20 PM"
+msgstr "23:20"
+
+msgid "11:25 PM"
+msgstr "23:25"
+
+msgid "11:30 PM"
+msgstr "23:30"
+
+msgid "11:35 PM"
+msgstr "23:35"
+
+msgid "11:40 PM"
+msgstr "23:40"
+
+msgid "11:45 PM"
+msgstr "23:45"
+
+msgid "11:50 PM"
+msgstr "23:50"
+
+msgid "11:55 PM"
+msgstr "23:55"
+
+
+
+::AIRPORT NAMES::
+
+msgid "Addis Ababa Bole International Airport"
+msgstr "Aéroport international d'Addis-Abeba Bole"
+
+msgid "Anaa Airport"
+msgstr "Aéroport d'Anaa"
+
+msgid "Schiphol Airport"
+msgstr "Aéroport d'Schiphol"
+
+msgid "Eleftherios Venizelos International Airport"
+msgstr "Aéroport international Eleftherios Venizelos"
+
+msgid "El Prat Airport"
+msgstr "Aéroport El Prat"
+
+msgid "Chhatrapati Shivaji International Airport"
+msgstr "Aéroport international de Chhatrapati Shivaji"
+
+msgid "Cabinda Airport"
+msgstr "Aéroport d'Cabinda"
+
+msgid "Catumbela Airport"
+msgstr "Aéroport d'Catumbela"
+
+msgid "Charles De Gaulle Airport"
+msgstr "Aéroport Charles De Gaulle"
+
+msgid "Mohammed V International Airport"
+msgstr "Aéroport international Mohammed V"
+
+msgid "Cape Town International Airport"
+msgstr "Aéroport international du Cap"
+
+msgid "King Shaka International Airport"
+msgstr "Aéroport international King Shaka"
+
+msgid "Dubai International Airport"
+msgstr "Aéroport international de Dubai"
+
+msgid "Frankfurt Airport"
+msgstr "Aéroport d'Frankfurt"
+
+msgid "Galeão International Airport"
+msgstr "Aéroport international de Galeão"
+
+msgid "Guarulhos International Airport"
+msgstr "Aéroport international de Guarulhos"
+
+msgid "José Martí International Airport"
+msgstr "Aéroport international José Martí"
+
+msgid "Robert Gabriel Mugabe International Airport"
+msgstr "Aéroport international Robert Gabriel Mugabe"
+
+msgid "O. R. Tambo International Airport"
+msgstr "Aéroport international O. R. Tambo"
+
+msgid "4 De Fevereiro Airport"
+msgstr "Aéroport 4 De Fevereiro"
+
+msgid "Los Angeles International Airport"
+msgstr "Aéroport international de Los Angeles"
+
+msgid "Humberto Delgado Airport"
+msgstr "Aéroport Humberto Delgado"
+
+msgid "Luena Airport"
+msgstr "Aéroport d'Luena"
+
+msgid "Madrid Barajas International Airport"
+msgstr "Aéroport international de Madrid Barajas"
+
+msgid "Miami International Airport"
+msgstr "Aéroport international de Miami"
+
+msgid "Maputo International Airport"
+msgstr "Aéroport international de Maputo"
+
+msgid "Welwitschia Mirabilis Airport"
+msgstr "Aéroport Welwitschia Mirabilis"
+
+msgid "Albano Machado Airport"
+msgstr "Aéroport Albano Machado"
+
+msgid "Paris Orly Airport"
+msgstr "Aéroport Paris Orly"
+
+msgid "Václav Havel Airport Prague"
+msgstr "Aéroport Václav Havel"
+
+msgid "Wonderboom Airport"
+msgstr "Aéroport Wonderboom"
+
+msgid "Seattle–Tacoma International Airport"
+msgstr "Aéroport international de Seattle – Tacoma"
+
+msgid "Mukanka Airport"
+msgstr "Aéroport d'Mukanka "
+
+msgid "San Francisco International Airport"
+msgstr "Aéroport international de San Francisco"
+
+msgid "Singapore Changi Airport"
+msgstr "Aéroport de Changi"
+
+msgid "Soyo Airport"
+msgstr "Aéroport d'Soyo"
+
+msgid "São Tomé International Airport"
+msgstr "Aéroport international de São Tomé"
+
+msgid "Deolinda Rodrigues Airport"
+msgstr "Aéroport Deolinda Rodrigues"
+
+msgid "Boston Logan International Airport"
+msgstr "Aéroport international de Boston Logan"
+
+msgid "Brno Airport"
+msgstr "Aéroport d'Brno"
+
+msgid "Brussels National Airport"
+msgstr "Aéroport National de Bruxelles"
+
+msgid "Bandaranayake International Airport"
+msgstr "Aéroport international Bandaranaike"
+
+msgid "Munich Airport"
+msgstr "Aéroport d'Munich"
+
+msgid "Zurich Airport"
+msgstr "Aéroport d'Zurich"
+
+msgid "Indira Gandhi International Airport"
+msgstr "Aéroport international Indira Gandhi"
+
+msgid "Gatwick Airport"
+msgstr "Aéroport d'Gatwick"
+
+msgid "Heathrow Airport"
+msgstr "Aéroport d'Heathrow"
+
+msgid "Hosea Kutako International Airport"
+msgstr "Aéroport international d'Hosea Kutako"
+
+msgid "Rome International Airport"
+msgstr "Aéroport international de rome"
+
+msgid "John F. Kennedy International Airport"
+msgstr "Aéroport international John F. Kennedy"
+
+msgid "Comandante Kuenha Airport"
+msgstr "Aéroport Comandante Kuenha"
+
+msgid "Beijing Capital International Airport"
+msgstr "Aéroport international de Pékin"
+
+msgid "Hong Kong International Airport"
+msgstr "Aéroport international de Hong Kong"
+
+msgid "Houston George Bush Intercontinental Airport"
+msgstr "Aéroport intercontinental George Bush de Houston"
+
+msgid "Tokyo International Airport"
+msgstr "Aéroport international de Tokyo"
+
+msgid "Toronto Pearson International Airport"
+msgstr "Aéroport international Pearson de Toronto"
+
+msgid "Porto Airport"
+msgstr "Aéroport d'Porto"
+
+msgid "Geneva International Airport"
+msgstr "Aéroport international de Genève"
+
+msgid "Kuala Lumpur International Airport"
+msgstr "Aéroport international de Kuala Lumpur"
+
+msgid "Close"
+msgstr "Fermer"
+
+
+
+::FORGOTTEN PASSWORD MODAL::
+
+msgid "Forgotten Password"
+msgstr "Mot de passe oublié"
+
+msgid "Please, enter your email to recover your password."
+msgstr "S'il vous plaît, entrez votre email pour récupérer votre mot de passe."
+
+msgid "Email Address"
+msgstr "Adresse électronique"
+
+msgid "Submit"
+msgstr "Soumettre"
+
+
+
+::PASSWORD REQUEST SUCCESS MODAL::
+
+msgid "Your request is on the way!"
+msgstr "Votre demande est en route!"
+
+msgid "A link to reset your password has been sent to your registered email address. Please, click on the generated link on your email and choose your new password."
+msgstr "Un lien pour réinitialiser votre mot de passe a été envoyé à votre adresse électronique enregistrée. S'il vous plaît, cliquez sur le lien généré sur votre adresse électronique et choisissez votre nouveau mot de passe."
+
+
+::PASSWORD REQUEST FAIL MODAL::
+
+msgid "We´re sorry!"
+msgstr "Nous sommes désolés!"
+
+msgid "This email address is not associated with our database. Please, confirm your email address and request again."
+msgstr "Cette adresse électronique n'est pas associée à notre base de données. S'il vous plaît, confirmez votre adresse électronique et demandez à nouveau."
+
+
+::ACCOUNT ALREADY EXISTS MODAL::
+
+msgid "Account Already Exists!"
+msgstr "Le compte existe déjà!"
+
+msgid "We have noticed that you´re trying to use an e-mail address that is already in use. Please, feel free to create an account using a different e-mail address."
+msgstr "Nous avons remarqué que vous essayez d’utiliser une adresse électronique déjà utilisée. S'il vous plaît, n'hésitez pas à créer un compte en utilisant une adresse électronique de messagerie différente."
+
+
+::ACCOUNT UNCONFIRMED MODAL::
+
+msgid "Account Unconfirmed!"
+msgstr "Compte non confirmé!"
+
+msgid "Your account has not been confirmed yet. Please, check your inbox to activate your account."
+msgstr "Votre compte n'a pas encore été confirmé. S'il vous plaît, vérifiez votre boîte de réception pour activer votre compte."
+
+msgid "Resend Verification Link"
+msgstr "Renvoyer le Lien de Vérification"
+
+
+
+::RESENT EMAIL TEMPLATE MODAL::
+
+msgid "Verification Link Resent!"
+msgstr "Lien de Vérification Renvoyé!"
+
+msgid "Weve successfully resent a new verification link to your email address"
+msgstr "Nous avons envoyé avec succès un nouveau lien de vérification à votre adresse électronique"
+
+
+::ACCOUNT CONFIRMED MODAL::
+
+msgid "All Set!"
+msgstr "Tout est réglé!"
+
+msgid "Your account has been successfully confirmed. You can now log into your Alegro account."
+msgstr "Votre compte a été confirmé avec succès. Vous pouvez maintenant vous connecter à votre compte Alegro."
+
+
+::CONTACT FAILED MODAL::
+
+msgid "Message Failed!"
+msgstr "Message a échoué!"
+
+msgid "Your message could not be sent. Please, fix all issues and try again."
+msgstr "Votre message n'a pas pu être envoyé. S'il vous plaît, corrigez tous les problèmes et essayez à nouveau."
+
+
+::CONTACT SENT MODAL::
+
+msgid "Message Sent!"
+msgstr "Message envoyé!"
+
+msgid "Your message has been sent to us. Please wait, as we will get back to you within 24 hours."
+msgstr "Votre message nous a été envoyé. Veuillez patienter car nous vous répondrons dans les 24 heures."
+
+
+::IMAGE UPLOAD ERROR MODAL::
+
+msgid "Image Error!"
+msgstr "Erreur d'image!"
+
+msgid "Alegro only supports images that have the following formats: .jpeg, .jpg, .png and .gif"
+msgstr "Alegro ne prend en charge que les images ayant les formats suivants: .jpeg, .jpg, .png et .gif"
+
+
+::SHARED ITENERARY FORM::
+
+msgid "Share Itenerary"
+msgstr "Partager l'itinéraire"
+
+msgid "Your Name"
+msgstr "Votre nom"
+
+msgid "Enter Your Name"
+msgstr "Entrez votre nom"
+
+msgid "Email Address"
+msgstr "Adresse électronique"
+
+msgid "Enter Email Address"
+msgstr "Entrez Adresse électronique"
+
+msgid "Your Message"
+msgstr "Votre message"
+
+msgid "Type your message here..."
+msgstr "Ecrivez votre message ici..."
+
+msgid "Note:"
+msgstr "Note:"
+
+msgid "To share these flights with friends and family, enter their email addresses below. Note that your email address will be included in the email we send them."
+msgstr "Pour partager ces vols avec vos amis et votre famille, entrez les adresses électroniques ci-dessous. Veuillez noter que votre adresse e-mail sera incluse dans l'e-mail que nous envoyons."
+
+msgid "Recipient 1"
+msgstr "Destinataire 1"
+
+msgid "Recipient 2"
+msgstr "Destinataire 2"
+
+msgid "Cancel"
+msgstr "Annuler"
+
+msgid "Submit"
+msgstr "Soumettre"
+
+
+
+
+::404 ERROR PAGE::
+
+msgid "PAGE NOT FOUND!"
+msgstr "PAGE NON TROUVÉE!"
+
+msgid "The page you are trying to access does not exist."
+msgstr "La page à laquelle vous essayez d'accéder n'existe pas."
+
+msgid "Homepage"
+msgstr "Page d'accueil"
+
+msgid "Contact us!"
+msgstr "Contactez nous!"
+
+
+
+
+::DELETE NOTIFICATIONS MODAL::
+
+msgid "Delete Notification"
+msgstr "Supprimer la notification"
+
+msgid "Are you sure you want to permanently delete this notification?"
+msgstr "Êtes-vous sûr de vouloir supprimer définitivement cette notification?"
+
+msgid "Cancel"
+msgstr "Annuler"
+
+msgid "Delete"
+msgstr "Effacer"
+
+
+
+
+::SHARED ITENERARY MODAL::
+
+msgid "Your itinerary has been shared!"
+msgstr "Votre itinéraire a été partagé!"
+
+msgid "Were happy you found a flight that interests you. Because prices may change, the best way to secure your fare is to book your flight right now."
+msgstr "Nous sommes heureux que vous ayez trouvé un vol qui vous intéresse. Comme les prix peuvent changer, le meilleur moyen de sécuriser votre tarif est de réserver votre vol maintenant."
+
+msgid "Continue with your booking"
+msgstr "Continuez votre réservation"
+
+
+
+::PROPERTY ADDED MODAL::
+
+msgid "Property Added!"
+msgstr "Hébergement Ajoutée!"
+
+msgid "Your property has been successfully submitted. One of our agents will review your property to make sure that it meets our terms and conditions. You will then receive an email to let you know whether its been approved or declined."
+msgstr "Votre hébergement a été soumise avec succès. Un de nos agents examinera votre hébergement pour s'assurer qu'elle respecte nos conditions générales. Vous recevrez ensuite un e-mail vous informant s’il a été publié ou refusé."
+
+
+
+::PROPERTY EDITTED MODAL::
+
+msgid "Property Editted!"
+msgstr "Hébergement Changée!"
+
+msgid "Your property has been successfully editted."
+msgstr "Votre hébergement a été modifiée avec succès."
+
+
+
+::EXTRANET HOMEPAGE::
+
+msgid "No Fees, Ever."
+msgstr "Monétisez votre"
+
+msgid "Earn More on"
+msgstr "hébergement avec"
+
+msgid "Alegro Homes."
+msgstr "Alegro"
+
+msgid "List your place now"
+msgstr "Publier l'hébergement maintenant"
+
+msgid "Continue here"
+msgstr "Créer un compte"
+
+msgid "Here’s what we give you"
+msgstr "Voici ce que nous vous donnons"
+
+msgid "Free listings, with no fine print"
+msgstr "Inscriptions gratuites, sans impression fine"
+
+msgid "No sign up fee, no membership cost, no cut of your room rate. No, really."
+msgstr "Aucun frais d'inscription, aucun frais d'adhésion, aucune réduction du tarif de votre chambre."
+
+msgid "Wide exposure"
+msgstr "Large exposition"
+
+msgid "We get millions of bookings each month from travelers in 200+ countries, all looking for unique accommodation like yours."
+msgstr "Nous recevons plusieurs réservations chaque mois de voyageurs venant en Angola, tous à la recherche d'un hébergement unique comme le vôtre."
+
+msgid "24/7 help in your language"
+msgstr "Aide 24/7 dans votre langue"
+
+msgid "Our support team is always available for you or your guests, in 17 languages."
+msgstr "Notre équipe d'assistance est toujours disponible pour vous ou vos invités, en 3 langues."
+
+msgid "All you have to do"
+msgstr "Tout ce que vous avez à faire"
+
+msgid "Sign in or sign up for an Alegro account"
+msgstr "Connectez-vous ou créez un compte Alegro"
+
+msgid "Upload your property details and pictures"
+msgstr "Téléchargez les détails de votre propriété et des photos"
+
+msgid "Set your prices and available dates"
+msgstr "Fixez vos prix et dates disponibles"
+
+msgid "See your listing go live in front of millions of travelers"
+msgstr "Voir votre hébergement publié devant plusieurs voyageurs et invités"
+
+msgid "Small properties deserve a big audience."
+msgstr "Les petites propriétés méritent un large public."
+
+msgid "LIST YOUR PROPERTY"
+msgstr "PUBLIER L'HÉBERGEMENT"
+
+msgid "All material herein © 2019 Alegro Holdings, Lda, All Rights Reserved."
+msgstr "© Alegro. Tous droits réservés."
+
+msgid "Alegro is part of Alegro Holdings, Lda."
+msgstr "Alegro fait partie de Alegro Holdings, Lda."
+
+
+
+::EXTRANET SIDEBAR::
+
+msgid "Basics"
+msgstr "Informations de base"
+
+msgid "Location"
+msgstr "Emplacement"
+
+msgid "Description"
+msgstr "Description"
+
+msgid "Amenities"
+msgstr "Commodités"
+
+msgid "Pricing"
+msgstr "Prix"
+
+msgid "Availability"
+msgstr "La disponibilité"
+
+msgid "Photos"
+msgstr "Des photos"
+
+msgid "Profile"
+msgstr "Profil"
+
+msgid "Publish"
+msgstr "Publier"
+
+
+
+::EXTRANET LOGIN HEADER AND DASHBOARD PAGE::
+
+msgid "OVERVIEW"
+msgstr "GENERAL"
+
+msgid "MESSAGES"
+msgstr "MESSAGES"
+
+msgid "Messages"
+msgstr "Messages"
+
+msgid "Messages From"
+msgstr "Messages de"
+
+msgid "From Properties"
+msgstr "De l'Hébergement"
+
+msgid "From Admin"
+msgstr "Équipe Alegro"
+
+msgid "Welcome back"
+msgstr "Salut"
+
+msgid "Lets see what we can do today to get more bookings."
+msgstr "N'hésitez pas à publier votre hébergement sur le réseau Alegro."
+
+msgid "Booking booster"
+msgstr "Rappel de réservation"
+
+msgid "Host profile"
+msgstr "Profil d'hôte"
+
+msgid "Edit"
+msgstr "Éditer"
+
+msgid "Last Login"
+msgstr "Dernier Accès"
+
+msgid "Avg. response time"
+msgstr "Moy. Temps de réponse"
+
+msgid "Feedback"
+msgstr "Commentaires"
+
+msgid "Help us improve the platform you use"
+msgstr "Aidez-nous à améliorer la plate-forme que vous utilisez"
+
+msgid "Give us feedback"
+msgstr "Donnez-nous vos commentaires"
+
+msgid "Good job! Booking booster actions complete!"
+msgstr "Gagner de l'argent! Publiez votre hébergement dans la Alegro."
+
+msgid "Your listings are optimized. Check here regularly for more tips and insights."
+msgstr "Votre hébergement sera soumis à un processus de révision et sera disponible pour tous sur le réseau Alegro. Soyez honnête avec nous et remplissez votre hébergement de voyageurs et d’invités."
+
+msgid "Search (property ID or name)"
+msgstr "Rechercher le numéro ou le nom de l'hébergement"
+
+msgid "+ADD A NEW LISTING"
+msgstr "+ PUBLIER UN HÉBERGEMENT"
+
+msgid "Homes"
+msgstr "Hébergements"
+
+msgid "No Properties"
+msgstr "Aucune hébergement publiée"
+
+msgid "You havent published any properties yet. Go ahead and publish your first property now and start to make money."
+msgstr "Vous n'avez encore publié aucun hébergement. N'hésitez pas et postez votre premier hébergement maintenant et commencez à gagner de l'argent."
+
+msgid "Published"
+msgstr "Publié"
+
+msgid "Unfinished"
+msgstr "Non fini"
+
+msgid "Finished"
+msgstr "Fini"
+
+msgid "Cancelled"
+msgstr "Annulé"
+
+msgid "Finish listing"
+msgstr "Terminer"
+
+msgid "Delete listing"
+msgstr "Effacer"
+
+msgid "Active listing"
+msgstr "Activer"
+
+msgid "Deactive listing"
+msgstr "Désactiver"
+
+msgid "Unnamed property"
+msgstr "Hébergement Sans Nom"
+
+msgid "Hosting"
+msgstr "Messages"
+
+msgid "All hosting messages"
+msgstr "Tous les messages"
+
+msgid "Unread"
+msgstr "Non lu"
+
+msgid "Read"
+msgstr "Lire"
+
+msgid "No messages yet"
+msgstr "Pas encore de messages"
+
+msgid "You havent received any message, try to optimize your content to make your property appealling."
+msgstr "Vous n'avez pas encore de message, essayez d'optimiser votre contenu pour rendre votre hébergement attrayant."
+
+msgid "The Alegro app makes hosting even easier!"
+msgstr "L'application Alegro facilite votre hébergement!"
+
+msgid "The Alegro app’s Host Mode gives you on-the-go access to managing availability, prices, content, and more. Download it now!"
+msgstr "Le mode d'hébergement vous permet de gérer la disponibilité, les prix, le contenu et plus encore. Téléchargez maintenant!"
+
+msgid "NEED HELP?"
+msgstr "AIDEZ-MOI?"
+
+msgid "Finance"
+msgstr "Finance"
+
+msgid "New Property"
+msgstr "Publier Hébergement"
+
+msgid "Extranet Bookings"
+msgstr "Réservations"
+
+
+
+::EXTRANET BOOKING AND BOOKING DETAILS PAGE::
+
+msgid "Bookings"
+msgstr "Réservations"
+
+msgid "Order"
+msgstr "Commande"
+
+msgid "Orders"
+msgstr "Commandes"
+
+msgid "Alegro Earnings"
+msgstr "Revenu de Alegro"
+
+msgid "My Earnings"
+msgstr "Mon Revenu"
+
+msgid "Booking Details"
+msgstr "Données de Réservation"
+
+msgid "All Bookings"
+msgstr "Toutes Réservations"
+
+msgid "Today"
+msgstr "Aujourd'hui"
+
+msgid "Yesterday"
+msgstr "Hier"
+
+msgid "This Month"
+msgstr "Ce Mois"
+
+msgid "3 Months Ago"
+msgstr "3 Mois Août"
+
+msgid "6 Months Ago"
+msgstr "6 Mois Août"
+
+msgid "This Year"
+msgstr "Cette Année"
+
+msgid "ID"
+msgstr "#"
+
+msgid "Lead Guest"
+msgstr "Invité Principal"
+
+msgid "Guest Name"
+msgstr "Nom de Invité"
+
+msgid "Commission"
+msgstr "Commission"
+
+msgid "Action"
+msgstr "Action"
+
+msgid "Status"
+msgstr "Statut"
+
+msgid "Showing"
+msgstr "Montrant"
+
+msgid "entries"
+msgstr "entrées"
+
+msgid "to"
+msgstr "à"
+
+msgid "of"
+msgstr "de"
+
+msgid "Paid"
+msgstr "Payé"
+
+msgid "View Info"
+msgstr "Voir"
+
+msgid "Alegro Commission"
+msgstr "Commission de Alegro"
+
+msgid "Conversation with guest"
+msgstr "Conversation avec Invité"
+
+msgid "Return to bookings"
+msgstr "Retour aux Réservations"
+
+msgid "Update This Booking"
+msgstr "Mettre Réservation"
+
+msgid "Change Booking Dates"
+msgstr "Changer Dates"
+
+msgid "Mark As No-Show"
+msgstr "Marquer comme No-Show"
+
+msgid "Mark As Show"
+msgstr "Marquer comme Show"
+
+msgid "Issue a Refund"
+msgstr "Émettre un Remboursement"
+
+msgid "Issue Refund"
+msgstr "Émettre Remboursement"
+
+msgid "Are you sure you want to issue a refund?"
+msgstr "Êtes-vous sûr de vouloir rembourser?"
+
+msgid "Refund"
+msgstr "Rembourser"
+
+msgid "Refunded"
+msgstr "Remboursé"
+
+msgid "Cancel Booking"
+msgstr "Annuler Réservation"
+
+msgid "Are you sure you want to permanently cancel this booking?"
+msgstr "Êtes-vous sûr de vouloir annuler définitivement cette réservation?"
+
+msgid "Ignore"
+msgstr "Ignorer"
+
+msgid "Compose Message"
+msgstr "Envoyer Message"
+
+msgid "Connect with your guest! Let them know what time youd like to welcome them or where they should pick up their keys. Theyre just a phone call away: call them through their phone number. You can also email them or send them a massage."
+msgstr "Connectez-vous avec vos invités! Dites-leur à quelle heure vous souhaitez les recevoir ou à quel endroit ils doivent récupérer leurs clés. Appelez leur numéro de téléphone ou envoyez un message."
+
+msgid "New Message"
+msgstr "Nouveau Message"
+
+msgid "To"
+msgstr "À"
+
+msgid "Subject"
+msgstr "Sujet"
+
+
+
+
+::BASIC TAB::
+
+msgid "Match your property to the right guests."
+msgstr "Votre logement doit avoir les conditions de base pour trouver les bons invités"
+
+msgid "All information is required unless marked optional."
+msgstr "Toutes les informations sont obligatoires, sauf indication contraire."
+
+msgid "Property Type"
+msgstr "Type d'Hébergement"
+
+msgid "Apartment"
+msgstr "Appartement"
+
+msgid "Hotel"
+msgstr "Hôtel"
+
+msgid "Guest-House"
+msgstr "Maison des Invités"
+
+msgid "Villa"
+msgstr "Villa"
+
+msgid "Resort"
+msgstr "Resort"
+
+msgid "Lodge"
+msgstr "Lodge"
+
+msgid "Property size"
+msgstr "Taille de l'Hébergement"
+
+msgid "This field is required."
+msgstr "Ce champ est obligatoire!"
+
+msgid "Sqm"
+msgstr "m²"
+
+msgid "Rooms and details"
+msgstr "Détails de les chambres"
+
+msgid "Accommodates"
+msgstr "Accueillir jusqu'à"
+
+msgid "The maximum number of people who can sleep comfortably given the total bed space and sofas."
+msgstr "Le nombre maximum de personnes pouvant dormir confortablement compte tenu de l’espace de couchage total et des canapés."
+
+msgid "Bathrooms"
+msgstr "Salle de bain"
+
+msgid "Count only bathrooms on your property, not shared or common bathrooms in your building or complex."
+msgstr "Ne comptez que les salles de bains de votre propriété et non les salles de bains communes ou communes de votre immeuble ou de votre complexe."
+
+msgid "Bedrooms"
+msgstr "Chambres"
+
+msgid "The maximum number of bedrooms to comfortably accommodate your guests."
+msgstr "Le nombre maximum de chambres pour accueillir confortablement vos invités."
+
+msgid "Bedroom"
+msgstr "Chambre"
+
+msgid "Bedroom Type"
+msgstr "Type de Chambre"
+
+msgid "ADD ANOTHER BED TYPE"
+msgstr "AJOUTER UN AUTRE TYPE DE LIT"
+
+msgid "Common space"
+msgstr "Salle commune"
+
+msgid "Are there any sleeping surfaces available in common spaces?"
+msgstr "Y a-t-il des surfaces de couchage disponibles dans les espaces communs?"
+
+msgid "single bed"
+msgstr "lit simple"
+
+msgid "semi double-bed"
+msgstr "demi-lit double"
+
+msgid "double bed"
+msgstr "Lit double"
+
+msgid "king bed"
+msgstr "très grand lit"
+
+msgid "super king bed"
+msgstr "lit super king"
+
+msgid "bunk bed"
+msgstr "lit superposé"
+
+msgid "sofa bed"
+msgstr "canapé-lit"
+
+msgid "futon"
+msgstr "futon"
+
+msgid "SAVE AND EXIT"
+msgstr "SAUVEGARDER ET QUITTER"
+
+msgid "PREVIOUS"
+msgstr "PRÉCÉDENT"
+
+msgid "NEXT"
+msgstr "SUIVANT"
+
+
+
+::LOCATION TAB::
+
+msgid "Put yourself on the map"
+msgstr "Placez votre hébergement sur la carte"
+
+msgid "Where will your guests be staying?"
+msgstr "Où resteront vos invités?"
+
+msgid "Location"
+msgstr "Emplacement"
+
+msgid "Guests will only receive your exact address once they’ve confirmed a booking."
+msgstr "Les clients recevront votre adresse exacte dès qu'ils confirmeront la réservation."
+
+msgid "Street address"
+msgstr "Adresse"
+
+msgid "Building, floor and unit number (optional)"
+msgstr "Numéro d'immeuble, étage et unité (optionnel)"
+
+msgid "Country"
+msgstr "Pays"
+
+msgid "Province"
+msgstr "Province"
+
+msgid "Municipality"
+msgstr "Municipalité"
+
+msgid "Zip-code(optional)"
+msgstr "Code postal (optionnel)"
+
+msgid "Map location"
+msgstr "Localisation de la carte"
+
+
+
+::DESCRIPTION TAB::
+
+msgid "What’s unique and wonderful about your property?"
+msgstr "Qu'est-ce qui rend votre hébergement unique et merveilleux?"
+
+msgid "Every room and home is unique. Tell us why yours stands out."
+msgstr "Chaque chambre et chaque hébergement sont uniques. Dites-nous pourquoi le vôtre se démarque."
+
+msgid "Name your property"
+msgstr "Nom de l'hébergement"
+
+msgid "Make it count, and make it sound inviting! Please enter in English. Don’t worry, we’ll generate other languages using a standard translation template. If you want a custom title in a different language, please reach out to us through the help center."
+msgstr "Faites en sorte que le son soit invitant et confortable! S'il vous plaît écrivez en portugais. Malheureusement, nous ne pouvons pas convertir votre contenu dans d'autres langues pour le moment. Nous encourageons les propriétaires d’hôte non angolais ou portugais à utiliser Google Translate pour traduire leur contenu natif en portugais."
+
+msgid "Ex. Romantic beach getaway, perfect for honeymooners"
+msgstr "Ex: Casa do Alegro ou Pensão Bom Sono"
+
+msgid "Describe your place"
+msgstr "Décrivez votre hébergement"
+
+msgid "Why should a guest choose to stay at your property?"
+msgstr "Pourquoi un client devrait-il choisir de rester dans son logement?"
+
+msgid "describeYourPlace"
+msgstr "Ex: * 5 minutes à pied des transports en commun * Conviviale et familiale * Grand espace ouvert, avec une vue imprenable et une lumière naturelle"
+
+msgid "Local Attractions"
+msgstr "Attractions Locales"
+
+msgid "What popular attractions, restaurants, or activities can be found nearby?"
+msgstr "Quelles attractions populaires, restaurants ou activités peuvent être trouvés à proximité?"
+
+msgid "thingsNearby"
+msgstr "Ex: * 5 minutes en voiture d'une attraction populaire * 10 minutes à pied de la salle à manger populaire * 5 minutes à pied des bars locaux"
+
+msgid "House rules"
+msgstr "Règles de la maison"
+
+msgid "Let guests know what rules they should follow when staying at your property."
+msgstr "Informez vos invités des règles à respecter lors de votre séjour dans votre logement."
+
+msgid "houseRules"
+msgstr "Ex: * Aucune fête ou réunion de groupe * heures calmes après 23:00 * L'élimination des déchets ne doit pas être utilisée"
+
+msgid "When arriving, how can guests get to your property? (Optional)"
+msgstr "À votre arrivée, comment les invités peuvent-ils arriver à votre hébergement? (Optionnel)"
+
+msgid "It is important to make it very clear for guests. Many times, this is a brand new place to them and getting lost is a frustrating way to start their trip. We’ll automatically send these instructions to guests once the booking is confirmed, but don’t hesitate to reach out again!"
+msgstr "Il est important que cela soit très clair pour les invités. La plupart du temps, il s'agit d'être un nouvel endroit et se perdre tôt est une façon frustrante de commencer le voyage. Nous enverrons automatiquement ces instructions aux clients une fois la réservation confirmée, mais n'hésitez pas à les contacter à nouveau."
+
+msgid "howToGetThere"
+msgstr "Ex: * Prendre un taxi de l’aéroport à la [destination] (de l’aéroport à la ville) * Envoyez-moi un message lorsque vous arrivez à [destination] (instruction personnelle)"
+
+msgid "Guest Policy"
+msgstr "Politique d'invité"
+
+msgid "Specify the exact timing your guests can show up and must leave your property"
+msgstr "Spécifiez l'heure exacte à laquelle vos invités peuvent apparaître et doivent quitter votre hébergement."
+
+msgid "Check-in after"
+msgstr "Enregistrement à partir de"
+
+msgid "Check-out before"
+msgstr "Départ jusqu'à"
+
+msgid "Star rating"
+msgstr "Évaluation étoilée"
+
+msgid "Give your home a rating to help set expectations for travelers stay."
+msgstr "Donnez à votre hébergement une note honnête pour aider à définir les attentes des clients."
+
+msgid "Poor"
+msgstr "Pauvre"
+
+msgid "Fair"
+msgstr "Juste"
+
+msgid "Good"
+msgstr "Bien"
+
+msgid "Excellent"
+msgstr "Excellent"
+
+msgid "WOW!!!"
+msgstr "SENSATIONNEL!!!"
+
+
+
+
+::AMENITIES TAB::
+
+msgid "All the little things (and big things) you provide."
+msgstr "Toutes les petites et grandes choses que vous fournirez"
+
+msgid "What comes with your"
+msgstr "Ce qui vient avec votre"
+
+msgid "Top Amenities"
+msgstr "Caractéristiques Principales"
+
+msgid "Guests often look for these when booking properties."
+msgstr "Les clients recherchent généralement les commodités ci-dessous lors de la réservation d'un hébergement."
+
+msgid "Parking & Transportation"
+msgstr "Parking et Transport"
+
+msgid "How would your guests get around the city?"
+msgstr "Comment vos invités vont-ils se déplacer dans la ville?"
+
+msgid "Guest Services"
+msgstr "Services à la Invité"
+
+msgid "What type of services are your guests going to have at their disposal?"
+msgstr "Quels types de services vos invités auront-ils à leur disposition?"
+
+msgid "Accessibility"
+msgstr "Accessibilité"
+
+msgid "What would your guests find helpful and convenient in your stay?"
+msgstr "Qu'est-ce que vos invités vont trouver utile et pratique pendant votre séjour?"
+
+msgid "Facilities"
+msgstr "Installations"
+
+msgid "What your guests are looking for and might increase the chances of you getting more bookings?"
+msgstr "Les commodités ci-dessous peuvent augmenter les chances que votre hébergement soit demandé plus souvent"
+
+msgid "Activities & Entertainment"
+msgstr "Activités et Divertissement"
+
+msgid "How would your guests spend their time while at your property?"
+msgstr "Comment vos invités vont-ils passer du temps dans votre hébergement?"
+
+msgid "Food & Drink"
+msgstr "Nourriture et Boisson"
+
+msgid "How would your guests feed themselves?"
+msgstr "Comment vos invités seront-ils nourris?"
+
+msgid "Kitchen & Dining"
+msgstr "Cuisine et Dîner"
+
+msgid "What type of items will the kitchen be equipped with?"
+msgstr "Avec quels types d'objets votre cuisine sera-t-elle équipée?"
+
+msgid "Media/Technology"
+msgstr "Média/Technologie"
+
+msgid "What type of technologies would your provide to your guests?"
+msgstr "Quel type de technologies allez-vous fournir à vos invités?"
+
+msgid "Meetings & Events"
+msgstr "Réunions et Événements"
+
+msgid "Will your guests benefit from any of the options below?"
+msgstr "Vos invités bénéficieront-ils des options ci-dessous?"
+
+msgid "Essentials"
+msgstr "Essentiel"
+
+msgid "All Must-Haves"
+msgstr "Tous les objets indispensables"
+
+msgid "Pools & Wellness"
+msgstr "Piscines et Bien-être"
+
+msgid "Guests like to take care of themselves"
+msgstr "Les invités aiment prendre soin d'eux-mêmes"
+
+
+
+
+::AMENITIES::
+
+msgid "Free WIFI"
+msgstr "WIFI Gratuit"
+
+msgid "Spa"
+msgstr "Spa"
+
+msgid "Gym"
+msgstr "Gym"
+
+msgid "Business Center"
+msgstr "Centre d'Affaires"
+
+msgid "Restaurant"
+msgstr "Restaurant"
+
+msgid "Non-smoking Rooms"
+msgstr "Chambres Fumeurs"
+
+msgid "Free Parking"
+msgstr "Parking Gratuit"
+
+msgid "Airport Shuttle"
+msgstr "Navette Aéroport"
+
+msgid "Room Service"
+msgstr "Service de Chambre"
+
+msgid "Elevator/Lift"
+msgstr "Ascenseur"
+
+msgid "On-site Parking"
+msgstr "Parking sur place"
+
+msgid "Private Parking"
+msgstr "Parking Privé"
+
+msgid "Car Rental"
+msgstr "Location de Voiture"
+
+msgid "Valet Parking"
+msgstr "Service de Voiturier"
+
+msgid "Parking"
+msgstr "Parking"
+
+msgid "Shuttle Service (Surcharge)"
+msgstr "Service de Navette (Supplément)"
+
+msgid "Personal Driver"
+msgstr "Pilote Personnel"
+
+msgid "Bikes Available (Free)"
+msgstr "Vélos Disponibles (Gratuit)"
+
+msgid "Safe"
+msgstr "Coffre"
+
+msgid "Concierge Service"
+msgstr "Service de Conciergerie"
+
+msgid "Private Check-in/Check-out"
+msgstr "Enregistrement/Départ Privé"
+
+msgid "Laundry Service"
+msgstr "Service de Blanchisserie"
+
+msgid "Atm/Cash Machine on Site"
+msgstr "ATM/MultiCaixa sur site"
+
+msgid "Express Check-in/Check-out"
+msgstr "Enregistrement/Départ Express"
+
+msgid "Trouser/Suit Press"
+msgstr "Presse Pantalon/Costume"
+
+msgid "Daily Maid Service"
+msgstr "Service de Ménage Quotidien"
+
+msgid "Babysitting/Child Services"
+msgstr "Garde d'Enfants"
+
+msgid "Baggage Storage"
+msgstr "Magasin de Bagages"
+
+msgid "Fax/Photocopying"
+msgstr "Fax/Photocopies"
+
+msgid "Currency Exchange"
+msgstr "Bureau de Change"
+
+msgid "Lockers"
+msgstr "Casiers"
+
+msgid "24-hour Front Desk"
+msgstr "Réception Ouverte 24h/24"
+
+msgid "Newspapers"
+msgstr "Journaux"
+
+msgid "Ironing Service"
+msgstr "Service de Repassage"
+
+msgid "Tour Desk"
+msgstr "Bureau d'Excursions"
+
+msgid "Hair Dryer"
+msgstr "Sèche-Cheveux"
+
+msgid "Minibar"
+msgstr "Mini-Bar"
+
+msgid "Breakfast Included"
+msgstr "Petit Déjeuner inclus"
+
+msgid "Alarm Clock"
+msgstr "Alarm Clock"
+
+msgid "Stereo"
+msgstr "Stéréo"
+
+msgid "Toilet"
+msgstr "Salle de bains"
+
+msgid "Bathroom"
+msgstr "Salle de bains"
+
+msgid "Balcony"
+msgstr "Balcon"
+
+msgid "Hot tub"
+msgstr "Jacuzzi"
+
+msgid "Air conditioning"
+msgstr "Climatisation"
+
+msgid "Sofa"
+msgstr "Canapé"
+
+msgid "Shower"
+msgstr "Douche"
+
+msgid "Bathtub"
+msgstr "Baignoire"
+
+msgid "Soundproofing"
+msgstr "Insonorisation"
+
+msgid "Towels"
+msgstr "Serviettes"
+
+msgid "Chairs"
+msgstr "Chaises"
+
+msgid "Desk"
+msgstr "Bureau"
+
+msgid "Bed Linen"
+msgstr "Linge de Lit"
+
+msgid "Boiler"
+msgstr "Chaudière"
+
+msgid "Heating"
+msgstr "Chauffage"
+
+msgid "Emergency Exit"
+msgstr "Sortie d'Urgence"
+
+msgid "Wheelchair accessible"
+msgstr "Accessible aux fauteuils roulants"
+
+msgid "Fire Extinguisher"
+msgstr "Extincteur d'Incendie"
+
+msgid "Smoke Detector"
+msgstr "Détecteur de Fumée"
+
+msgid "First aid kit"
+msgstr "Trousse de premiers secours"
+
+msgid "Buzzer/wireless intercom"
+msgstr "Buzzer/Interphone sans fil"
+
+msgid "Doorman"
+msgstr "Portier"
+
+msgid "Terrace"
+msgstr "Terrasse"
+
+msgid "Sun Terrace/Deck"
+msgstr "Terrasse Ensoleillée"
+
+msgid "Family Rooms"
+msgstr "Chambres Familiales"
+
+msgid "Grounds/Garden"
+msgstr "Terrain/Jardin"
+
+msgid "Designated Smoking Area"
+msgstr "Espace fumeur"
+
+msgid "Bbq Facilities"
+msgstr "Installations de Barbecue"
+
+msgid "Hair/Beauty Salon/Barber"
+msgstr "Salon de Beauté/Coiffeur"
+
+msgid "Shops/Stores (on Site)"
+msgstr "Boutiques/Magasins (sur le site)"
+
+msgid "Windsurfing"
+msgstr "Planche à Voile"
+
+msgid "Game Room"
+msgstr "Salle de Jeux"
+
+msgid "Cycling"
+msgstr "Cyclisme"
+
+msgid "Canoeing"
+msgstr "Canoë"
+
+msgid "Evening Entertainment"
+msgstr "Animations en Soirée"
+
+msgid "Bicycle Rental"
+msgstr "Location de Vélos"
+
+msgid "Fishing"
+msgstr "Pêche"
+
+msgid "Water sports (on site)"
+msgstr "Sports Nautiques (sur place)"
+
+msgid "Entertainment Staff"
+msgstr "Équipe d'Animation"
+
+msgid "Hiking"
+msgstr "Randonnée"
+
+msgid "Nightclub/DJ"
+msgstr "Discothèque/DJ"
+
+msgid "Diving"
+msgstr "Plongée"
+
+msgid "Karaoke"
+msgstr "Karaoké"
+
+msgid "Cyber Cafe"
+msgstr "Cybercafé"
+
+msgid "Library"
+msgstr "Bibliothèque"
+
+msgid "Football Pitch"
+msgstr "Terrain de Football"
+
+msgid "Basketball Court"
+msgstr "Terrain de Basketball"
+
+msgid "Tennis Court"
+msgstr "Court de Tennis"
+
+msgid "Golf Resort"
+msgstr "Golf Resort"
+
+msgid "Gentlemens Club"
+msgstr "Gentlemen´s Club"
+
+msgid "Amusement Park"
+msgstr "Parc d'Attractions"
+
+msgid "Zoologic"
+msgstr "Zoologic"
+
+msgid "Pub"
+msgstr "Pub"
+
+msgid "Bowling Center"
+msgstr "Centre de Bowling"
+
+msgid "Paintball Center"
+msgstr "Centre de Paintball"
+
+msgid "Cinema"
+msgstr "Cinéma"
+
+msgid "Shopping Mall"
+msgstr "Centre Commercial"
+
+msgid "Bar"
+msgstr "Bar"
+
+msgid "Diet Meals (upon Request)"
+msgstr "Repas Diététiques (sur demande)"
+
+msgid "Shared Kitchen"
+msgstr "Cuisine Commune"
+
+msgid "Packed Lunches"
+msgstr "Repas Emballés"
+
+msgid "Snack Bar"
+msgstr "Snack Bar"
+
+msgid "Breakfast in the Room"
+msgstr "Petit déjeuner en chambre"
+
+msgid "Grocery Deliveries"
+msgstr "Livraison d'Épicerie"
+
+msgid "Kitchenette"
+msgstr "Kitchenette"
+
+msgid "Microwave"
+msgstr "Micro-Onde"
+
+msgid "Dining Room"
+msgstr "Salle à Manger"
+
+msgid "Refrigerator"
+msgstr "Réfrigérateur"
+
+msgid "Cook"
+msgstr "Poêle"
+
+msgid "Oven"
+msgstr "Four"
+
+msgid "Dishwasher"
+msgstr "Lave-Vaisselle"
+
+msgid "Minibar"
+msgstr "Mini-Bar"
+
+msgid "Fridge/Freezer"
+msgstr "Frigo/Congélateur"
+
+msgid "Electric kettle"
+msgstr "Bouilloire Électrique"
+
+msgid "Coffee Maker"
+msgstr "Machine à Café"
+
+msgid "Shared Lounge/TV Area"
+msgstr "Salon Partagé/Zone de Télévision"
+
+msgid "Internet Services"
+msgstr "Services Internet"
+
+msgid "WIFI Available in All Areas"
+msgstr "WIFI disponible dans toutes les zones"
+
+msgid "Free Internet Available"
+msgstr "Internet Gratuit Disponible"
+
+msgid "Free Internet Access"
+msgstr "Accès Internet Gratuit"
+
+msgid "Hybrid Charging Station"
+msgstr "Station de Charge Hybride"
+
+msgid "TV"
+msgstr "TV"
+
+msgid "Flat-screen TV"
+msgstr "Flat-screen TV"
+
+msgid "Smart TV"
+msgstr "Smart TV"
+
+msgid "Cable TV"
+msgstr "Télévision par Câble"
+
+msgid "Vip Room"
+msgstr "Salle VIP"
+
+msgid "Honeymoon Suite"
+msgstr "Suite Lune de Miel"
+
+msgid "Meeting/Banquet"
+msgstr "Réunion/Banquet"
+
+msgid "Iron"
+msgstr "Fer"
+
+msgid "Ironing Board"
+msgstr "Planche a Repasser"
+
+msgid "Laundry"
+msgstr "Blanchisserie"
+
+msgid "Washing Machine"
+msgstr "Machine à Laver"
+
+msgid "Massage"
+msgstr "Massage"
+
+msgid "Sauna"
+msgstr "Piscine"
+
+msgid "Turkish Bath/Steam Bath"
+msgstr "Bain Turc/Bain de Vapeur"
+
+
+
+::PRICING TAB::
+
+msgid "Set your prices."
+msgstr "Fixez vos prix"
+
+msgid "Choose your nightly room rates based on guests and other conditions."
+msgstr "Choisissez vos tarifs de nuit en fonction des invités et d'autres aspects."
+
+msgid "Base rates"
+msgstr "Les tarifs"
+
+msgid "We recommend you start off with a lower price to encourage bookings and help you gather reviews. Once your property is published, you can change your price in response to demand, set special rates for specific days and add additional fees."
+msgstr "Nous vous recommandons de commencer avec un prix inférieur pour encourager les réservations et vous aider à recevoir des commentaires. Une fois votre hébergement publié, vous pouvez modifier votre prix en réponse à la demande, définir des tarifs spéciaux pour des jours spécifiques et ajouter des frais supplémentaires."
+
+msgid "can accommodate up to"
+msgstr "peut accueillir jusqu'à"
+
+msgid "person"
+msgstr "personne"
+
+msgid "people"
+msgstr "gens"
+ 
+msgid "Rate per night for"
+msgstr "Prix par nuit"
+
+msgid "if guests decide to stay longer, a new rate will be applied"
+msgstr "Si vous décidez de rester plus de (x) jours, un nouveau taux vous sera facturé."
+
+msgid "DAYS"
+msgstr "JOURNÉES"
+
+msgid "guest"
+msgstr "invité"
+
+msgid "guests"
+msgstr "invités"
+
+msgid "Guest"
+msgstr "Invité"
+
+msgid "Guests"
+msgstr "Invités"
+
+msgid "Alegro Boost"
+msgstr "Alegro Booster"
+
+msgid "Alegro charges"
+msgstr "Alegro charge"
+
+msgid "from every generated booking. what if you could have your property always at the top of the results page of a given location? With Alegro boosting feature your property stands out from the crowd and youre more likely to get new bookings in as your property will appear at the top of the results page with a sponsored tag. In order to enter the boosting program, you must increase Alegros percentage fee from"
+msgstr "de chaque réserve générée. Si vous pouviez toujours avoir votre hébergement en haut de la page de résultats d'un lieu particulier, en tireriez-vous profit? Avec la fonction Alegro Booster, votre hébergement se démarquera de la foule et vous aurez plus de chances de recevoir de nouvelles réservations plus souvent, car votre message apparaîtra en haut de la page de résultats avec un tag sponsorisé. Pour entrer dans le programme de boost, vous devez augmenter le pourcentage d'Alegro de"
+
+msgid "to a higher percentage."
+msgstr "à un pourcentage plus élevé."
+
+msgid "Apply new Alegro percentage fee for your bookings"
+msgstr "Appliquer de nouveaux frais en pourcentage Alegro pour mes réservations"
+
+msgid "Must be greater than"
+msgstr "Doit être supérieur à"
+
+msgid "Payout method"
+msgstr "Mode de Paiement"
+
+msgid "Unfortunately, Alegro can only support bank transfer as the main payout method. Additional information will be requested once published on Alegro. [Important Note] For security, your first payout will be 30 days from your first bookings check-out date. For any future bookings, payouts will occur 24 hours after traveler check-out date."
+msgstr "Alegro ne prend en charge que le virement bancaire comme moyen de paiement principal pour le moment. [Remarque importante] Pour des raisons de sécurité, vos paiements ne seront transférés que lorsque nous aurons une confirmation des deux parties. En d'autres termes, les invités doivent être marqués "Show" par votre hébergement et les mêmes invités doivent également confirmer qu'ils sont déjà enregistrés dans votre hébergement."
+
+msgid "Bank Transfer"
+msgstr "Virement Bancaire"
+
+msgid "Using our secure payment system, we will send your payments directly to your bank account after guests depart."
+msgstr "En utilisant notre système de paiement sécurisé, nous enverrons vos paiements directement sur votre compte bancaire après le départ des invités."
+
+
+
+::AVAILABILITY TAB::
+
+msgid "Declare the availability of your"
+msgstr "Indiquez la disponibilité de votre"
+
+msgid "Define the minimum, maximum stays, advance booking options and more."
+msgstr "Définissez des séjours minimum et maximum, des options de réservation anticipée et plus encore."
+
+msgid "Reservation Requests"
+msgstr "Demande de réservation"
+
+msgid "Allow guests to book instantly"
+msgstr "Autoriser les invités à réserver immédiatement"
+
+msgid "Guests can book"
+msgstr "Les invités peuvent réserver"
+
+msgid "without sending a reservation request."
+msgstr "sans soumettre de demande de réservation."
+
+msgid "Require reservation requests"
+msgstr "Exiger des demandes de réservation"
+ 
+msgid "Guests wishing to book"
+msgstr "Les invités souhaitant réserver le"
+
+msgid "must send a reservation request. I understand that this may reduce the number of bookings I receive."
+msgstr "devrait envoyer une demande de réservation. Je comprends que cela peut réduire le nombre de réservations que je recevrai."
+
+msgid "How many days into the future can guests book"
+msgstr "Combien de temps les invités peuvent-ils réserver"
+
+msgid "1 year"
+msgstr "1 année"
+
+msgid "6 months"
+msgstr "6 mois"
+
+msgid "3 months"
+msgstr "3 mois"
+
+msgid "Length of stay"
+msgstr "Durée du Séjour"
+
+msgid "Minimum nights per stay"
+msgstr "Nuits minimum par séjour"
+
+msgid "Maximum nights per stay"
+msgstr "Nombre maximum de nuits par séjour"
+
+msgid "No maximum nights per stay"
+msgstr "Il n'y a pas de nuits maximum par séjour"
+
+msgid "Blocked Dates"
+msgstr "Dates Bloquées"
+ 
+msgid "is available for booking on any day."
+msgstr "est disponible à la réservation tous les jours."
+
+msgid "is unavailable for booking on certain days."
+msgstr "n'est pas disponible à la réservation certains jours."
+
+msgid "Click on a date to block it out on your calendar. Guests will not be able to book on days that have been blocked out. You can add or remove blocked days after your listing is published."
+msgstr "Cliquez sur une date pour la verrouiller dans votre calendrier. Les invités ne pourront pas réserver les jours bloqués. Vous pouvez ajouter ou supprimer des jours bloqués après la publication de votre hébergement."
+
+msgid "Cancellation Policy"
+msgstr "Politique d'Annulation"
+
+msgid "Flexible"
+msgstr "Flexible"
+
+msgid "Guests can cancel up to 1 day prior to check-in for a 100% refund. In case of a no show, you will receive 100% of the booking price."
+msgstr "Les invités peuvent annuler à tout moment avant l'enregistrement pour un remboursement à 100%. En cas de No-Show, votre hébergement remboursera l'intégralité du prix de la réservation aux clients respectifs via Alegro."
+
+msgid "Moderate"
+msgstr "Modéré"
+
+msgid "Guests can cancel up to 5 days prior to check-in for a 100% refund. In case of a no show, you will receive 100% of the booking price."
+msgstr "Les invités peuvent annuler jusqu'à 3 jours avant l'enregistrement pour un remboursement à 100%. En cas de No-Show, votre hébergement recevra 100% du prix total de la réservation, sans le pourcentage de pourcentage d'Alegro."
+
+msgid "Strict"
+msgstr "Rigide"
+
+msgid "Guests can cancel up to 7 days prior to check-in for a 50% refund. In case of a no show, you will receive 100% of the booking price."
+msgstr "Les invités peuvent annuler mais ne pourront prétendre à aucun remboursement. En cas de No-Show, votre hébergement recevra 100% du prix total de la réservation, sans le pourcentage de pourcentage d'Alegro."
+
+
+
+::PHOTOS TAB::
+
+msgid "Upload pictures of your"
+msgstr "Envoyez des photos de votre"
+
+msgid "Pictures matter to travelers. Upload as many high-quality images as you have. You can add more later. Want some tips on how to upload quality photos that generate more bookings?"
+msgstr "Les images sont importantes pour les invités. Envoyez combien de photos de haute qualité vous avez. Vous pouvez l'ajouter plus tard. Vous voulez des astuces pour envoyer des photos de qualité qui génèrent plus de réservations?"
+
+msgid "* Tips: Min. 800x600 px — Best 2048x1536 px"
+msgstr "* Astuces: Min. 800x600 px - Meilleur 2048x1536 px"
+
+msgid "Drag and drop your pics here"
+msgstr "Glissez et déposez vos photos ici"
+
+msgid "Click to select file"
+msgstr "Cliquez pour choisir votre photo"
+
+msgid ".jpg & .png only — max. 10 MB"
+msgstr ".jpeg, .jpg, .png et .gif seulement - max. 10 Mo"
+
+msgid "Set as main photo"
+msgstr "Définir comme photo principale"
+
+msgid "Delete this photo"
+msgstr "Supprimer cette photo"
+
+msgid "Main Image"
+msgstr "Image principale"
+
+
+
+::PROFILE TAB::
+
+msgid "Tell us who you are"
+msgstr "Dites nous qui vous êtes"
+
+msgid "Please provide your full legal name here for your contract with Alegro. If additional information is needed to list your property, we will contact you."
+msgstr "Veuillez nous fournir votre nom complet légal pour votre contrat avec Alegro. Nous vous contacterons si des informations supplémentaires sont nécessaires pour publier votre hébergement."
+
+msgid "Add/Change profile photo (optional)"
+msgstr "Ajouter/modifier une photo de profil (facultatif)"
+
+msgid "Put a face to your name! We will add this to your profile, and share it with future hosts and guests."
+msgstr "Mettez un visage à son nom! Nous ajouterons à votre profil et le partagerons avec vos futurs invités."
+
+msgid "Your picture matters. Pick a clear and friendly-looking one, to increase bookings."
+msgstr "Votre image est importante Choisissez une image claire et conviviale pour augmenter le flux de vos réservations."
+
+msgid "ADD/CHANGE PROFILE PHOTO"
+msgstr "AJOUTER/CHANGER UNE PHOTO"
+ 
+msgid "Main Info"
+msgstr "Informations Principales"
+
+msgid "First Name"
+msgstr "Prénom"
+
+msgid "Last Name"
+msgstr "Nom de Famille"
+
+msgid "Language Preference"
+msgstr "Préférence de Langue"
+
+msgid "Your Location"
+msgstr "Ton Emplacement"
+
+msgid "Your Contact"
+msgstr "Ton Contact"
+
+msgid "Country Code"
+msgstr "Code de Composition"
+
+msgid "Phone Number"
+msgstr "Numéro de Téléphone"
+
+msgid "Bank Account"
+msgstr "Compte Bancaire"
+
+msgid "Bank Name"
+msgstr "Nom de la Banque"
+
+msgid "Describe Yourself"
+msgstr "Décrivez-vous"
+
+
+
+::PUBLISH TAB::
+
+msgid "Sign your contract and lets get bookings"
+msgstr "Signer votre contrat et permet d'obtenir des réservations"
+
+msgid "Just a few more details"
+msgstr "Juste quelques détails supplémentaires"
+
+msgid "Know your local laws, regulations and taxes"
+msgstr "Connaissez vos lois, réglementations et taxes locales"
+
+msgid "It is your responsibility to review local laws and taxes."
+msgstr "Il est de votre responsabilité de vérifier les lois et les taxes locales."
+
+msgid "Be aware of your local regulations, laws and tax obligations before you take bookings. Many countries and a number of cities have specific laws regarding using your property as a short term rental, for home sharing and/or for professional hosting. It is your responsibility to work within your own countrys legal framework which may include obtaining the relevant license, permit or registration before taking bookings and paying any applicable taxes on any income you generate from such bookings."
+msgstr "Soyez conscient de la réglementation, des lois et des obligations fiscales locales avant de prendre des réservations. De nombreux pays et plusieurs villes ont des lois spécifiques concernant l'utilisation de votre propriété comme location à court terme, pour le partage de la maison et / ou pour l'hébergement professionnel. Il est de votre responsabilité de travailler dans le cadre juridique de votre pays, ce qui peut inclure l’obtention de la licence, du permis ou de l’enregistrement correspondant avant de prendre des réservations et de payer les taxes applicables sur tout revenu que vous tirez de ces réservations."
+
+msgid "Accept the terms and conditions and youre good to go"
+msgstr "Acceptez les termes et conditions et vous êtes prêt à partir"
+
+msgid "I accept Alegros terms and conditions and certify that I will follow all applicable laws and regulations"
+msgstr "J'accepte les termes et conditions d'Alegro et certifie que je suivrai toutes les lois et tous les règlements applicables"
+
+
+
+::FOOTER::
+
+msgid "ALEGRO is part of Alegro Holdings, LDA. Your first choice for online travel & related services."
+msgstr "Alegro fait partie de Alegro Holdings, LDA. Votre premier choix pour les voyages en ligne et les services associés en Angola"
+
+msgid "copyright"
+msgstr "© Alegro. Tous droits réservés."
+
+msgid "Privacy Policy"
+msgstr "Confidentialité"
+
+msgid "Cookies Policy"
+msgstr "Cookies"
+
+msgid "Terms of Use"
+msgstr "Conditions"
+
+msgid "FAQ"
+msgstr "Assistance"
+
+msgid "Aboutio"
+msgstr "L'entreprise"
+
+msgid "Lets Talk"
+msgstr "Parlons"
+
+msgid "Jobs"
+msgstr "Emplois"
+
+msgid "Investors"
+msgstr "Investisseurs"
+
+msgid "Site Map"
+msgstr "Plan du Site"
+
+msgid "SERVICES"
+msgstr "SERVICES"
+
+msgid "Add Property"
+msgstr "Publier Hébergement"
+
+msgid "Advertising"
+msgstr "Publicité"
+
+msgid "Go Mobile"
+msgstr "Télécharger l'Application"
+
+msgid "MORE"
+msgstr "PARTENAIRES"
+
+msgid "Properties"
+msgstr "Hébergement"
+
+msgid "Partners"
+msgstr "Partenaires"
+
+msgid "Press"
+msgstr "Presse"
+
+msgid "SITE/CURRENCY"
+msgstr "AUTRES"

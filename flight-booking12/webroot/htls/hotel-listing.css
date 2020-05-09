@@ -1,0 +1,153 @@
+body {
+    overflow-x: hidden;
+}
+
+h1 {
+    font-size: 60px;
+    font-weight: bold;
+}
+
+h3 {
+    font-size: 18px;
+}
+.hotel-lsting {
+    border: solid rgba(0,0,0,.1) 1px;
+    background: #fff;
+    width: 100%;
+    float: left;
+    margin-bottom: 22px;
+}
+.hotel-lsting-left {
+    float: left;
+    width: 203px;
+    height: 191px;
+    padding: 10px 9px;
+    margin-bottom: 11px;
+    overflow: hidden;
+}
+.hotel-lsting-left img {
+    min-width: 100%;
+    min-height: 100%;
+}
+.rating {
+    font-size: 10px;
+    color: #f9d749;
+}
+.hotel-lsting-middle i.fa.fa-thumbs-up {
+    background: #f9d749;
+    padding: 5px 5px;
+    font-size: 12px;
+    color: #fff;
+    border-radius: 2px;
+}
+.hotel-lsting-middle {
+    float: left;
+    padding-left: 27px;
+}
+.hotel-lsting-middle h3 {
+    color: #000000;
+    font-size: 18px;
+    padding: 10px 10px;
+}
+.hotel-lsting-middle h5 {
+    font-size: 12px;
+    width: 29%;
+    text-align: center;
+    padding: 6px 6px;
+    border-radius: 2px;
+    font-weight: 600;
+    color: #000000;
+    float: left;
+    margin-left: 11px;
+    margin-right: 9px;
+    text-transform: uppercase;
+    background: #f9d749;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.hotel-lsting-middle a{
+	color: #000;
+	text-decoration: none;
+}
+.hotel-lsting-middle a:hover {
+    color: #000;
+    text-decoration: none;
+}
+.hotel-lsting-middle h6 {
+    color: #a8a8bc;
+    font-size: 15px;
+    padding-bottom: 29px;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.hotel-lsting-middle span {
+    color: #818283;
+    font-size: 14px;
+    text-decoration: underline;
+    float: left;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0 10px;
+}
+.hotel-lsting-middle p {
+    font-size: 15px;
+    color: #a8a8bc;
+    padding: 0 11px;
+}
+.hotel-lsting-middle p span {
+	display: block;
+}
+.hotel-lsting-right{
+	float: right;
+}
+.hotel-lsting-right h6 {
+    color: #a8a8bc;
+    font-size: 15px;
+    text-decoration: none;
+    padding: 14px 8px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.hotel-lsting-right h5 {
+    color: #3e3d3d;
+    font-size: 17px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    padding: 30px 0px 0px 8px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.hotel-lsting-right h4 {
+    color: #b5b5b5;
+    font-size: 17px;
+    text-align: center;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.hotel-lsting-right span {
+    background: #000;
+    border-radius: 3px;
+    color: #ffffff;
+    font-size: 14px;
+    font-weight: bold;
+    margin-left: 11px;
+    padding: 4px 5px;
+}
+.check-availability {
+    color: #101010;
+    background: #f9d749;
+    padding: 8px 13px;
+    margin-top: 38px;
+}
+.check-availability a {
+    color: #000;
+    font-size: 15px;
+    text-decoration: none;
+    font-weight: normal !important;
+}
+.check-availability a:hover {
+    color: #000;
+    font-size: 15px;
+    text-decoration: none;
+
+}
+.m-right-25 img {
+    width: 50px;
+}
